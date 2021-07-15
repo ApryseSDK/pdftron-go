@@ -1,0 +1,22 @@
+
+-----------------------------------------------------------------------------------------------------
+Library files:
+-----------------------------------------------------------------------------------------------------
+
+PDFNetC.dll                 Dynamic link library on Windows platforms.
+
+libPDFNetC.so               Dynamic link library on Linux platforms.
+
+libPDFNetC.dylib            Dynamic link library on macOS platforms.
+
+PDFNetC.lib                 Stub library for linking with the DLL on Windows platforms.
+
+PDFNet.jar                  Java interface library.
+
+PDFTronDotNet.dll           Cross-platform .NET Core interface library
+
+html2pdf.dll/.so/.dylib     Dynamic link library of html2pdf module on Windows/Linux/macOS platforms.
+
+pdftron.dll					Dynamic link library of pdftron-go on Windows platforms.
+
+-----------------------------------------------------------------------------------------------------

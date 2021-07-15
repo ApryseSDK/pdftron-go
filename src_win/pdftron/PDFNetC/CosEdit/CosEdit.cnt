@@ -1,0 +1,36 @@
+:Base CosEdit.hlp
+
+1 Getting started with pdfTron CosEdit=main_index
+1 Mapping CosEdit user interface elements to PDF file structure=cos2gui
+1 Options and Customizations=menu_options
+1 Toolbar and Menus
+2 File menu=menu_file
+2 Edit menu=menu_edit
+2 Options menu=menu_options
+2 Window menu=menu_window
+2 Help menu=menu_help
+
+1 How to...
+2 What is PDF?=what_pdf
+2 What is Cos?=what_cos
+2 How to create a new document?=how_new_doc
+2 How to modify document's meta-information?=how_edit_info
+2 How to modify document's security settings?=how_edit_secure
+2 How to edit a link (indirect reference)?=how_edit_link
+2 How to replace an indirect object?=how_replace_indirect
+2 How to modify all indirect references to a given indirect object?=how_replace_indirect
+2 How to select a different stream data viewer?=how_stm_viewer
+2 How to extract stream data?=how_stm_extract
+2 What is incremental save?=what_incr
+2 How to save a file with a header different from %PDF-1.4?=how_save_header
+2 How to copy an object?=how_copy_obj
+2 How to import objects from another document?=how_copy_obj
+2 How to copy a page between PDF documents?=how_copy_page
+2 How to extract images from a PDF document?=how_img_extract
+2 How to embed a file within a document?=how_embed_file
+2 How to edit a content stream?=how_edit_content
+
+
+1 About
+2 Contact info=contact
+2 License Agreement=license
