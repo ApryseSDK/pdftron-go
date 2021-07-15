@@ -55,6 +55,8 @@ Steps to run PDFTronGo for Windows
 7. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\src_win go\src
 8. cd %HOMEPATH%\go\src\pdftron\Samples\AddImageTest\GO and call RunTest.bat
 
+<hr/>
+
 Output file will be in $HOME/go/src/pdftron/Samples/TestFiles/Output
 
 Bin file will be in $HOME/go/src/pdftron/Samples/bin
