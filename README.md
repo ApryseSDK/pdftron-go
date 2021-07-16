@@ -15,12 +15,9 @@
 
 <hr/>
 
-
-# Requirements
-
 # Supported platforms: Linux , Mac, Windows <br/>
 
-Environments and versions: <br/>
+<strong>Environments and versions:</strong> <br/>
 - <strong>Go </strong>1.15 <br/>
 - <strong>Git</strong><br/>
 
