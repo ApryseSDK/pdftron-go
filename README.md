@@ -15,7 +15,19 @@
 
 <hr/>
 
-Supported platforms: Linux , Mac, Windows
+
+# Requirements
+
+Supported platforms: Linux , Mac, Windows<br/>
+
+Environments and versions: <br/>
+Go 1.15 <br/>
+Git<br/>
+
+For Windows you will need mingw-64: <br/>
+http://mingw-w64.org/doku.php/download/mingw-builds <br/>
+Make sure to choose x86_64 architecture during installation. <br/>
+
 
 # Running PDFTronGo from Linux
 
