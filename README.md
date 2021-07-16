@@ -48,21 +48,11 @@ Make sure to choose x86_64 architecture during installation. <br/>
 
 # Running PDFTronGo from Windows 
 
-Prerequisites:
-1. Github
-2. Go 1.15:
-   https://golang.org/doc/install?download=go1.15.11.windows-amd64.msi.
-3. mingw-64 :
-   http://mingw-w64.org/doku.php/download/mingw-builds.
-   Make sure to choose x86_64 architecture during installation.
-
-Steps to run PDFTronGo for Windows 
-
-4. Run mingw-w64.bat from "C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0" to open command prompt
-5. cd %HOMEPATH%
-6. go get github.com/PDFTron/pdftron-go
-7. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\src_win go\src
-8. cd %HOMEPATH%\go\src\pdftron\Samples\AddImageTest\GO and call RunTest.bat
+1. Run mingw-w64.bat from "C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0" to open command prompt
+2. cd %HOMEPATH%
+3. go get github.com/PDFTron/pdftron-go
+4. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\src_win go\src
+5. cd %HOMEPATH%\go\src\pdftron\Samples\AddImageTest\GO and call RunTest.bat
 
 <hr/>
 
