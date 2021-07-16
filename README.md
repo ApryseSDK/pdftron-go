@@ -18,7 +18,7 @@
 
 # Requirements
 
-#Supported platforms: Linux , Mac, Windows <br/>
+# Supported platforms: Linux , Mac, Windows <br/>
 
 Environments and versions: <br/>
 - <strong>Go </strong>1.15 <br/>
