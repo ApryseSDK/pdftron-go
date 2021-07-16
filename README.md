@@ -18,13 +18,13 @@
 
 # Requirements
 
-Supported platforms: Linux , Mac, Windows <br/>
+#Supported platforms: Linux , Mac, Windows <br/>
 
 Environments and versions: <br/>
 - <strong>Go </strong>1.15 <br/>
 - <strong>Git</strong><br/>
 
-For Windows, you will need mingw-64: <br/>
+For Windows, you will need <strong>mingw-64</strong>: <br/>
 http://mingw-w64.org/doku.php/download/mingw-builds <br/>
 Make sure to choose x86_64 architecture during installation. <br/>
 
