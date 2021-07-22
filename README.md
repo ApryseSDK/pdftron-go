@@ -30,9 +30,10 @@ Make sure to choose x86_64 architecture during installation. <br/>
 
 1. cd $HOME/go 
 2. go get github.com/PDFTron/pdftron-go
-3. mv src/github.com/PDFTron/pdftron-go/src_linux/pdftron/ src/
-4. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO
-5. ./RunTest.sh 
+3. cp src/github.com/PDFTron/pdftron-go/src_linux/pdftron/ src/
+4. cp src/github.com/PDFTron/pdftron-go/Samples/ src/pdftron/
+5. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO
+6. ./RunTest.sh 
 
 
 # Running PDFTronGo from Mac
@@ -40,10 +41,11 @@ Make sure to choose x86_64 architecture during installation. <br/>
 1. cd $HOME/go 
 2. export GO111MODULE=off
 2. go get github.com/PDFTron/pdftron-go
-3. mv src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ src/
-4. install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib
-5. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO
-6. ./RunTest.sh 
+3. cp src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ src/
+4. cp src/github.com/PDFTron/pdftron-go/Samples/ src/pdftron/
+5. install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib
+6. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO
+7. ./RunTest.sh 
 
 
 # Running PDFTronGo from Windows 
@@ -52,6 +54,7 @@ Make sure to choose x86_64 architecture during installation. <br/>
 2. cd %HOMEPATH%
 3. go get github.com/PDFTron/pdftron-go
 4. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\src_win go\src
+4. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\Samples go\src\pdftron
 5. cd %HOMEPATH%\go\src\pdftron\Samples\AddImageTest\GO and call RunTest.bat
 
 <hr/>
