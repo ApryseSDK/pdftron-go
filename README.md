@@ -54,7 +54,7 @@ Make sure to choose x86_64 architecture during installation. <br/>
 2. cd %HOMEPATH%
 3. go get github.com/PDFTron/pdftron-go
 4. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\src_win go\src
-4. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\Samples go\src\pdftron
+4. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\Samples go\src\pdftron\Samples
 5. cd %HOMEPATH%\go\src\pdftron\Samples\AddImageTest\GO and call RunTest.bat
 
 <hr/>
