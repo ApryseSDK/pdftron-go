@@ -1,8 +1,14 @@
 #!/bin/sh
 
-cd $HOME
-mkdir go
-cd go
+DIR="%HOME/go"
+if [ -d "$DIR" ]; then
+	# Take action if $DIR exists. #
+	cd $HOME/go
+  else 
+    cd $HOME
+	mkdir go
+	cd $HOME/go
+fi
 
 export GO111MODULE=off
 
