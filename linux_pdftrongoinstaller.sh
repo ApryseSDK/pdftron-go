@@ -6,6 +6,7 @@ if [ -d "$DIR" ]; then
 	# Take action if $DIR exists. #
 	cd $HOME/go
   else 
+    cd $HOME
 	mkdir go
 	cd $HOME/go
 fi
