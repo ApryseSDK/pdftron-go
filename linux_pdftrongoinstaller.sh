@@ -1,9 +1,14 @@
 #!/bin/sh
 
-cd $HOME
-mkdir go
-cd go
 
+DIR="%HOME/go"
+if [ -d "$DIR" ]; then
+	# Take action if $DIR exists. #
+	cd $HOME/go
+  else 
+	mkdir go
+	cd $HOME/go
+fi
 
 echo Getting PDFTron_go from GIT
 go get github.com/PDFTron/pdftron-go
