@@ -28,7 +28,7 @@ Make sure to choose x86_64 architecture during installation. <br/>
 
 # Running PDFTronGo from Linux
 
-Run linux_pdftrongoinstaller.sh from $HOME OR <br/>
+Run linux_pdftrongoinstaller.sh from $HOME or <br/>
 1. cd $HOME/go 
 2. go get github.com/PDFTron/pdftron-go
 3. cp src/github.com/PDFTron/pdftron-go/src_linux/pdftron/ src/
