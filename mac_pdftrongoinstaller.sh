@@ -17,7 +17,7 @@ go get github.com/PDFTron/pdftron-go
 
 echo Copying PDFTron-go to go/src
 
-cp -r go/src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ go/src/
-cp -r go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/
+cp -R go/src/github.com/PDFTron/pdftron-go/src_linux/pdftron/ go/src/pdftron/
+cp -R go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/Samples/
 
 install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib
