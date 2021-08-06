@@ -8,7 +8,7 @@
   </p>
 
   <h3>
-    <a href="https://www.pdftron.com">Website</a>
+    <a href="https://www.pdftron.com/documentation/go/">Website</a>
   </h3>
 
 </div>
@@ -52,10 +52,11 @@ Make sure to choose x86_64 architecture during installation. <br/>
 
 1. Run mingw-w64.bat from "C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0" to open command prompt
 2. cd %HOMEPATH%
-3. go get github.com/PDFTron/pdftron-go
-4. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\src_win go\src
-4. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\Samples go\src\pdftron\Samples
-5. cd %HOMEPATH%\go\src\pdftron\Samples\AddImageTest\GO and call RunTest.bat
+3. set GO111MODULE=off 
+4. go get github.com/PDFTron/pdftron-go
+5. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\src_win go\src
+6. xcopy /E /I go\src\github.com\PDFTron\pdftron-go\Samples go\src\pdftron\Samples
+7. cd %HOMEPATH%\go\src\pdftron\Samples\AddImageTest\GO and call RunTest.bat
 
 <hr/>
 
