@@ -7,7 +7,6 @@ if [ -d "$DIR" ]; then
   else 
     cd $HOME
 	mkdir go
-	cd $HOME/go
 fi
 
 export GO111MODULE=off
@@ -18,7 +17,7 @@ go get github.com/PDFTron/pdftron-go
 
 echo Copying PDFTron-go to go/src
 
-cp src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ src/
-cp src/github.com/PDFTron/pdftron-go/Samples/ src/pdftron/
+cp go/src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ go/src/
+cp go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/
 
 install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib
