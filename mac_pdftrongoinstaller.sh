@@ -1,6 +1,9 @@
 #!/bin/sh
 
-cd $HOME/go
+cd $HOME
+mkdir go
+cd go
+
 export GO111MODULE=off
 
 echo Get PDFTron-go from GIT
