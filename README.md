@@ -29,10 +29,11 @@ Make sure to choose x86_64 architecture during installation. <br/>
 # Running PDFTronGo from Linux
 
 Run linux_pdftrongoinstaller.sh from $HOME or <br/>
-1. cd $HOME/go 
-2. go get github.com/PDFTron/pdftron-go
-3. cp src/github.com/PDFTron/pdftron-go/src_linux/pdftron/ src/
-4. cp src/github.com/PDFTron/pdftron-go/Samples/ src/pdftron/
+1. cd $HOME
+2. export GO111MODULE=off
+3. go get github.com/PDFTron/pdftron-go
+4. cp -r go/src/github.com/PDFTron/pdftron-go/src_linux/pdftron/ go/src/
+5. cp -r go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/
 
 To execute the sample code, you can try the following: <br/>
 1. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO
@@ -42,12 +43,12 @@ To execute the sample code, you can try the following: <br/>
 # Running PDFTronGo from Mac
 
 Run mac_pdftrongoinstaller.sh from $HOME or <br/>
-1. cd $HOME/go 
+1. cd $HOME
 2. export GO111MODULE=off
-2. go get github.com/PDFTron/pdftron-go
-3. cp src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ src/
-4. cp src/github.com/PDFTron/pdftron-go/Samples/ src/pdftron/
-5. install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib
+3. go get github.com/PDFTron/pdftron-go
+4. cp -R go/src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ go/src/pdftron/
+5. cp -R go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/Samples/
+6. install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib
 
 To execute the sample code, you can try the following: <br/>
 1. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO

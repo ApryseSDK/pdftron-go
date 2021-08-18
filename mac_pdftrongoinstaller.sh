@@ -3,7 +3,7 @@
 DIR="%HOME/go"
 if [ -d "$DIR" ]; then
 	# Take action if $DIR exists. #
-	cd $HOME/go
+	cd $HOME
   else 
     cd $HOME
 	mkdir go
