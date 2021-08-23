@@ -8,3 +8,6 @@ set GO111MODULE=off
 go get github.com/PDFTron/pdftron-go
 xcopy /E /I go\src\github.com\PDFTron\pdftron-go\src_win go\src
 xcopy /E /I go\src\github.com\PDFTron\pdftron-go\Samples go\src\pdftron\Samples
+
+cd %HOMEPATH%\go\src\pdftron\Samples\AddImageTest\GO
+RunTest.bat
