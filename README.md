@@ -18,7 +18,7 @@
 # Supported platforms: Linux , Mac, Windows <br/>
 
 <strong>Environments and versions:</strong> <br/>
-- System RAM of 4GB or more
+- Min System RAM of 2GB in Linux or 4GB in Mac/Windows
 - <strong>Go </strong>1.15 <br/> Note: Ubuntu Linux 14.0.x can only use Go 1.15, as Go 1.16 or higher is no longer supported in that platform.
 - <strong>Git</strong><br/>
 

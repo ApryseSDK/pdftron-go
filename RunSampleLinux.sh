@@ -4,7 +4,7 @@
 #Check the size of System RAM
 RAM=$(free -h | grep Mem: | awk '{print $2}')
 GOVER=$(go version)
-echo "Minimum RAM required is 4GB"
+echo "Minimum RAM required is 2GB"
 echo "Your RAM is: " $RAM
 echo "\n"
 
