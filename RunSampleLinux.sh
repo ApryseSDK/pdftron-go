@@ -20,9 +20,9 @@ read answer
 
 
 if [ "$answer" != "${answer#[Yy]}" ] ;then
-    echo Yes
+    continue
 else
-    echo No
+    exit
 fi
 
 #Create go folder if it doesnt exist
