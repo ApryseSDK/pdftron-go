@@ -18,7 +18,8 @@
 # Supported platforms: Linux , Mac, Windows <br/>
 
 <strong>Environments and versions:</strong> <br/>
-- <strong>Go </strong>1.15 <br/>
+- System RAM of 4GB or more
+- <strong>Go </strong>1.15 <br/> Note: Ubuntu Linux 14.0.x can only use Go 1.15, as Go 1.16 or higher is no longer supported in that platform.
 - <strong>Git</strong><br/>
 
 For Windows, you will need <strong>mingw-64</strong>: <br/>
@@ -28,7 +29,7 @@ Make sure to choose x86_64 architecture during installation. <br/>
 
 # Running PDFTronGo from Linux
 
-Run linux_pdftrongoinstaller.sh from $HOME or <br/>
+Run RunSampleLinux.sh from $HOME or <br/>
 1. cd $HOME
 2. export GO111MODULE=off
 3. go get github.com/PDFTron/pdftron-go
@@ -42,7 +43,7 @@ To execute the sample code, you can try the following: <br/>
 
 # Running PDFTronGo from Mac
 
-Run mac_pdftrongoinstaller.sh from $HOME or <br/>
+Run RunSampleMac.sh from $HOME or <br/>
 1. cd $HOME
 2. export GO111MODULE=off
 3. go get github.com/PDFTron/pdftron-go
@@ -57,7 +58,7 @@ To execute the sample code, you can try the following: <br/>
 
 # Running PDFTronGo from Windows 
 
-Run win_pdftrongoinstaller.bat from %HOMEPATH% or <br/>
+Run RunSampleWindows.bat from %HOMEPATH% or <br/>
 1. Run mingw-w64.bat from "C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0" to open command prompt
 2. cd %HOMEPATH%
 3. set GO111MODULE=off 
