@@ -6,21 +6,19 @@ RAM=$(free -h | grep Mem: | awk '{print $2}')
 GOVER=$(go version)
 echo "Minimum RAM required is 2GB"
 echo "Your RAM is: " $RAM
-echo "\n"
 
 #Check the version of Go
-echo "Go version requirement is GO 1.15.x and up"
-echo "For Ubuntu 14.0.x, only Go version 1.15 would work, as Go 1.16 and up is no longer compatible with the OS"
+echo "Go version requirement is GO 1.15.x and up."
+echo "For Ubuntu 14.0.x, only Go version 1.15 would work, as Go 1.16 and up is no longer compatible with the OS."
 echo "Your GO is" $GOVER
 
-echo "\n"
 
 echo -n "Do you want to continue? (y/n)? "
 read answer
 
 
 if [ "$answer" != "${answer#[Yy]}" ] ;then
-    continue
+    echo "Checking Go folder."
 else
     exit
 fi
@@ -39,7 +37,7 @@ fi
 export GO111MODULE=off
 
 # Download from Git
-echo Getting PDFTron_go from GIT
+echo "Getting PDFTron_go from GIT"
 go get github.com/PDFTron/pdftron-go
 
 # Copy to src folder
