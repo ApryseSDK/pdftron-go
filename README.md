@@ -23,7 +23,7 @@
 - <strong>Git</strong><br/>
 
 For Windows, you will need <strong>mingw-64</strong>: <br/>
-http://mingw-w64.org/doku.php/download/mingw-builds <br/>
+https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe<br/>
 Make sure to choose x86_64 architecture during installation. <br/>
 
 
