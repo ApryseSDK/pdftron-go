@@ -23,8 +23,8 @@
 - <strong>Git</strong><br/>
 
 For Windows, you will need <strong>mingw-64</strong>: <br/>
-https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe<br/>
-Make sure to choose x86_64 architecture during installation. <br/>
+https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/<br/>
+Click on MinGW-W64-install.exe under MinGW-W64 Online Installer and make sure to choose x86_64 architecture during installation. <br/>
 
 
 # Running PDFTronGo from Linux
