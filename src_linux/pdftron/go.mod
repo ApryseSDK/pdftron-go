@@ -1,3 +1,3 @@
-module https://github.com/PDFTron/pdftron-go/tree/main/src_linux/pdftron
+module github.com/PDFTron/pdftron-go/src_linux/pdftron
 
 go 1.15
