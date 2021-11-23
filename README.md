@@ -26,6 +26,8 @@ For Windows, you will need <strong>mingw-64</strong>: <br/>
 https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/<br/>
 Click on MinGW-W64-install.exe under MinGW-W64 Online Installer and make sure to choose x86_64 architecture during installation. <br/>
 
+# Run PDFTron Go SDK in production
+A commercial license key is required for use in a production environment. Please <a href="https://www.pdftron.com/licensing/">fill out our licensing form</a> if you do not have a valid license key. 
 
 # Running PDFTronGo from Linux
 
