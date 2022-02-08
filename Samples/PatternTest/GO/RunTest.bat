@@ -8,7 +8,6 @@ if not exist ..\..\bin\PDFNetC.dll (
 if not exist ..\..\bin\pdftron.dll (
 	copy ..\..\..\PDFNetC\Lib\pdftron.dll ..\..\bin\pdftron.dll >nul
 )
-
 setlocal
 set TEST_NAME=PatternTest
 go build -o ../../bin/%TEST_NAME%.exe
