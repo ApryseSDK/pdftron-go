@@ -14,7 +14,7 @@ package pdftron
 
 /*
 #cgo CXXFLAGS: -I./PDFNetC/Headers
-#cgo LDFLAGS: -L./PDFNetC/Lib -lpdftron -lPDFNetC -lstdc++
+#cgo LDFLAGS: -L./PDFNetC/Lib -lpdftron -lPDFNetC
 #define intgo swig_intgo
 typedef void *swig_voidp;
 
