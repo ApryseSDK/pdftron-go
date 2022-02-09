@@ -8,9 +8,8 @@ if not exist ..\..\bin\PDFNetC.dll (
 if not exist ..\..\bin\pdftron.dll (
 	copy ..\..\..\PDFNetC\Lib\pdftron.dll ..\..\bin\pdftron.dll >nul
 )
-
 setlocal
-set TEST_NAME=PDF2WordTest
+set TEST_NAME=PDF2OfficeTest
 go build -o ../../bin/%TEST_NAME%.exe
 if %ERRORLEVEL% NEQ 0 goto EOF
 call ..\..\bin\%TEST_NAME%.exe
