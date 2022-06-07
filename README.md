@@ -19,12 +19,14 @@
 
 <strong>Environments and versions:</strong> <br/>
 - Minimum RAM of 2GB in Linux or 4GB in Mac/Windows
-- <strong>Go </strong>1.15 <br/> Note: Ubuntu Linux 14.0.x can only use Go 1.15, as Go 1.16 or higher is no longer supported in that platform.
+- <strong>Go </strong>1.15 <br/> Note: Ubuntu Linux 14.0.x can only use Go 1.15. 
 - <strong>Git</strong><br/>
 
 For Windows, you will need <strong>mingw-64</strong>: <br/>
 https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/<br/>
 Click on MinGW-W64-install.exe under MinGW-W64 Online Installer and make sure to choose x86_64 architecture during installation. <br/>
+
+If you need GO111MODULE enabled, please see the notes at the end of this page. 
 
 # Run PDFTron Go SDK in production
 A commercial license key is required for use in a production environment. Please <a href="https://www.pdftron.com/licensing/">fill out our licensing form</a> if you do not have a valid license key. 
@@ -79,4 +81,26 @@ Output file will be in $HOME/go/src/pdftron/Samples/TestFiles/Output
 Bin file will be in $HOME/go/src/pdftron/Samples/bin
 
 <hr/>
+
+# Running PDFTronGo with GO111MODULE enabled
+1. cd $HOME
+2. export GO111MODULE=off
+3. go get github.com/PDFTron/pdftron-go
+4. export GO111MODULE=on
+5. cp -R go/src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ go/src/pdftron/
+6. cp -R go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/Samples/
+7. install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib // for mac only
+8. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO
+9. Modify AddImageTest.go to the following and save.
+```
+package main
+import (
+	"fmt"
+	. "github.com/PDFTron/pdftron-go/src_mac/pdftron" 
+)
+
+func main(){
+PDFNetInitialize("pleaseinsertlicensekeyhere")
+```
+10. ./RunTest.sh
 
