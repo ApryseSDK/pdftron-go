@@ -87,20 +87,19 @@ Bin file will be in $HOME/go/src/pdftron/Samples/bin
 2. export GO111MODULE=off
 3. go get github.com/PDFTron/pdftron-go
 4. export GO111MODULE=on
-5. cp -R go/src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ go/src/pdftron/
+5. cp -R go/src/github.com/PDFTron/pdftron-go/src_linux/pdftron/ go/src/pdftron/
 6. cp -R go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/Samples/
-7. install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib // for mac only
-8. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO
-9. Modify AddImageTest.go to the following and save.
+7. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO
+8. Modify AddImageTest.go to the following and save.
 ```
 package main
 import (
 	"fmt"
-	. "github.com/PDFTron/pdftron-go/src_mac/pdftron" 
+	. "github.com/PDFTron/pdftron-go/src_linux/pdftron" 
 )
 
 func main(){
 PDFNetInitialize("pleaseinsertlicensekeyhere")
 ```
-10. ./RunTest.sh
+9. ./RunTest.sh
 
