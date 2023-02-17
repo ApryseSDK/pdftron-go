@@ -51,9 +51,10 @@ Run RunSampleMac.sh from $HOME or <br/>
 1. cd $HOME
 2. export GO111MODULE=off
 3. go get github.com/PDFTron/pdftron-go
-4. cp -R go/src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ go/src/pdftron/
-5. cp -R go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/Samples/
-6. install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib
+4. unzip go/src/github.com/PDFTron/pdtron-go/src_mac/pdftron/PDFNetC/Lib/libPDFNetC.zip -d go/src/pdftron/PDFNetC/Lib/
+5. cp -R go/src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ go/src/pdftron/
+6. cp -R go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/Samples/
+7. install_name_tool -id "@rpath/libpdftron.dylib" $HOME/go/src/pdftron/PDFNetC/Lib/libpdftron.dylib
 
 To execute the sample code, you can try the following: <br/>
 1. cd $HOME/go/src/pdftron/Samples/AddImageTest/GO
