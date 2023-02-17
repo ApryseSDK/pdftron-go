@@ -17,6 +17,7 @@ go get github.com/PDFTron/pdftron-go
 
 echo Copying PDFTron-go to go/src
 
+unzip go/src/github.com/PDFTron/pdtron-go/src_mac/pdftron/PDFNetC/Lib/libPDFNetC.zip -d go/src/pdftron/PDFNetC/Lib/
 cp -R go/src/github.com/PDFTron/pdftron-go/src_mac/pdftron/ go/src/pdftron/
 cp -R go/src/github.com/PDFTron/pdftron-go/Samples/ go/src/pdftron/Samples/
 

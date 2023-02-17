@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.so        binary -diff
+*.dll        binary -diff
+*.dylib        binary -diff
