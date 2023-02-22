@@ -4374,8 +4374,6 @@ extern uintptr_t _wrap_new_ConversionOptions__SWIG_1_pdftron_4dfb989b999904da(sw
 extern void _wrap_delete_ConversionOptions_pdftron_4dfb989b999904da(uintptr_t arg1);
 extern swig_type_534 _wrap_ConversionOptions_GetFileExtension_pdftron_4dfb989b999904da(uintptr_t arg1);
 extern uintptr_t _wrap_ConversionOptions_SetFileExtension_pdftron_4dfb989b999904da(uintptr_t arg1, swig_type_535 arg2);
-extern _Bool _wrap_ConversionOptions_GetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(uintptr_t arg1);
-extern uintptr_t _wrap_ConversionOptions_SetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_ConversionOptions_GetInternalObj_pdftron_4dfb989b999904da(uintptr_t arg1);
 extern uintptr_t _wrap_new_OfficeToPDFOptions_pdftron_4dfb989b999904da(void);
 extern void _wrap_delete_OfficeToPDFOptions_pdftron_4dfb989b999904da(uintptr_t arg1);
@@ -4407,8 +4405,6 @@ extern _Bool _wrap_OfficeToPDFOptions_GetTemplateStrictMode_pdftron_4dfb989b9999
 extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateStrictMode_pdftron_4dfb989b999904da(uintptr_t arg1, _Bool arg2);
 extern swig_type_550 _wrap_OfficeToPDFOptions_GetFileExtension_pdftron_4dfb989b999904da(uintptr_t _swig_base);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetFileExtension_pdftron_4dfb989b999904da(uintptr_t _swig_base, swig_type_551 arg1);
-extern _Bool _wrap_OfficeToPDFOptions_GetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(uintptr_t _swig_base);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(uintptr_t _swig_base, _Bool arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_GetInternalObj_pdftron_4dfb989b999904da(uintptr_t _swig_base);
 extern uintptr_t _wrap_new_WordToPDFOptions_pdftron_4dfb989b999904da(void);
 extern void _wrap_delete_WordToPDFOptions_pdftron_4dfb989b999904da(uintptr_t arg1);
@@ -4420,8 +4416,6 @@ extern swig_type_556 _wrap_WordToPDFOptions_GetSmartSubstitutionPluginPath_pdftr
 extern uintptr_t _wrap_WordToPDFOptions_SetSmartSubstitutionPluginPath_pdftron_4dfb989b999904da(uintptr_t arg1, swig_type_557 arg2);
 extern swig_type_558 _wrap_WordToPDFOptions_GetFileExtension_pdftron_4dfb989b999904da(uintptr_t _swig_base);
 extern uintptr_t _wrap_WordToPDFOptions_SetFileExtension_pdftron_4dfb989b999904da(uintptr_t _swig_base, swig_type_551 arg1);
-extern _Bool _wrap_WordToPDFOptions_GetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(uintptr_t _swig_base);
-extern uintptr_t _wrap_WordToPDFOptions_SetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(uintptr_t _swig_base, _Bool arg1);
 extern uintptr_t _wrap_WordToPDFOptions_GetInternalObj_pdftron_4dfb989b999904da(uintptr_t _swig_base);
 extern swig_intgo _wrap_eSuccess_DocumentConversion_pdftron_4dfb989b999904da(void);
 extern swig_intgo _wrap_eIncomplete_DocumentConversion_pdftron_4dfb989b999904da(void);
@@ -4806,10 +4800,10 @@ extern swig_type_674 _wrap_DataExtractionModule_ExtractData__SWIG_0_pdftron_4dfb
 extern swig_type_676 _wrap_DataExtractionModule_ExtractData__SWIG_1_pdftron_4dfb989b999904da(swig_type_677 arg1, swig_intgo arg2);
 extern void _wrap_DataExtractionModule_ExtractData__SWIG_2_pdftron_4dfb989b999904da(swig_type_678 arg1, swig_type_679 arg2, swig_intgo arg3, uintptr_t arg4);
 extern void _wrap_DataExtractionModule_ExtractData__SWIG_3_pdftron_4dfb989b999904da(swig_type_680 arg1, swig_type_681 arg2, swig_intgo arg3);
-extern void _wrap_DataExtractionModule_ExtractToXSLX__SWIG_0_pdftron_4dfb989b999904da(swig_type_682 arg1, swig_type_683 arg2, uintptr_t arg3);
-extern void _wrap_DataExtractionModule_ExtractToXSLX__SWIG_1_pdftron_4dfb989b999904da(swig_type_684 arg1, swig_type_685 arg2);
-extern void _wrap_DataExtractionModule_ExtractToXSLX__SWIG_2_pdftron_4dfb989b999904da(swig_type_686 arg1, uintptr_t arg2, uintptr_t arg3);
-extern void _wrap_DataExtractionModule_ExtractToXSLX__SWIG_3_pdftron_4dfb989b999904da(swig_type_687 arg1, uintptr_t arg2);
+extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_0_pdftron_4dfb989b999904da(swig_type_682 arg1, swig_type_683 arg2, uintptr_t arg3);
+extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_1_pdftron_4dfb989b999904da(swig_type_684 arg1, swig_type_685 arg2);
+extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_2_pdftron_4dfb989b999904da(swig_type_686 arg1, uintptr_t arg2, uintptr_t arg3);
+extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_3_pdftron_4dfb989b999904da(swig_type_687 arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_DataExtractionModule_pdftron_4dfb989b999904da(void);
 extern void _wrap_delete_DataExtractionModule_pdftron_4dfb989b999904da(uintptr_t arg1);
 extern swig_intgo _wrap_e_moveto_PathData_pdftron_4dfb989b999904da(void);
@@ -40439,21 +40433,6 @@ func (arg1 SwigcptrConversionOptions) SetFileExtension(arg2 string) (_swig_ret C
 	return swig_r
 }
 
-func (arg1 SwigcptrConversionOptions) GetEnableExternalMediaDownloads() (_swig_ret bool) {
-	var swig_r bool
-	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_ConversionOptions_GetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(C.uintptr_t(_swig_i_0)))
-	return swig_r
-}
-
-func (arg1 SwigcptrConversionOptions) SetEnableExternalMediaDownloads(arg2 bool) (_swig_ret ConversionOptions) {
-	var swig_r ConversionOptions
-	_swig_i_0 := arg1
-	_swig_i_1 := arg2
-	swig_r = (ConversionOptions)(SwigcptrConversionOptions(C._wrap_ConversionOptions_SetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))))
-	return swig_r
-}
-
 func (arg1 SwigcptrConversionOptions) GetInternalObj() (_swig_ret Obj) {
 	var swig_r Obj
 	_swig_i_0 := arg1
@@ -40466,8 +40445,6 @@ type ConversionOptions interface {
 	SwigIsConversionOptions()
 	GetFileExtension() (_swig_ret string)
 	SetFileExtension(arg2 string) (_swig_ret ConversionOptions)
-	GetEnableExternalMediaDownloads() (_swig_ret bool)
-	SetEnableExternalMediaDownloads(arg2 bool) (_swig_ret ConversionOptions)
 	GetInternalObj() (_swig_ret Obj)
 }
 
@@ -40731,19 +40708,6 @@ func (_swig_base SwigcptrOfficeToPDFOptions) SetFileExtension(arg1 string) (_swi
 	return swig_r
 }
 
-func (_swig_base SwigcptrOfficeToPDFOptions) GetEnableExternalMediaDownloads() (_swig_ret bool) {
-	var swig_r bool
-	swig_r = (bool)(C._wrap_OfficeToPDFOptions_GetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(C.uintptr_t(_swig_base)))
-	return swig_r
-}
-
-func (_swig_base SwigcptrOfficeToPDFOptions) SetEnableExternalMediaDownloads(arg1 bool) (_swig_ret ConversionOptions) {
-	var swig_r ConversionOptions
-	_swig_i_0 := arg1
-	swig_r = (ConversionOptions)(SwigcptrConversionOptions(C._wrap_OfficeToPDFOptions_SetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(C.uintptr_t(_swig_base), C._Bool(_swig_i_0))))
-	return swig_r
-}
-
 func (_swig_base SwigcptrOfficeToPDFOptions) GetInternalObj() (_swig_ret Obj) {
 	var swig_r Obj
 	swig_r = (Obj)(SwigcptrObj(C._wrap_OfficeToPDFOptions_GetInternalObj_pdftron_4dfb989b999904da(C.uintptr_t(_swig_base))))
@@ -40788,8 +40752,6 @@ type OfficeToPDFOptions interface {
 	SetTemplateStrictMode(arg2 bool) (_swig_ret OfficeToPDFOptions)
 	GetFileExtension() (_swig_ret string)
 	SetFileExtension(arg1 string) (_swig_ret ConversionOptions)
-	GetEnableExternalMediaDownloads() (_swig_ret bool)
-	SetEnableExternalMediaDownloads(arg1 bool) (_swig_ret ConversionOptions)
 	GetInternalObj() (_swig_ret Obj)
 	SwigIsConversionOptions()
 	SwigGetConversionOptions() ConversionOptions
@@ -40889,19 +40851,6 @@ func (_swig_base SwigcptrWordToPDFOptions) SetFileExtension(arg1 string) (_swig_
 	return swig_r
 }
 
-func (_swig_base SwigcptrWordToPDFOptions) GetEnableExternalMediaDownloads() (_swig_ret bool) {
-	var swig_r bool
-	swig_r = (bool)(C._wrap_WordToPDFOptions_GetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(C.uintptr_t(_swig_base)))
-	return swig_r
-}
-
-func (_swig_base SwigcptrWordToPDFOptions) SetEnableExternalMediaDownloads(arg1 bool) (_swig_ret ConversionOptions) {
-	var swig_r ConversionOptions
-	_swig_i_0 := arg1
-	swig_r = (ConversionOptions)(SwigcptrConversionOptions(C._wrap_WordToPDFOptions_SetEnableExternalMediaDownloads_pdftron_4dfb989b999904da(C.uintptr_t(_swig_base), C._Bool(_swig_i_0))))
-	return swig_r
-}
-
 func (_swig_base SwigcptrWordToPDFOptions) GetInternalObj() (_swig_ret Obj) {
 	var swig_r Obj
 	swig_r = (Obj)(SwigcptrObj(C._wrap_WordToPDFOptions_GetInternalObj_pdftron_4dfb989b999904da(C.uintptr_t(_swig_base))))
@@ -40926,8 +40875,6 @@ type WordToPDFOptions interface {
 	SetSmartSubstitutionPluginPath(arg2 string) (_swig_ret WordToPDFOptions)
 	GetFileExtension() (_swig_ret string)
 	SetFileExtension(arg1 string) (_swig_ret ConversionOptions)
-	GetEnableExternalMediaDownloads() (_swig_ret bool)
-	SetEnableExternalMediaDownloads(arg1 bool) (_swig_ret ConversionOptions)
 	GetInternalObj() (_swig_ret Obj)
 	SwigIsConversionOptions()
 	SwigGetConversionOptions() ConversionOptions
@@ -44858,11 +44805,11 @@ check_2:
 	panic("No match for overloaded function call")
 }
 
-func DataExtractionModuleExtractToXSLX__SWIG_0(arg1 string, arg2 string, arg3 DataExtractionOptions) {
+func DataExtractionModuleExtractToXLSX__SWIG_0(arg1 string, arg2 string, arg3 DataExtractionOptions) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_DataExtractionModule_ExtractToXSLX__SWIG_0_pdftron_4dfb989b999904da(*(*C.swig_type_682)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_683)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
+	C._wrap_DataExtractionModule_ExtractToXLSX__SWIG_0_pdftron_4dfb989b999904da(*(*C.swig_type_682)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_683)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -44871,10 +44818,10 @@ func DataExtractionModuleExtractToXSLX__SWIG_0(arg1 string, arg2 string, arg3 Da
 	}
 }
 
-func DataExtractionModuleExtractToXSLX__SWIG_1(arg1 string, arg2 string) {
+func DataExtractionModuleExtractToXLSX__SWIG_1(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_DataExtractionModule_ExtractToXSLX__SWIG_1_pdftron_4dfb989b999904da(*(*C.swig_type_684)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_685)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_DataExtractionModule_ExtractToXLSX__SWIG_1_pdftron_4dfb989b999904da(*(*C.swig_type_684)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_685)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -44883,49 +44830,49 @@ func DataExtractionModuleExtractToXSLX__SWIG_1(arg1 string, arg2 string) {
 	}
 }
 
-func DataExtractionModuleExtractToXSLX__SWIG_2(arg1 string, arg2 Filter, arg3 DataExtractionOptions) {
+func DataExtractionModuleExtractToXLSX__SWIG_2(arg1 string, arg2 Filter, arg3 DataExtractionOptions) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_DataExtractionModule_ExtractToXSLX__SWIG_2_pdftron_4dfb989b999904da(*(*C.swig_type_686)(unsafe.Pointer(&_swig_i_0)), C.uintptr_t(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_DataExtractionModule_ExtractToXLSX__SWIG_2_pdftron_4dfb989b999904da(*(*C.swig_type_686)(unsafe.Pointer(&_swig_i_0)), C.uintptr_t(_swig_i_1), C.uintptr_t(_swig_i_2))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
 }
 
-func DataExtractionModuleExtractToXSLX__SWIG_3(arg1 string, arg2 Filter) {
+func DataExtractionModuleExtractToXLSX__SWIG_3(arg1 string, arg2 Filter) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_DataExtractionModule_ExtractToXSLX__SWIG_3_pdftron_4dfb989b999904da(*(*C.swig_type_687)(unsafe.Pointer(&_swig_i_0)), C.uintptr_t(_swig_i_1))
+	C._wrap_DataExtractionModule_ExtractToXLSX__SWIG_3_pdftron_4dfb989b999904da(*(*C.swig_type_687)(unsafe.Pointer(&_swig_i_0)), C.uintptr_t(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
 }
 
-func DataExtractionModuleExtractToXSLX(a ...interface{}) {
+func DataExtractionModuleExtractToXLSX(a ...interface{}) {
 	argc := len(a)
 	if argc == 2 {
 		if _, ok := a[1].(string); !ok {
 			goto check_1
 		}
-		DataExtractionModuleExtractToXSLX__SWIG_1(a[0].(string), a[1].(string))
+		DataExtractionModuleExtractToXLSX__SWIG_1(a[0].(string), a[1].(string))
 		return
 	}
 check_1:
 	if argc == 2 {
-		DataExtractionModuleExtractToXSLX__SWIG_3(a[0].(string), a[1].(Filter))
+		DataExtractionModuleExtractToXLSX__SWIG_3(a[0].(string), a[1].(Filter))
 		return
 	}
 	if argc == 3 {
 		if _, ok := a[1].(SwigcptrFilter); !ok {
 			goto check_3
 		}
-		DataExtractionModuleExtractToXSLX__SWIG_2(a[0].(string), a[1].(Filter), a[2].(DataExtractionOptions))
+		DataExtractionModuleExtractToXLSX__SWIG_2(a[0].(string), a[1].(Filter), a[2].(DataExtractionOptions))
 		return
 	}
 check_3:
 	if argc == 3 {
-		DataExtractionModuleExtractToXSLX__SWIG_0(a[0].(string), a[1].(string), a[2].(DataExtractionOptions))
+		DataExtractionModuleExtractToXLSX__SWIG_0(a[0].(string), a[1].(string), a[2].(DataExtractionOptions))
 		return
 	}
 	panic("No match for overloaded function call")
