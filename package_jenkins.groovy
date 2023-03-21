@@ -27,7 +27,7 @@ pipeline {
                 unzip zipFile: 'PDFTronGoMac.zip'
                 unzip zipFile: 'PDFTronGoMacArm.zip'
 
-                zip zipFile: 'PDFTronGo.zip' dir: '*'
+                zip zipFile: 'PDFTronGo.zip'
 
                 s3ArtifactUpload('PDFTronGo.zip')
             }
