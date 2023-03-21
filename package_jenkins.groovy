@@ -19,7 +19,7 @@ pipeline {
         stage('Build') {
             steps {
                 s3ArtifactCopyInvoke('PDFNetWrappers Go/' + params.VERSION.replace("/", "%2F"), 'PDFTronGoLinux.zip')
-                s3ArtifactCopyInvoke('PDFNetWrappers Go Windows/' + params.VERSION.replace("/", "%2F"), 'PDFTronGoWindows.zip')
+                s3ArtifactCopyInvoke('PDFNetWrappers Go Windows/' + params.VERSION.replace("/", "%2F"), 'PDFTronGoWin.zip')
                 s3ArtifactCopyInvoke('PDNetWrappers Go Mac/' + params.VERSION.replace("/", "%2F"), 'PDFTronGoMac.zip')
                 s3ArtifactCopyInvoke('PDFNetWrappers Mac Arm/' + params.VERSION.replace("/", "%2F"), 'PDFTronGoMacArm.zip')
 
