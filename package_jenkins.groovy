@@ -11,7 +11,7 @@ pipeline {
 
     parameters {
         string(defaultValue: '', description: 'What name to give the created branch.', name: 'RELEASE_NAME')
-        boolean(defaultValue: false, description: 'Set to true if you wish to push the build to git.', name: 'SHOULD_PUSH')
+        booleanParam(defaultValue: false, description: 'Set to true if you wish to push the build to git.', name: 'SHOULD_PUSH')
     }
 
     stages {
