@@ -10,6 +10,7 @@ pipeline {
     }
 
     parameters {
+        string(defaultValue: '', description: 'What version to pull from for packaging.', name: 'VERSION')
         string(defaultValue: '', description: 'What name to give the created branch.', name: 'RELEASE_NAME')
         booleanParam(defaultValue: false, description: 'Set to true if you wish to push the build to git.', name: 'SHOULD_PUSH')
     }
