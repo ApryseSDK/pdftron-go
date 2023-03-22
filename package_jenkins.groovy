@@ -43,7 +43,18 @@ pipeline {
             }
             steps {
                 sh """
-                    python3 push_release.py --release_name=${params.RELEASE_NAME}
+                    git checkout -b ${params.RELEASE_NAME}
+                    git add README.md
+                    git add pdftron_linux.go
+                    git add pdftron_windows.go
+                    git add pdftron_darwin_arm64.go
+                    git add pdftron_darwin_x86_64.go
+                    git add shared_libs/*
+                    git add samples/*
+                    git add go.mod
+
+                    git commit -m "Update for ${params.VERSION} release."
+                    git push origin ${params.RELEASE_NAME}
                 """
             }
         }
