@@ -43,7 +43,7 @@ pipeline {
             }
             steps {
                 sh """
-                    python3 push_release.py --release-name=${params.RELEASE_NAME}
+                    python3 push_release.py --release_name=${params.RELEASE_NAME}
                 """
             }
         }
