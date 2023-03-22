@@ -27,8 +27,9 @@ pipeline {
                 unzip zipFile: 'PDFTronGoWin.zip'
                 unzip zipFile: 'PDFTronGoMac.zip'
                 unzip zipFile: 'PDFTronGoMacArm.zip'
+                sh 'rm -rf PDFTronGo*.zip'
 
-                zip zipFile: 'PDFTronGo.zip'
+                zip zipFile: 'PDFTronGo.zip', overwrite: true
 
                 s3ArtifactUpload('PDFTronGo.zip')
             }
@@ -42,7 +43,7 @@ pipeline {
             }
             steps {
                 sh """
-                    python3 push-release.py --release-name=${params.RELEASE_NAME}
+                    python3 push_release.py --release-name=${params.RELEASE_NAME}
                 """
             }
         }

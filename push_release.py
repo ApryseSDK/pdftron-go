@@ -4,10 +4,10 @@ from git import Repo
 
 def main(*args):
     parser = argparse.ArgumentParser(add_help=False)
+    parser.add_argument('-r', '--release_name', dest='release_name', required=True)
     stored_args = parser.parse_args()
 
     # Pass this if you wish to create a new branch and PR
-    parser.add_argument('-r', '--release_name', dest='release_name', required=True)
 
     release_name = stored_args.release_name
     repo = Repo(search_parent_directories=True)
