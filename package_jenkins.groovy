@@ -42,6 +42,7 @@ pipeline {
                 }
             }
             steps {
+              sshagent(['jenkins/xodo-shared-ssh-key']) {
                 sh """
                     git checkout -b ${params.RELEASE_NAME}
                     git add README.md
@@ -49,7 +50,14 @@ pipeline {
                     git add pdftron_windows.go
                     git add pdftron_darwin_arm64.go
                     git add pdftron_darwin_x86_64.go
-                    git add shared_libs/*
+                    git add shared_libs/mac/Lib/arm64/libPDFNetC.dylib
+                    git add shared_libs/mac/Lib/arm64/libpdftron.dylib
+                    git add shared_libs/mac/Lib/amd64/libPDFNetC.dylib
+                    git add shared_libs/mac/Lib/amd64/libpdftron.dylib
+                    git add shared_libs/mac/Lib/unix/libPDFNetC.dll
+                    git add shared_libs/mac/Lib/unix/libpdftron.so
+                    git add shared_libs/mac/Lib/win/libpdftron.so
+                    git add shared_libs/mac/Lib/win/libPDFNetC.dll
                     git add samples/*
                     git add go.mod
 
