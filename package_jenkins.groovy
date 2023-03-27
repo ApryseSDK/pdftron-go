@@ -52,8 +52,8 @@ pipeline {
                     git add pdftron_darwin_x86_64.go
                     git add shared_libs/mac/Lib/arm64/libPDFNetC.dylib
                     git add shared_libs/mac/Lib/arm64/libpdftron.dylib
-                    git add shared_libs/mac/Lib/amd64/libPDFNetC.dylib
-                    git add shared_libs/mac/Lib/amd64/libpdftron.dylib
+                    git add shared_libs/mac/Lib/x86_64/libPDFNetC.dylib
+                    git add shared_libs/mac/Lib/x86_64/libpdftron.dylib
                     git add shared_libs/mac/Lib/unix/libPDFNetC.dll
                     git add shared_libs/mac/Lib/unix/libpdftron.so
                     git add shared_libs/mac/Lib/win/libpdftron.so
