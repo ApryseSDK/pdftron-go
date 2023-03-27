@@ -42,8 +42,8 @@ pipeline {
                 }
             }
             steps {
-              sshagent(['jenkins/xodo-shared-ssh-key']) {
-                sh """
+                sshagent(['jenkins/xodo-shared-ssh-key']) {
+                    sh """
                     git checkout -b ${params.RELEASE_NAME}
                     git add README.md
                     git add pdftron_linux.go
@@ -64,6 +64,7 @@ pipeline {
                     git commit -m "Update for ${params.VERSION} release."
                     git push origin ${params.RELEASE_NAME}
                 """
+                }
             }
         }
     }
