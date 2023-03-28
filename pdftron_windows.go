@@ -4440,6 +4440,8 @@ extern _Bool _wrap_TextDiffOptions_GetCompareUsingZOrder_pdftron_414667156c60689
 extern uintptr_t _wrap_TextDiffOptions_SetCompareUsingZOrder_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_TextDiffOptions_GetExtraMoveHighlight_pdftron_414667156c60689d(uintptr_t arg1);
 extern uintptr_t _wrap_TextDiffOptions_SetExtraMoveHighlight_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
+extern _Bool _wrap_TextDiffOptions_GetShowPlaceholders_pdftron_414667156c60689d(uintptr_t arg1);
+extern uintptr_t _wrap_TextDiffOptions_SetShowPlaceholders_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_TextDiffOptions_AddIgnoreZonesForPage_pdftron_414667156c60689d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
 extern uintptr_t _wrap_TextDiffOptions_GetInternalObj__SWIG_0_pdftron_414667156c60689d(uintptr_t arg1);
 extern uintptr_t _wrap_TextDiffOptions_GetInternalObj__SWIG_1_pdftron_414667156c60689d(uintptr_t arg1);
@@ -40914,6 +40916,21 @@ func (arg1 SwigcptrTextDiffOptions) SetExtraMoveHighlight(arg2 bool) (_swig_ret 
 	return swig_r
 }
 
+func (arg1 SwigcptrTextDiffOptions) GetShowPlaceholders() (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	swig_r = (bool)(C._wrap_TextDiffOptions_GetShowPlaceholders_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrTextDiffOptions) SetShowPlaceholders(arg2 bool) (_swig_ret TextDiffOptions) {
+	var swig_r TextDiffOptions
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (TextDiffOptions)(SwigcptrTextDiffOptions(C._wrap_TextDiffOptions_SetShowPlaceholders_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))))
+	return swig_r
+}
+
 func (arg1 SwigcptrTextDiffOptions) AddIgnoreZonesForPage(arg2 RectCollection, arg3 int) (_swig_ret TextDiffOptions) {
 	var swig_r TextDiffOptions
 	_swig_i_0 := arg1
@@ -40967,6 +40984,8 @@ type TextDiffOptions interface {
 	SetCompareUsingZOrder(arg2 bool) (_swig_ret TextDiffOptions)
 	GetExtraMoveHighlight() (_swig_ret bool)
 	SetExtraMoveHighlight(arg2 bool) (_swig_ret TextDiffOptions)
+	GetShowPlaceholders() (_swig_ret bool)
+	SetShowPlaceholders(arg2 bool) (_swig_ret TextDiffOptions)
 	AddIgnoreZonesForPage(arg2 RectCollection, arg3 int) (_swig_ret TextDiffOptions)
 	GetInternalObj(a ...interface{}) interface{}
 }
