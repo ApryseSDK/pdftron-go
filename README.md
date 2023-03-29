@@ -62,7 +62,7 @@ func main() {
 This can be done by modifying your go.mod via this command in your project directory.
 
 ```
-go mod edit -require github.com/pdftron/pdftron-go/v2@v2.0.0`
+go mod edit -require github.com/pdftron/pdftron-go/v2@v0.0.2`
 go mod tidy (or go get github.com/pdftron/pdftron-go/v2)
 ```
 
