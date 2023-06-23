@@ -1491,6 +1491,7 @@ extern uintptr_t _wrap_PDFRasterizer_Rasterize__SWIG_2_pdftron_414667156c60689d(
 extern uintptr_t _wrap_PDFRasterizer_RasterizeSeparations_pdftron_414667156c60689d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5, uintptr_t arg6, swig_voidp arg7);
 extern void _wrap_PDFRasterizer_SetDrawAnnotations_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFRasterizer_SetHighlightFields_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
+extern void _wrap_PDFRasterizer_SetDrawUIElements_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFRasterizer_SetAntiAliasing_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFRasterizer_SetPathHinting_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFRasterizer_SetThinLineAdjustment_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2, _Bool arg3);
@@ -4044,6 +4045,9 @@ extern swig_intgo _wrap_e_Level2U_PDFACompliance_pdftron_414667156c60689d(void);
 extern swig_intgo _wrap_e_Level3A_PDFACompliance_pdftron_414667156c60689d(void);
 extern swig_intgo _wrap_e_Level3B_PDFACompliance_pdftron_414667156c60689d(void);
 extern swig_intgo _wrap_e_Level3U_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_Level4_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_Level4E_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_Level4F_PDFACompliance_pdftron_414667156c60689d(void);
 extern swig_intgo _wrap_e_PDFA0_1_0_PDFACompliance_pdftron_414667156c60689d(void);
 extern swig_intgo _wrap_e_PDFA0_1_1_PDFACompliance_pdftron_414667156c60689d(void);
 extern swig_intgo _wrap_e_PDFA0_1_2_PDFACompliance_pdftron_414667156c60689d(void);
@@ -4243,6 +4247,18 @@ extern swig_intgo _wrap_e_PDFA_3E1_PDFACompliance_pdftron_414667156c60689d(void)
 extern swig_intgo _wrap_e_PDFA_3E1_1_PDFACompliance_pdftron_414667156c60689d(void);
 extern swig_intgo _wrap_e_PDFA_3E2_PDFACompliance_pdftron_414667156c60689d(void);
 extern swig_intgo _wrap_e_PDFA_3E3_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_1_3_4_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_1_3_5_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_1_6_1_3_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_7_3_5_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_2_5_3_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_6_3_1_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_1_12_1_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_2_4_2_3_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_2_2_3_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_9_5_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_2_10_6_1_PDFACompliance_pdftron_414667156c60689d(void);
+extern swig_intgo _wrap_e_PDFA_4_6_2_10_6_4_PDFACompliance_pdftron_414667156c60689d(void);
 extern swig_intgo _wrap_e_PDFA_LAST_PDFACompliance_pdftron_414667156c60689d(void);
 extern uintptr_t _wrap_new_PDFACompliance__SWIG_0_pdftron_414667156c60689d(_Bool arg1, swig_type_475 arg2, swig_type_476 arg3, swig_intgo arg4, swig_voidp arg5, swig_intgo arg6, swig_intgo arg7, _Bool arg8);
 extern uintptr_t _wrap_new_PDFACompliance__SWIG_1_pdftron_414667156c60689d(_Bool arg1, swig_type_477 arg2, swig_type_478 arg3, swig_intgo arg4, swig_voidp arg5, swig_intgo arg6, swig_intgo arg7);
@@ -4444,6 +4460,8 @@ extern _Bool _wrap_TextDiffOptions_GetExtraMoveHighlight_pdftron_414667156c60689
 extern uintptr_t _wrap_TextDiffOptions_SetExtraMoveHighlight_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_TextDiffOptions_GetShowPlaceholders_pdftron_414667156c60689d(uintptr_t arg1);
 extern uintptr_t _wrap_TextDiffOptions_SetShowPlaceholders_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
+extern _Bool _wrap_TextDiffOptions_GetCompareStyles_pdftron_414667156c60689d(uintptr_t arg1);
+extern uintptr_t _wrap_TextDiffOptions_SetCompareStyles_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_TextDiffOptions_AddIgnoreZonesForPage_pdftron_414667156c60689d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
 extern uintptr_t _wrap_TextDiffOptions_GetInternalObj__SWIG_0_pdftron_414667156c60689d(uintptr_t arg1);
 extern uintptr_t _wrap_TextDiffOptions_GetInternalObj__SWIG_1_pdftron_414667156c60689d(uintptr_t arg1);
@@ -4461,6 +4479,8 @@ extern _Bool _wrap_OfficeToPDFOptions_GetApplyPageBreaksToSheet_pdftron_41466715
 extern uintptr_t _wrap_OfficeToPDFOptions_SetApplyPageBreaksToSheet_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetDisplayChangeTracking_pdftron_414667156c60689d(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetDisplayChangeTracking_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
+extern _Bool _wrap_OfficeToPDFOptions_GetDisplayHiddenText_pdftron_414667156c60689d(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetDisplayHiddenText_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern double _wrap_OfficeToPDFOptions_GetExcelDefaultCellBorderWidth_pdftron_414667156c60689d(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetExcelDefaultCellBorderWidth_pdftron_414667156c60689d(uintptr_t arg1, double arg2);
 extern swig_intgo _wrap_OfficeToPDFOptions_GetExcelMaxAllowedCellCount_pdftron_414667156c60689d(uintptr_t arg1);
@@ -8760,6 +8780,7 @@ extern void _wrap_PDFDraw_SetFlipYAxis_pdftron_414667156c60689d(uintptr_t arg1, 
 extern void _wrap_PDFDraw_SetRotate_pdftron_414667156c60689d(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PDFDraw_SetDrawAnnotations_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFDraw_SetHighlightFields_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
+extern void _wrap_PDFDraw_SetDrawUIElements_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFDraw_SetAntiAliasing_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFDraw_SetPathHinting_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFDraw_SetThinLineAdjustment_pdftron_414667156c60689d(uintptr_t arg1, _Bool arg2, _Bool arg3);
@@ -13120,6 +13141,12 @@ func (arg1 SwigcptrPDFRasterizer) SetHighlightFields(arg2 bool) {
 	C._wrap_PDFRasterizer_SetHighlightFields_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))
 }
 
+func (arg1 SwigcptrPDFRasterizer) SetDrawUIElements(arg2 bool) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_PDFRasterizer_SetDrawUIElements_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))
+}
+
 func (arg1 SwigcptrPDFRasterizer) SetAntiAliasing(arg2 bool) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
@@ -13313,6 +13340,7 @@ type PDFRasterizer interface {
 	RasterizeSeparations(arg2 Page, arg3 int, arg4 int, arg5 Common_Matrix2D, arg6 Rect, arg7 *bool) (_swig_ret VectorSeparation)
 	SetDrawAnnotations(arg2 bool)
 	SetHighlightFields(arg2 bool)
+	SetDrawUIElements(arg2 bool)
 	SetAntiAliasing(arg2 bool)
 	SetPathHinting(arg2 bool)
 	SetThinLineAdjustment(arg2 bool, arg3 bool)
@@ -37213,6 +37241,27 @@ func _swig_getPDFACompliance_e_Level3U_PDFACompliance() (_swig_ret PdftronPDFPDF
 }
 
 var PDFAComplianceE_Level3U PdftronPDFPDFAPDFAComplianceConformance = _swig_getPDFACompliance_e_Level3U_PDFACompliance()
+func _swig_getPDFACompliance_e_Level4_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceConformance) {
+	var swig_r PdftronPDFPDFAPDFAComplianceConformance
+	swig_r = (PdftronPDFPDFAPDFAComplianceConformance)(C._wrap_e_Level4_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_Level4 PdftronPDFPDFAPDFAComplianceConformance = _swig_getPDFACompliance_e_Level4_PDFACompliance()
+func _swig_getPDFACompliance_e_Level4E_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceConformance) {
+	var swig_r PdftronPDFPDFAPDFAComplianceConformance
+	swig_r = (PdftronPDFPDFAPDFAComplianceConformance)(C._wrap_e_Level4E_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_Level4E PdftronPDFPDFAPDFAComplianceConformance = _swig_getPDFACompliance_e_Level4E_PDFACompliance()
+func _swig_getPDFACompliance_e_Level4F_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceConformance) {
+	var swig_r PdftronPDFPDFAPDFAComplianceConformance
+	swig_r = (PdftronPDFPDFAPDFAComplianceConformance)(C._wrap_e_Level4F_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_Level4F PdftronPDFPDFAPDFAComplianceConformance = _swig_getPDFACompliance_e_Level4F_PDFACompliance()
 type PdftronPDFPDFAPDFAComplianceErrorCode int
 func _swig_getPDFACompliance_e_PDFA0_1_0_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
 	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
@@ -38607,6 +38656,90 @@ func _swig_getPDFACompliance_e_PDFA_3E3_PDFACompliance() (_swig_ret PdftronPDFPD
 }
 
 var PDFAComplianceE_PDFA_3E3 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_3E3_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_1_3_4_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_1_3_4_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_1_3_4 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_1_3_4_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_1_3_5_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_1_3_5_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_1_3_5 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_1_3_5_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_1_6_1_3_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_1_6_1_3_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_1_6_1_3 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_1_6_1_3_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_7_3_5_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_7_3_5_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_7_3_5 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_7_3_5_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_2_5_3_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_2_5_3_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_2_5_3 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_2_5_3_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_6_3_1_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_6_3_1_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_6_3_1 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_6_3_1_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_1_12_1_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_1_12_1_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_1_12_1 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_1_12_1_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_2_4_2_3_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_2_4_2_3_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_2_4_2_3 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_2_4_2_3_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_2_2_3_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_2_2_3_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_2_2_3 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_2_2_3_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_9_5_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_9_5_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_9_5 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_9_5_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_2_10_6_1_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_2_10_6_1_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_2_10_6_1 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_2_10_6_1_PDFACompliance()
+func _swig_getPDFACompliance_e_PDFA_4_6_2_10_6_4_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
+	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
+	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_4_6_2_10_6_4_PDFACompliance_pdftron_414667156c60689d())
+	return swig_r
+}
+
+var PDFAComplianceE_PDFA_4_6_2_10_6_4 PdftronPDFPDFAPDFAComplianceErrorCode = _swig_getPDFACompliance_e_PDFA_4_6_2_10_6_4_PDFACompliance()
 func _swig_getPDFACompliance_e_PDFA_LAST_PDFACompliance() (_swig_ret PdftronPDFPDFAPDFAComplianceErrorCode) {
 	var swig_r PdftronPDFPDFAPDFAComplianceErrorCode
 	swig_r = (PdftronPDFPDFAPDFAComplianceErrorCode)(C._wrap_e_PDFA_LAST_PDFACompliance_pdftron_414667156c60689d())
@@ -40935,6 +41068,21 @@ func (arg1 SwigcptrTextDiffOptions) SetShowPlaceholders(arg2 bool) (_swig_ret Te
 	return swig_r
 }
 
+func (arg1 SwigcptrTextDiffOptions) GetCompareStyles() (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	swig_r = (bool)(C._wrap_TextDiffOptions_GetCompareStyles_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrTextDiffOptions) SetCompareStyles(arg2 bool) (_swig_ret TextDiffOptions) {
+	var swig_r TextDiffOptions
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (TextDiffOptions)(SwigcptrTextDiffOptions(C._wrap_TextDiffOptions_SetCompareStyles_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))))
+	return swig_r
+}
+
 func (arg1 SwigcptrTextDiffOptions) AddIgnoreZonesForPage(arg2 RectCollection, arg3 int) (_swig_ret TextDiffOptions) {
 	var swig_r TextDiffOptions
 	_swig_i_0 := arg1
@@ -40990,6 +41138,8 @@ type TextDiffOptions interface {
 	SetExtraMoveHighlight(arg2 bool) (_swig_ret TextDiffOptions)
 	GetShowPlaceholders() (_swig_ret bool)
 	SetShowPlaceholders(arg2 bool) (_swig_ret TextDiffOptions)
+	GetCompareStyles() (_swig_ret bool)
+	SetCompareStyles(arg2 bool) (_swig_ret TextDiffOptions)
 	AddIgnoreZonesForPage(arg2 RectCollection, arg3 int) (_swig_ret TextDiffOptions)
 	GetInternalObj(a ...interface{}) interface{}
 }
@@ -41133,6 +41283,21 @@ func (arg1 SwigcptrOfficeToPDFOptions) SetDisplayChangeTracking(arg2 bool) (_swi
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	swig_r = (OfficeToPDFOptions)(SwigcptrOfficeToPDFOptions(C._wrap_OfficeToPDFOptions_SetDisplayChangeTracking_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))))
+	return swig_r
+}
+
+func (arg1 SwigcptrOfficeToPDFOptions) GetDisplayHiddenText() (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	swig_r = (bool)(C._wrap_OfficeToPDFOptions_GetDisplayHiddenText_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrOfficeToPDFOptions) SetDisplayHiddenText(arg2 bool) (_swig_ret OfficeToPDFOptions) {
+	var swig_r OfficeToPDFOptions
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (OfficeToPDFOptions)(SwigcptrOfficeToPDFOptions(C._wrap_OfficeToPDFOptions_SetDisplayHiddenText_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))))
 	return swig_r
 }
 
@@ -41379,6 +41544,8 @@ type OfficeToPDFOptions interface {
 	SetApplyPageBreaksToSheet(arg2 bool) (_swig_ret OfficeToPDFOptions)
 	GetDisplayChangeTracking() (_swig_ret bool)
 	SetDisplayChangeTracking(arg2 bool) (_swig_ret OfficeToPDFOptions)
+	GetDisplayHiddenText() (_swig_ret bool)
+	SetDisplayHiddenText(arg2 bool) (_swig_ret OfficeToPDFOptions)
 	GetExcelDefaultCellBorderWidth() (_swig_ret float64)
 	SetExcelDefaultCellBorderWidth(arg2 float64) (_swig_ret OfficeToPDFOptions)
 	GetExcelMaxAllowedCellCount() (_swig_ret uint)
@@ -81619,6 +81786,12 @@ func (arg1 SwigcptrPDFDraw) SetHighlightFields(arg2 bool) {
 	C._wrap_PDFDraw_SetHighlightFields_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))
 }
 
+func (arg1 SwigcptrPDFDraw) SetDrawUIElements(arg2 bool) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_PDFDraw_SetDrawUIElements_pdftron_414667156c60689d(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))
+}
+
 func (arg1 SwigcptrPDFDraw) SetAntiAliasing(arg2 bool) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
@@ -81986,6 +82159,7 @@ type PDFDraw interface {
 	SetRotate(arg2 PdftronPDFPageRotate)
 	SetDrawAnnotations(arg2 bool)
 	SetHighlightFields(arg2 bool)
+	SetDrawUIElements(arg2 bool)
 	SetAntiAliasing(arg2 bool)
 	SetPathHinting(arg2 bool)
 	SetThinLineAdjustment(arg2 bool, arg3 bool)
