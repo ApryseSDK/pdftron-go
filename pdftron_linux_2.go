@@ -15,8 +15,8 @@
 package pdftron
 
 /*
-#cgo CXXFLAGS: -I"${SRCDIR}/shared_libs/unix/Headers"
-#cgo LDFLAGS: -Wl,--disable-new-dtags -Wl,-rpath,"${SRCDIR}/shared_libs/unix/Lib" -lpdftron -lPDFNetC -L"${SRCDIR}/shared_libs/unix/Lib" -lstdc++
+#cgo CXXFLAGS: -I"${SRCDIR}/shared_libs/unix_x86_64/Headers"
+#cgo LDFLAGS: -Wl,--disable-new-dtags -Wl,-rpath,"${SRCDIR}/shared_libs/unix_x86_64/Lib" -lpdftron -lPDFNetC -L"${SRCDIR}/shared_libs/unix_x86_64/Lib" -lstdc++
 #define intgo swig_intgo
 typedef void *swig_voidp;
 
@@ -4537,6 +4537,8 @@ extern swig_type_569 _wrap_OfficeToPDFOptions_GetTemplateRightDelimiter_pdftron_
 extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateRightDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_570 arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetTemplateStrictMode_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateStrictMode_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
+extern _Bool _wrap_OfficeToPDFOptions_GetUpdateTableOfContents_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetUpdateTableOfContents_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern swig_type_571 _wrap_OfficeToPDFOptions_GetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_572 arg1);
 extern _Bool _wrap_OfficeToPDFOptions_GetEnableExternalMediaDownloads_pdftron_e64018f00020cc89(uintptr_t _swig_base);

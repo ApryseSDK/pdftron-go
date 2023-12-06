@@ -4538,6 +4538,8 @@ extern swig_type_569 _wrap_OfficeToPDFOptions_GetTemplateRightDelimiter_pdftron_
 extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateRightDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_570 arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetTemplateStrictMode_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateStrictMode_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
+extern _Bool _wrap_OfficeToPDFOptions_GetUpdateTableOfContents_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetUpdateTableOfContents_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern swig_type_571 _wrap_OfficeToPDFOptions_GetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_572 arg1);
 extern _Bool _wrap_OfficeToPDFOptions_GetEnableExternalMediaDownloads_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -23099,6 +23101,21 @@ func (arg1 SwigcptrOfficeToPDFOptions) SetTemplateStrictMode(arg2 bool) (_swig_r
 	return swig_r
 }
 
+func (arg1 SwigcptrOfficeToPDFOptions) GetUpdateTableOfContents() (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	swig_r = (bool)(C._wrap_OfficeToPDFOptions_GetUpdateTableOfContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrOfficeToPDFOptions) SetUpdateTableOfContents(arg2 bool) (_swig_ret OfficeToPDFOptions) {
+	var swig_r OfficeToPDFOptions
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (OfficeToPDFOptions)(SwigcptrOfficeToPDFOptions(C._wrap_OfficeToPDFOptions_SetUpdateTableOfContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))))
+	return swig_r
+}
+
 func (_swig_base SwigcptrOfficeToPDFOptions) GetFileExtension() (_swig_ret string) {
 	var swig_r string
 	swig_r_p := C._wrap_OfficeToPDFOptions_GetFileExtension_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base))
@@ -23175,6 +23192,8 @@ type OfficeToPDFOptions interface {
 	SetTemplateRightDelimiter(arg2 string) (_swig_ret OfficeToPDFOptions)
 	GetTemplateStrictMode() (_swig_ret bool)
 	SetTemplateStrictMode(arg2 bool) (_swig_ret OfficeToPDFOptions)
+	GetUpdateTableOfContents() (_swig_ret bool)
+	SetUpdateTableOfContents(arg2 bool) (_swig_ret OfficeToPDFOptions)
 	GetFileExtension() (_swig_ret string)
 	SetFileExtension(arg1 string) (_swig_ret ConversionOptions)
 	GetEnableExternalMediaDownloads() (_swig_ret bool)
