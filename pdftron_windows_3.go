@@ -382,17 +382,17 @@ typedef _gostring_ swig_type_347;
 typedef _gostring_ swig_type_348;
 typedef _gostring_ swig_type_349;
 typedef _gostring_ swig_type_350;
-typedef long long swig_type_351;
+typedef _gostring_ swig_type_351;
 typedef _gostring_ swig_type_352;
-typedef long long swig_type_353;
-typedef _gostring_ swig_type_354;
+typedef _gostring_ swig_type_353;
+typedef long long swig_type_354;
 typedef _gostring_ swig_type_355;
 typedef long long swig_type_356;
 typedef _gostring_ swig_type_357;
-typedef long long swig_type_358;
-typedef _gostring_ swig_type_359;
+typedef _gostring_ swig_type_358;
+typedef long long swig_type_359;
 typedef _gostring_ swig_type_360;
-typedef _gostring_ swig_type_361;
+typedef long long swig_type_361;
 typedef _gostring_ swig_type_362;
 typedef _gostring_ swig_type_363;
 typedef _gostring_ swig_type_364;
@@ -474,11 +474,11 @@ typedef _gostring_ swig_type_439;
 typedef _gostring_ swig_type_440;
 typedef _gostring_ swig_type_441;
 typedef _gostring_ swig_type_442;
-typedef long long swig_type_443;
+typedef _gostring_ swig_type_443;
 typedef _gostring_ swig_type_444;
 typedef _gostring_ swig_type_445;
 typedef _gostring_ swig_type_446;
-typedef _gostring_ swig_type_447;
+typedef long long swig_type_447;
 typedef _gostring_ swig_type_448;
 typedef _gostring_ swig_type_449;
 typedef _gostring_ swig_type_450;
@@ -518,29 +518,29 @@ typedef _gostring_ swig_type_483;
 typedef _gostring_ swig_type_484;
 typedef _gostring_ swig_type_485;
 typedef _gostring_ swig_type_486;
-typedef long long swig_type_487;
+typedef _gostring_ swig_type_487;
 typedef _gostring_ swig_type_488;
 typedef _gostring_ swig_type_489;
-typedef long long swig_type_490;
-typedef _gostring_ swig_type_491;
+typedef _gostring_ swig_type_490;
+typedef long long swig_type_491;
 typedef _gostring_ swig_type_492;
-typedef long long swig_type_493;
-typedef _gostring_ swig_type_494;
+typedef _gostring_ swig_type_493;
+typedef long long swig_type_494;
 typedef _gostring_ swig_type_495;
-typedef long long swig_type_496;
-typedef _gostring_ swig_type_497;
+typedef _gostring_ swig_type_496;
+typedef long long swig_type_497;
 typedef _gostring_ swig_type_498;
-typedef long long swig_type_499;
-typedef _gostring_ swig_type_500;
+typedef _gostring_ swig_type_499;
+typedef long long swig_type_500;
 typedef _gostring_ swig_type_501;
-typedef long long swig_type_502;
-typedef _gostring_ swig_type_503;
+typedef _gostring_ swig_type_502;
+typedef long long swig_type_503;
 typedef _gostring_ swig_type_504;
-typedef long long swig_type_505;
+typedef _gostring_ swig_type_505;
 typedef long long swig_type_506;
 typedef _gostring_ swig_type_507;
-typedef long long swig_type_508;
-typedef _gostring_ swig_type_509;
+typedef _gostring_ swig_type_508;
+typedef long long swig_type_509;
 typedef long long swig_type_510;
 typedef _gostring_ swig_type_511;
 typedef long long swig_type_512;
@@ -551,20 +551,20 @@ typedef long long swig_type_516;
 typedef _gostring_ swig_type_517;
 typedef long long swig_type_518;
 typedef _gostring_ swig_type_519;
-typedef _gostring_ swig_type_520;
-typedef long long swig_type_521;
+typedef long long swig_type_520;
+typedef _gostring_ swig_type_521;
 typedef long long swig_type_522;
 typedef _gostring_ swig_type_523;
 typedef _gostring_ swig_type_524;
 typedef long long swig_type_525;
 typedef long long swig_type_526;
-typedef long long swig_type_527;
-typedef long long swig_type_528;
+typedef _gostring_ swig_type_527;
+typedef _gostring_ swig_type_528;
 typedef long long swig_type_529;
-typedef _gostring_ swig_type_530;
-typedef _gostring_ swig_type_531;
-typedef _gostring_ swig_type_532;
-typedef _gostring_ swig_type_533;
+typedef long long swig_type_530;
+typedef long long swig_type_531;
+typedef long long swig_type_532;
+typedef long long swig_type_533;
 typedef _gostring_ swig_type_534;
 typedef _gostring_ swig_type_535;
 typedef _gostring_ swig_type_536;
@@ -639,11 +639,11 @@ typedef _gostring_ swig_type_604;
 typedef _gostring_ swig_type_605;
 typedef _gostring_ swig_type_606;
 typedef _gostring_ swig_type_607;
-typedef long long swig_type_608;
+typedef _gostring_ swig_type_608;
 typedef _gostring_ swig_type_609;
 typedef _gostring_ swig_type_610;
 typedef _gostring_ swig_type_611;
-typedef _gostring_ swig_type_612;
+typedef long long swig_type_612;
 typedef _gostring_ swig_type_613;
 typedef _gostring_ swig_type_614;
 typedef _gostring_ swig_type_615;
@@ -772,26 +772,26 @@ typedef _gostring_ swig_type_737;
 typedef _gostring_ swig_type_738;
 typedef _gostring_ swig_type_739;
 typedef _gostring_ swig_type_740;
-typedef long long swig_type_741;
-typedef long long swig_type_742;
-typedef long long swig_type_743;
-typedef long long swig_type_744;
+typedef _gostring_ swig_type_741;
+typedef _gostring_ swig_type_742;
+typedef _gostring_ swig_type_743;
+typedef _gostring_ swig_type_744;
 typedef _gostring_ swig_type_745;
-typedef long long swig_type_746;
-typedef _gostring_ swig_type_747;
+typedef _gostring_ swig_type_746;
+typedef long long swig_type_747;
 typedef long long swig_type_748;
-typedef _gostring_ swig_type_749;
+typedef long long swig_type_749;
 typedef long long swig_type_750;
 typedef _gostring_ swig_type_751;
 typedef long long swig_type_752;
 typedef _gostring_ swig_type_753;
 typedef long long swig_type_754;
 typedef _gostring_ swig_type_755;
-typedef _gostring_ swig_type_756;
+typedef long long swig_type_756;
 typedef _gostring_ swig_type_757;
-typedef _gostring_ swig_type_758;
+typedef long long swig_type_758;
 typedef _gostring_ swig_type_759;
-typedef _gostring_ swig_type_760;
+typedef long long swig_type_760;
 typedef _gostring_ swig_type_761;
 typedef _gostring_ swig_type_762;
 typedef _gostring_ swig_type_763;
@@ -808,26 +808,26 @@ typedef _gostring_ swig_type_773;
 typedef _gostring_ swig_type_774;
 typedef _gostring_ swig_type_775;
 typedef _gostring_ swig_type_776;
-typedef long long swig_type_777;
+typedef _gostring_ swig_type_777;
 typedef _gostring_ swig_type_778;
 typedef _gostring_ swig_type_779;
-typedef long long swig_type_780;
-typedef long long swig_type_781;
+typedef _gostring_ swig_type_780;
+typedef _gostring_ swig_type_781;
 typedef _gostring_ swig_type_782;
-typedef _gostring_ swig_type_783;
-typedef long long swig_type_784;
+typedef long long swig_type_783;
+typedef _gostring_ swig_type_784;
 typedef _gostring_ swig_type_785;
 typedef long long swig_type_786;
 typedef long long swig_type_787;
 typedef _gostring_ swig_type_788;
-typedef long long swig_type_789;
+typedef _gostring_ swig_type_789;
 typedef long long swig_type_790;
 typedef _gostring_ swig_type_791;
-typedef _gostring_ swig_type_792;
-typedef _gostring_ swig_type_793;
+typedef long long swig_type_792;
+typedef long long swig_type_793;
 typedef _gostring_ swig_type_794;
-typedef _gostring_ swig_type_795;
-typedef _gostring_ swig_type_796;
+typedef long long swig_type_795;
+typedef long long swig_type_796;
 typedef _gostring_ swig_type_797;
 typedef _gostring_ swig_type_798;
 typedef _gostring_ swig_type_799;
@@ -839,15 +839,15 @@ typedef _gostring_ swig_type_804;
 typedef _gostring_ swig_type_805;
 typedef _gostring_ swig_type_806;
 typedef _gostring_ swig_type_807;
-typedef long long swig_type_808;
+typedef _gostring_ swig_type_808;
 typedef _gostring_ swig_type_809;
-typedef long long swig_type_810;
+typedef _gostring_ swig_type_810;
 typedef _gostring_ swig_type_811;
 typedef _gostring_ swig_type_812;
 typedef _gostring_ swig_type_813;
-typedef _gostring_ swig_type_814;
+typedef long long swig_type_814;
 typedef _gostring_ swig_type_815;
-typedef _gostring_ swig_type_816;
+typedef long long swig_type_816;
 typedef _gostring_ swig_type_817;
 typedef _gostring_ swig_type_818;
 typedef _gostring_ swig_type_819;
@@ -1060,23 +1060,23 @@ typedef _gostring_ swig_type_1025;
 typedef _gostring_ swig_type_1026;
 typedef _gostring_ swig_type_1027;
 typedef _gostring_ swig_type_1028;
-typedef long long swig_type_1029;
-typedef long long swig_type_1030;
-typedef long long swig_type_1031;
-typedef long long swig_type_1032;
+typedef _gostring_ swig_type_1029;
+typedef _gostring_ swig_type_1030;
+typedef _gostring_ swig_type_1031;
+typedef _gostring_ swig_type_1032;
 typedef _gostring_ swig_type_1033;
 typedef _gostring_ swig_type_1034;
-typedef _gostring_ swig_type_1035;
+typedef long long swig_type_1035;
 typedef long long swig_type_1036;
 typedef long long swig_type_1037;
 typedef long long swig_type_1038;
-typedef long long swig_type_1039;
+typedef _gostring_ swig_type_1039;
 typedef _gostring_ swig_type_1040;
 typedef _gostring_ swig_type_1041;
-typedef _gostring_ swig_type_1042;
-typedef _gostring_ swig_type_1043;
-typedef _gostring_ swig_type_1044;
-typedef _gostring_ swig_type_1045;
+typedef long long swig_type_1042;
+typedef long long swig_type_1043;
+typedef long long swig_type_1044;
+typedef long long swig_type_1045;
 typedef _gostring_ swig_type_1046;
 typedef _gostring_ swig_type_1047;
 typedef _gostring_ swig_type_1048;
@@ -1106,24 +1106,24 @@ typedef _gostring_ swig_type_1071;
 typedef _gostring_ swig_type_1072;
 typedef _gostring_ swig_type_1073;
 typedef _gostring_ swig_type_1074;
-typedef long long swig_type_1075;
+typedef _gostring_ swig_type_1075;
 typedef _gostring_ swig_type_1076;
 typedef _gostring_ swig_type_1077;
 typedef _gostring_ swig_type_1078;
 typedef _gostring_ swig_type_1079;
 typedef _gostring_ swig_type_1080;
-typedef _gostring_ swig_type_1081;
+typedef long long swig_type_1081;
 typedef _gostring_ swig_type_1082;
 typedef _gostring_ swig_type_1083;
-typedef long long swig_type_1084;
-typedef long long swig_type_1085;
-typedef long long swig_type_1086;
+typedef _gostring_ swig_type_1084;
+typedef _gostring_ swig_type_1085;
+typedef _gostring_ swig_type_1086;
 typedef _gostring_ swig_type_1087;
 typedef _gostring_ swig_type_1088;
 typedef _gostring_ swig_type_1089;
-typedef _gostring_ swig_type_1090;
-typedef _gostring_ swig_type_1091;
-typedef _gostring_ swig_type_1092;
+typedef long long swig_type_1090;
+typedef long long swig_type_1091;
+typedef long long swig_type_1092;
 typedef _gostring_ swig_type_1093;
 typedef _gostring_ swig_type_1094;
 typedef _gostring_ swig_type_1095;
@@ -1203,6 +1203,12 @@ typedef _gostring_ swig_type_1168;
 typedef _gostring_ swig_type_1169;
 typedef _gostring_ swig_type_1170;
 typedef _gostring_ swig_type_1171;
+typedef _gostring_ swig_type_1172;
+typedef _gostring_ swig_type_1173;
+typedef _gostring_ swig_type_1174;
+typedef _gostring_ swig_type_1175;
+typedef _gostring_ swig_type_1176;
+typedef _gostring_ swig_type_1177;
 extern void _wrap_Swig_free_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Swig_malloc_pdftron_e64018f00020cc89(swig_intgo arg1);
 extern uintptr_t _wrap_new_VectorDouble__SWIG_0_pdftron_e64018f00020cc89(void);
@@ -1516,6 +1522,7 @@ extern void _wrap_PDFRasterizer_SetAntiAliasing_pdftron_e64018f00020cc89(uintptr
 extern void _wrap_PDFRasterizer_SetPathHinting_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFRasterizer_SetThinLineAdjustment_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2, _Bool arg3);
 extern void _wrap_PDFRasterizer_SetThinLineScaling_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
+extern void _wrap_PDFRasterizer_SetNightModeTuning_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2, double arg3, double arg4);
 extern void _wrap_PDFRasterizer_SetImageSmoothing__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2, _Bool arg3);
 extern void _wrap_PDFRasterizer_SetImageSmoothing__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFRasterizer_SetImageSmoothing__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -3099,6 +3106,8 @@ extern swig_intgo _wrap_e_SHA512_DigestAlgorithm_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_RIPEMD160_DigestAlgorithm_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_unknown_digest_algorithm_DigestAlgorithm_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_DigestAlgorithm_CalculateDigest_pdftron_e64018f00020cc89(swig_intgo arg1, uintptr_t arg2);
+extern uintptr_t _wrap_DigestAlgorithm_SignDigest__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_342 arg3, swig_type_343 arg4);
+extern uintptr_t _wrap_DigestAlgorithm_SignDigest__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3, swig_type_344 arg4);
 extern uintptr_t _wrap_new_DigestAlgorithm_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_DigestAlgorithm_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_e_adbe_x509_rsa_sha1_DigitalSignatureField_pdftron_e64018f00020cc89(void);
@@ -3119,26 +3128,26 @@ extern uintptr_t _wrap_new_DigitalSignatureField__SWIG_0_pdftron_e64018f00020cc8
 extern uintptr_t _wrap_new_DigitalSignatureField__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_DigitalSignatureField_HasCryptographicSignature_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_DigitalSignatureField_GetSubFilter_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_342 _wrap_DigitalSignatureField_GetSignatureName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_345 _wrap_DigitalSignatureField_GetSignatureName_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_DigitalSignatureField_GetSigningTime_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_343 _wrap_DigitalSignatureField_GetLocation_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_344 _wrap_DigitalSignatureField_GetReason_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_345 _wrap_DigitalSignatureField_GetContactInfo_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_346 _wrap_DigitalSignatureField_GetLocation_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_347 _wrap_DigitalSignatureField_GetReason_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_348 _wrap_DigitalSignatureField_GetContactInfo_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_DigitalSignatureField_GetCert_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern swig_intgo _wrap_DigitalSignatureField_GetCertCount_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_DigitalSignatureField_HasVisibleAppearance_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_DigitalSignatureField_SetContactInfo_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_346 arg2);
-extern void _wrap_DigitalSignatureField_SetLocation_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_347 arg2);
-extern void _wrap_DigitalSignatureField_SetReason_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_348 arg2);
+extern void _wrap_DigitalSignatureField_SetContactInfo_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_349 arg2);
+extern void _wrap_DigitalSignatureField_SetLocation_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_350 arg2);
+extern void _wrap_DigitalSignatureField_SetReason_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_351 arg2);
 extern void _wrap_DigitalSignatureField_SetFieldPermissions__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
 extern void _wrap_DigitalSignatureField_SetFieldPermissions__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_DigitalSignatureField_SetDocumentPermissions_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_DigitalSignatureField_SignOnNextSave__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_349 arg2, swig_type_350 arg3);
-extern void _wrap_DigitalSignatureField_SignOnNextSave__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_351 arg3, swig_type_352 arg4);
-extern void _wrap_DigitalSignatureField_SignOnNextSaveWithCustomHandler_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_353 arg2);
-extern void _wrap_DigitalSignatureField_CertifyOnNextSave__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_354 arg2, swig_type_355 arg3);
-extern void _wrap_DigitalSignatureField_CertifyOnNextSave__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_356 arg3, swig_type_357 arg4);
-extern void _wrap_DigitalSignatureField_CertifyOnNextSaveWithCustomHandler_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_358 arg2);
+extern void _wrap_DigitalSignatureField_SignOnNextSave__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_352 arg2, swig_type_353 arg3);
+extern void _wrap_DigitalSignatureField_SignOnNextSave__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_354 arg3, swig_type_355 arg4);
+extern void _wrap_DigitalSignatureField_SignOnNextSaveWithCustomHandler_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_356 arg2);
+extern void _wrap_DigitalSignatureField_CertifyOnNextSave__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_357 arg2, swig_type_358 arg3);
+extern void _wrap_DigitalSignatureField_CertifyOnNextSave__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_359 arg3, swig_type_360 arg4);
+extern void _wrap_DigitalSignatureField_CertifyOnNextSaveWithCustomHandler_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_361 arg2);
 extern uintptr_t _wrap_DigitalSignatureField_GetSDFObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_DigitalSignatureField_IsLockedByDigitalSignature_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_DigitalSignatureField_GetLockedFields_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -3158,31 +3167,32 @@ extern uintptr_t _wrap_DigitalSignatureField_CalculateDigest__SWIG_0_pdftron_e64
 extern uintptr_t _wrap_DigitalSignatureField_CalculateDigest__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_DigitalSignatureField_SetPreferredDigestAlgorithm__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, _Bool arg3);
 extern void _wrap_DigitalSignatureField_SetPreferredDigestAlgorithm__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_DigitalSignatureField_CreateSigDictForCustomCertification_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_359 arg2, swig_voidp arg3, swig_intgo arg4);
-extern void _wrap_DigitalSignatureField_CreateSigDictForCustomSigning_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_360 arg2, swig_voidp arg3, swig_intgo arg4);
+extern void _wrap_DigitalSignatureField_CreateSigDictForCustomCertification_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_362 arg2, swig_voidp arg3, swig_intgo arg4);
+extern void _wrap_DigitalSignatureField_CreateSigDictForCustomSigning_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_363 arg2, swig_voidp arg3, swig_intgo arg4);
 extern void _wrap_DigitalSignatureField_SetSigDictTimeOfSigning_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_DigitalSignatureField_SignDigest__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_361 arg2, swig_type_362 arg3, _Bool arg4, swig_intgo arg5);
-extern uintptr_t _wrap_DigitalSignatureField_SignDigest__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_363 arg3, _Bool arg4, swig_intgo arg5);
+extern uintptr_t _wrap_DigitalSignatureField_SignDigest__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_364 arg2, swig_type_365 arg3, _Bool arg4, swig_intgo arg5);
+extern uintptr_t _wrap_DigitalSignatureField_SignDigest__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_366 arg3, _Bool arg4, swig_intgo arg5);
 extern uintptr_t _wrap_DigitalSignatureField_GenerateESSSigningCertPAdESAttribute_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_DigitalSignatureField_GenerateCMSSignedAttributes__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_DigitalSignatureField_GenerateCMSSignedAttributes__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_DigitalSignatureField_GenerateCMSSignature_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, uintptr_t arg4, uintptr_t arg5, uintptr_t arg6);
+extern _Bool _wrap_DigitalSignatureField_SetDigSigLogFilename_pdftron_e64018f00020cc89(swig_type_367 arg1);
 extern uintptr_t _wrap_new_DigitalSignatureField__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_DigitalSignatureField_m_impl_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_DigitalSignatureField_m_impl_get_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_DigitalSignatureField_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_FileSpec_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_364 arg2, _Bool arg3);
-extern uintptr_t _wrap_FileSpec_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_365 arg2);
-extern uintptr_t _wrap_FileSpec_CreateURL_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_366 arg2);
+extern uintptr_t _wrap_FileSpec_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_368 arg2, _Bool arg3);
+extern uintptr_t _wrap_FileSpec_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_369 arg2);
+extern uintptr_t _wrap_FileSpec_CreateURL_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_370 arg2);
 extern uintptr_t _wrap_new_FileSpec__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_FileSpec__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_FileSpec_IsEqual_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern _Bool _wrap_FileSpec_IsValid_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern _Bool _wrap_FileSpec_Export__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_367 arg2);
+extern _Bool _wrap_FileSpec_Export__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_371 arg2);
 extern _Bool _wrap_FileSpec_Export__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_FileSpec_GetFileData_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_368 _wrap_FileSpec_GetFilePath_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_FileSpec_SetDesc_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_369 arg2);
+extern swig_type_372 _wrap_FileSpec_GetFilePath_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_FileSpec_SetDesc_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_373 arg2);
 extern uintptr_t _wrap_FileSpec_GetSDFObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_FileSpec__SWIG_2_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_FileSpec__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -3253,8 +3263,8 @@ extern void _wrap_Annot_SetRect_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr
 extern uintptr_t _wrap_Annot_GetPage_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Annot_SetPage_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Annot_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Annot_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_370 arg2, swig_intgo arg3);
-extern void _wrap_Annot_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_371 arg2);
+extern void _wrap_Annot_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_374 arg2, swig_intgo arg3);
+extern void _wrap_Annot_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_375 arg2);
 extern uintptr_t _wrap_Annot_GetDate_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Annot_SetDate_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern swig_intgo _wrap_e_invisible_Annot_pdftron_e64018f00020cc89(void);
@@ -3287,18 +3297,18 @@ extern void _wrap_Annot_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_
 extern swig_intgo _wrap_e_normal_Annot_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_rollover_Annot_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_down_Annot_pdftron_e64018f00020cc89(void);
-extern uintptr_t _wrap_Annot_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_372 arg3);
+extern uintptr_t _wrap_Annot_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_376 arg3);
 extern uintptr_t _wrap_Annot_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_Annot_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Annot_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_373 arg4);
+extern void _wrap_Annot_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_377 arg4);
 extern void _wrap_Annot_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
 extern void _wrap_Annot_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_Annot_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_374 arg3);
+extern void _wrap_Annot_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_378 arg3);
 extern void _wrap_Annot_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Annot_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Annot_Flatten_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_375 _wrap_Annot_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Annot_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_376 arg2);
+extern swig_type_379 _wrap_Annot_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Annot_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_380 arg2);
 extern uintptr_t _wrap_Annot_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Annot_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Annot_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -3309,15 +3319,15 @@ extern swig_intgo _wrap_Annot_GetStructParent_pdftron_e64018f00020cc89(uintptr_t
 extern void _wrap_Annot_SetStructParent_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_Annot_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Annot_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_Annot_SetContents_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_377 arg2);
-extern swig_type_378 _wrap_Annot_GetContents_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Annot_SetContents_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_381 arg2);
+extern swig_type_382 _wrap_Annot_GetContents_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_Annot_GetRotation_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Annot_SetRotation_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Annot_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Annot_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_379 _wrap_Annot_GetCustomData_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_380 arg2);
-extern void _wrap_Annot_SetCustomData_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_381 arg2, swig_type_382 arg3);
-extern void _wrap_Annot_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_383 arg2);
+extern swig_type_383 _wrap_Annot_GetCustomData_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_384 arg2);
+extern void _wrap_Annot_SetCustomData_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_385 arg2, swig_type_386 arg3);
+extern void _wrap_Annot_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_387 arg2);
 extern void _wrap_Annot_Resize_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Annot_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Annot_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -3372,8 +3382,8 @@ extern void _wrap_Popup_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, u
 extern uintptr_t _wrap_Popup_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Popup_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Popup_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Popup_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Popup_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Popup_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Popup_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Popup_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Popup_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Popup_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -3382,18 +3392,18 @@ extern uintptr_t _wrap_Popup_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_t
 extern uintptr_t _wrap_Popup_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Popup_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Popup_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Popup_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Popup_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Popup_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Popup_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Popup_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Popup_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Popup_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Popup_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Popup_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Popup_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Popup_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Popup_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Popup_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_389 _wrap_Popup_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Popup_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_393 _wrap_Popup_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Popup_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Popup_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Popup_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Popup_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3404,15 +3414,15 @@ extern swig_intgo _wrap_Popup_GetStructParent_pdftron_e64018f00020cc89(uintptr_t
 extern void _wrap_Popup_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Popup_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Popup_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Popup_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_392 _wrap_Popup_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Popup_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_396 _wrap_Popup_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Popup_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Popup_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Popup_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Popup_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_393 _wrap_Popup_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Popup_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Popup_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_397 _wrap_Popup_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Popup_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Popup_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Popup_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Popup_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Popup_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3421,15 +3431,15 @@ extern uintptr_t _wrap_GetPopup_Mp_annot_pdftron_e64018f00020cc89(uintptr_t _swi
 extern uintptr_t _wrap_new_Markup__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Markup__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_Markup__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_398 _wrap_Markup_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Markup_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_399 arg2);
-extern void _wrap_Markup_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_400 arg2);
+extern swig_type_402 _wrap_Markup_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Markup_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_403 arg2);
+extern void _wrap_Markup_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_404 arg2);
 extern uintptr_t _wrap_Markup_GetPopup_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Markup_SetPopup_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern double _wrap_Markup_GetOpacity_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Markup_SetOpacity_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
-extern swig_type_401 _wrap_Markup_GetSubject_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Markup_SetSubject_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_402 arg2);
+extern swig_type_405 _wrap_Markup_GetSubject_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Markup_SetSubject_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_406 arg2);
 extern uintptr_t _wrap_Markup_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Markup_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern swig_intgo _wrap_e_None_Markup_pdftron_e64018f00020cc89(void);
@@ -3463,8 +3473,8 @@ extern void _wrap_Markup_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, 
 extern uintptr_t _wrap_Markup_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Markup_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Markup_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Markup_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Markup_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Markup_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Markup_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Markup_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Markup_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Markup_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -3473,18 +3483,18 @@ extern uintptr_t _wrap_Markup_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_
 extern uintptr_t _wrap_Markup_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Markup_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Markup_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Markup_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Markup_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Markup_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Markup_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Markup_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Markup_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Markup_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Markup_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Markup_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Markup_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Markup_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Markup_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Markup_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_403 _wrap_Markup_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Markup_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_407 _wrap_Markup_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Markup_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Markup_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Markup_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Markup_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3495,15 +3505,15 @@ extern swig_intgo _wrap_Markup_GetStructParent_pdftron_e64018f00020cc89(uintptr_
 extern void _wrap_Markup_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Markup_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Markup_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Markup_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_404 _wrap_Markup_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Markup_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_408 _wrap_Markup_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Markup_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Markup_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Markup_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Markup_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_405 _wrap_Markup_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Markup_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Markup_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_409 _wrap_Markup_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Markup_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Markup_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Markup_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Markup_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Markup_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3521,31 +3531,31 @@ extern uintptr_t _wrap_FileAttachment_Create__SWIG_0_pdftron_e64018f00020cc89(ui
 extern uintptr_t _wrap_FileAttachment_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern uintptr_t _wrap_FileAttachment_CreateAnnot__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, swig_intgo arg4);
 extern uintptr_t _wrap_FileAttachment_CreateAnnot__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
-extern uintptr_t _wrap_FileAttachment_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_406 arg3, swig_intgo arg4);
-extern uintptr_t _wrap_FileAttachment_Create__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_407 arg3);
-extern uintptr_t _wrap_FileAttachment_CreateAnnot__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_408 arg3, swig_intgo arg4);
-extern uintptr_t _wrap_FileAttachment_CreateAnnot__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_409 arg3);
-extern uintptr_t _wrap_FileAttachment_Create__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_410 arg3, swig_type_411 arg4);
+extern uintptr_t _wrap_FileAttachment_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_410 arg3, swig_intgo arg4);
+extern uintptr_t _wrap_FileAttachment_Create__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_411 arg3);
+extern uintptr_t _wrap_FileAttachment_CreateAnnot__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_412 arg3, swig_intgo arg4);
+extern uintptr_t _wrap_FileAttachment_CreateAnnot__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_413 arg3);
+extern uintptr_t _wrap_FileAttachment_Create__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_414 arg3, swig_type_415 arg4);
 extern uintptr_t _wrap_FileAttachment_GetFileSpec_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_FileAttachment_SetFileSpec_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern _Bool _wrap_FileAttachment_Export__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_412 arg2);
+extern _Bool _wrap_FileAttachment_Export__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_416 arg2);
 extern _Bool _wrap_FileAttachment_Export__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_FileAttachment_GetIcon_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_FileAttachment_SetIcon__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_FileAttachment_SetIcon__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_413 _wrap_FileAttachment_GetIconName_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_FileAttachment_SetIconName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_414 arg2);
+extern swig_type_417 _wrap_FileAttachment_GetIconName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_FileAttachment_SetIconName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_418 arg2);
 extern uintptr_t _wrap_new_FileAttachment__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_FileAttachment_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_415 _wrap_FileAttachment_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FileAttachment_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_FileAttachment_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_419 _wrap_FileAttachment_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_FileAttachment_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_FileAttachment_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_FileAttachment_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_FileAttachment_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_418 _wrap_FileAttachment_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FileAttachment_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_422 _wrap_FileAttachment_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_FileAttachment_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_FileAttachment_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_FileAttachment_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3574,8 +3584,8 @@ extern void _wrap_FileAttachment_SetRect_pdftron_e64018f00020cc89(uintptr_t _swi
 extern uintptr_t _wrap_FileAttachment_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_FileAttachment_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FileAttachment_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_FileAttachment_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_FileAttachment_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_FileAttachment_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_FileAttachment_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_FileAttachment_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -3584,18 +3594,18 @@ extern uintptr_t _wrap_FileAttachment_GetTriggerAction_pdftron_e64018f00020cc89(
 extern uintptr_t _wrap_FileAttachment_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_FileAttachment_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_FileAttachment_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_FileAttachment_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_FileAttachment_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_FileAttachment_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FileAttachment_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_FileAttachment_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_FileAttachment_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_FileAttachment_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_FileAttachment_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_FileAttachment_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_FileAttachment_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_FileAttachment_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_420 _wrap_FileAttachment_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FileAttachment_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_424 _wrap_FileAttachment_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_FileAttachment_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_FileAttachment_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_FileAttachment_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_FileAttachment_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3606,15 +3616,15 @@ extern swig_intgo _wrap_FileAttachment_GetStructParent_pdftron_e64018f00020cc89(
 extern void _wrap_FileAttachment_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_FileAttachment_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_FileAttachment_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_421 _wrap_FileAttachment_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_FileAttachment_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_425 _wrap_FileAttachment_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_FileAttachment_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_FileAttachment_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FileAttachment_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_422 _wrap_FileAttachment_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_FileAttachment_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_FileAttachment_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_426 _wrap_FileAttachment_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_FileAttachment_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_FileAttachment_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_FileAttachment_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_FileAttachment_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_FileAttachment_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3639,15 +3649,15 @@ extern uintptr_t _wrap_TextMarkup_GetQuadPoint_pdftron_e64018f00020cc89(uintptr_
 extern void _wrap_TextMarkup_SetQuadPoint_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
 extern uintptr_t _wrap_new_TextMarkup__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_TextMarkup_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_423 _wrap_TextMarkup_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextMarkup_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_TextMarkup_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_427 _wrap_TextMarkup_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_TextMarkup_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_TextMarkup_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_TextMarkup_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_TextMarkup_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_424 _wrap_TextMarkup_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextMarkup_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_428 _wrap_TextMarkup_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_TextMarkup_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_TextMarkup_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_TextMarkup_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3677,8 +3687,8 @@ extern void _wrap_TextMarkup_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_ba
 extern uintptr_t _wrap_TextMarkup_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_TextMarkup_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextMarkup_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_TextMarkup_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_TextMarkup_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_TextMarkup_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_TextMarkup_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_TextMarkup_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -3687,18 +3697,18 @@ extern uintptr_t _wrap_TextMarkup_GetTriggerAction_pdftron_e64018f00020cc89(uint
 extern uintptr_t _wrap_TextMarkup_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_TextMarkup_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_TextMarkup_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_TextMarkup_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_TextMarkup_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_TextMarkup_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextMarkup_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_TextMarkup_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_TextMarkup_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_TextMarkup_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_TextMarkup_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_TextMarkup_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_TextMarkup_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_TextMarkup_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_425 _wrap_TextMarkup_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextMarkup_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_429 _wrap_TextMarkup_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_TextMarkup_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_TextMarkup_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_TextMarkup_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_TextMarkup_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3709,15 +3719,15 @@ extern swig_intgo _wrap_TextMarkup_GetStructParent_pdftron_e64018f00020cc89(uint
 extern void _wrap_TextMarkup_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_TextMarkup_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_TextMarkup_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_426 _wrap_TextMarkup_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_TextMarkup_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_430 _wrap_TextMarkup_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_TextMarkup_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_TextMarkup_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextMarkup_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_427 _wrap_TextMarkup_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_TextMarkup_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_TextMarkup_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_431 _wrap_TextMarkup_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_TextMarkup_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_TextMarkup_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_TextMarkup_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_TextMarkup_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TextMarkup_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3737,15 +3747,15 @@ extern _Bool _wrap_Ink_GetHighlightIntent_pdftron_e64018f00020cc89(uintptr_t arg
 extern void _wrap_Ink_SetHighlightIntent_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_new_Ink__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_Ink_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_428 _wrap_Ink_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Ink_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_Ink_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_432 _wrap_Ink_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Ink_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_Ink_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_Ink_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_Ink_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_429 _wrap_Ink_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Ink_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_433 _wrap_Ink_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Ink_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_Ink_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_Ink_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3774,8 +3784,8 @@ extern void _wrap_Ink_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, uin
 extern uintptr_t _wrap_Ink_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Ink_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Ink_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Ink_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Ink_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Ink_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Ink_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Ink_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -3784,18 +3794,18 @@ extern uintptr_t _wrap_Ink_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_t _
 extern uintptr_t _wrap_Ink_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Ink_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Ink_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Ink_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Ink_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Ink_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Ink_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Ink_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Ink_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Ink_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Ink_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Ink_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Ink_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Ink_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_430 _wrap_Ink_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Ink_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_434 _wrap_Ink_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Ink_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Ink_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Ink_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Ink_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3806,15 +3816,15 @@ extern swig_intgo _wrap_Ink_GetStructParent_pdftron_e64018f00020cc89(uintptr_t _
 extern void _wrap_Ink_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Ink_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Ink_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_431 _wrap_Ink_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Ink_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_435 _wrap_Ink_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Ink_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Ink_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Ink_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_432 _wrap_Ink_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Ink_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Ink_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_436 _wrap_Ink_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Ink_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Ink_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Ink_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Ink_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Ink_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -3853,14 +3863,14 @@ extern uintptr_t _wrap_Action_CreateGoto__SWIG_0_pdftron_e64018f00020cc89(uintpt
 extern uintptr_t _wrap_Action_CreateGoto__SWIG_1_pdftron_e64018f00020cc89(swig_voidp arg1, swig_intgo arg2, uintptr_t arg3);
 extern uintptr_t _wrap_Action_CreateGotoRemote__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_Action_CreateGotoRemote__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, _Bool arg3);
-extern uintptr_t _wrap_Action_CreateURI__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_433 arg2);
+extern uintptr_t _wrap_Action_CreateURI__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_437 arg2);
 extern uintptr_t _wrap_Action_CreateURI__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2);
 extern uintptr_t _wrap_Action_CreateSubmitForm_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_Action_CreateLaunch_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_434 arg2);
+extern uintptr_t _wrap_Action_CreateLaunch_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_438 arg2);
 extern uintptr_t _wrap_Action_CreateHideField_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Action_CreateImportData_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_435 arg2);
+extern uintptr_t _wrap_Action_CreateImportData_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_439 arg2);
 extern uintptr_t _wrap_Action_CreateResetForm_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_Action_CreateJavaScript_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_436 arg2);
+extern uintptr_t _wrap_Action_CreateJavaScript_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_440 arg2);
 extern uintptr_t _wrap_new_Action__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Action__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_Action__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -3920,45 +3930,45 @@ extern uintptr_t _wrap_new_FDFField__SWIG_2_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_FDFField__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_FDFField_GetValue_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_FDFField_SetValue_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_437 _wrap_FDFField_GetName_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_438 _wrap_FDFField_GetPartialName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_441 _wrap_FDFField_GetName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_442 _wrap_FDFField_GetPartialName_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_FDFField_GetSDFObj_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_FDFField_FindAttribute_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_439 arg2);
+extern uintptr_t _wrap_FDFField_FindAttribute_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_443 arg2);
 extern void _wrap_delete_FDFField_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_FDFDoc__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_new_FDFDoc__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_FDFDoc__SWIG_2_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_FDFDoc__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_new_FDFDoc__SWIG_4_pdftron_e64018f00020cc89(swig_type_440 arg1);
-extern uintptr_t _wrap_new_FDFDoc__SWIG_5_pdftron_e64018f00020cc89(swig_type_441 arg1);
+extern uintptr_t _wrap_new_FDFDoc__SWIG_4_pdftron_e64018f00020cc89(swig_type_444 arg1);
+extern uintptr_t _wrap_new_FDFDoc__SWIG_5_pdftron_e64018f00020cc89(swig_type_445 arg1);
 extern uintptr_t _wrap_new_FDFDoc__SWIG_6_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_new_FDFDoc__SWIG_7_pdftron_e64018f00020cc89(swig_type_442 arg1, swig_type_443 arg2);
+extern uintptr_t _wrap_new_FDFDoc__SWIG_7_pdftron_e64018f00020cc89(swig_type_446 arg1, swig_type_447 arg2);
 extern void _wrap_delete_FDFDoc_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_FDFDoc_Close_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_FDFDoc_IsModified_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_FDFDoc_Save__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_444 arg2);
+extern void _wrap_FDFDoc_Save__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_448 arg2);
 extern uintptr_t _wrap_FDFDoc_Save__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_FDFDoc_GetTrailer_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_FDFDoc_GetRoot_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_FDFDoc_GetFDF_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_445 _wrap_FDFDoc_GetPDFFileName_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_FDFDoc_SetPDFFileName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_446 arg2);
+extern swig_type_449 _wrap_FDFDoc_GetPDFFileName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_FDFDoc_SetPDFFileName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_450 arg2);
 extern uintptr_t _wrap_FDFDoc_GetID_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_FDFDoc_SetID_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_FDFDoc_GetFieldIterator__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_FDFDoc_GetFieldIterator__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_447 arg2);
-extern uintptr_t _wrap_FDFDoc_GetField_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_448 arg2);
-extern uintptr_t _wrap_FDFDoc_FieldCreate__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_449 arg2, swig_intgo arg3, uintptr_t arg4);
-extern uintptr_t _wrap_FDFDoc_FieldCreate__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_450 arg2, swig_intgo arg3);
-extern uintptr_t _wrap_FDFDoc_FieldCreate__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_451 arg2, swig_intgo arg3, swig_type_452 arg4);
+extern uintptr_t _wrap_FDFDoc_GetFieldIterator__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_451 arg2);
+extern uintptr_t _wrap_FDFDoc_GetField_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_452 arg2);
+extern uintptr_t _wrap_FDFDoc_FieldCreate__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_453 arg2, swig_intgo arg3, uintptr_t arg4);
+extern uintptr_t _wrap_FDFDoc_FieldCreate__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_454 arg2, swig_intgo arg3);
+extern uintptr_t _wrap_FDFDoc_FieldCreate__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_455 arg2, swig_intgo arg3, swig_type_456 arg4);
 extern uintptr_t _wrap_FDFDoc_GetSDFDoc_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_FDFDoc_CreateFromXFDF_pdftron_e64018f00020cc89(swig_type_453 arg1);
-extern void _wrap_FDFDoc_SaveAsXFDF__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_454 arg2);
-extern void _wrap_FDFDoc_SaveAsXFDF__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_455 arg2, uintptr_t arg3);
-extern swig_type_456 _wrap_FDFDoc_SaveAsXFDF__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_457 _wrap_FDFDoc_SaveAsXFDF__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_FDFDoc_MergeAnnots__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_458 arg2, swig_type_459 arg3);
-extern void _wrap_FDFDoc_MergeAnnots__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_460 arg2);
+extern uintptr_t _wrap_FDFDoc_CreateFromXFDF_pdftron_e64018f00020cc89(swig_type_457 arg1);
+extern void _wrap_FDFDoc_SaveAsXFDF__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_458 arg2);
+extern void _wrap_FDFDoc_SaveAsXFDF__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_459 arg2, uintptr_t arg3);
+extern swig_type_460 _wrap_FDFDoc_SaveAsXFDF__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_461 _wrap_FDFDoc_SaveAsXFDF__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_FDFDoc_MergeAnnots__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_462 arg2, swig_type_463 arg3);
+extern void _wrap_FDFDoc_MergeAnnots__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_464 arg2);
 extern uintptr_t _wrap_new_FDFDoc__SWIG_8_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_FDFDoc_mp_doc_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_FDFDoc_mp_doc_get_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -3982,14 +3992,14 @@ extern uintptr_t _wrap_new_Config__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg
 extern _Bool _wrap_Config_IsValid_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Config_GetOrder_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Config_SetOrder_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_461 _wrap_Config_GetName_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Config_SetName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_462 arg2);
-extern swig_type_463 _wrap_Config_GetCreator_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Config_SetCreator_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_464 arg2);
-extern swig_type_465 _wrap_Config_GetInitBaseState_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_465 _wrap_Config_GetName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Config_SetName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_466 arg2);
+extern swig_type_467 _wrap_Config_GetCreator_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Config_SetCreator_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_468 arg2);
+extern swig_type_469 _wrap_Config_GetInitBaseState_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Config_GetInitOnStates_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Config_GetInitOffStates_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Config_SetInitBaseState__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_466 arg2);
+extern void _wrap_Config_SetInitBaseState__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_470 arg2);
 extern void _wrap_Config_SetInitBaseState__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Config_SetInitOnStates_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_Config_SetInitOffStates_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
@@ -4003,11 +4013,11 @@ extern uintptr_t _wrap_new_Config__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg
 extern void _wrap_Config_mp_obj_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Config_mp_obj_get_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_Config_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_Group_Create_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_467 arg2);
+extern uintptr_t _wrap_Group_Create_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_471 arg2);
 extern uintptr_t _wrap_new_Group__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_Group_IsValid_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_468 _wrap_Group_GetName_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Group_SetName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_469 arg2);
+extern swig_type_472 _wrap_Group_GetName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Group_SetName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_473 arg2);
 extern _Bool _wrap_Group_GetCurrentState_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_Group_SetCurrentState_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, _Bool arg3);
 extern _Bool _wrap_Group_GetInitialState_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
@@ -4017,7 +4027,7 @@ extern void _wrap_Group_SetIntent_pdftron_e64018f00020cc89(uintptr_t arg1, uintp
 extern _Bool _wrap_Group_IsLocked_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_Group_SetLocked_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, _Bool arg3);
 extern _Bool _wrap_Group_HasUsage_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_Group_GetUsage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_470 arg2);
+extern uintptr_t _wrap_Group_GetUsage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_474 arg2);
 extern uintptr_t _wrap_Group_GetSDFObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Group__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Group__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4074,8 +4084,8 @@ extern _Bool _wrap_PDFAOptions_GetFlattenTransparency_pdftron_e64018f00020cc89(u
 extern uintptr_t _wrap_PDFAOptions_SetFlattenTransparency_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern swig_intgo _wrap_PDFAOptions_GetMaxRefObjs_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFAOptions_SetMaxRefObjs_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern swig_type_471 _wrap_PDFAOptions_GetPassword_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_PDFAOptions_SetPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_472 arg2);
+extern swig_type_475 _wrap_PDFAOptions_GetPassword_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_PDFAOptions_SetPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_476 arg2);
 extern swig_intgo _wrap_e_NoConformance_PDFACompliance_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Level1A_PDFACompliance_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Level1B_PDFACompliance_pdftron_e64018f00020cc89(void);
@@ -4300,39 +4310,39 @@ extern swig_intgo _wrap_e_PDFA_4_6_9_5_PDFACompliance_pdftron_e64018f00020cc89(v
 extern swig_intgo _wrap_e_PDFA_4_6_2_10_6_1_PDFACompliance_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_PDFA_4_6_2_10_6_4_PDFACompliance_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_PDFA_LAST_PDFACompliance_pdftron_e64018f00020cc89(void);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_0_pdftron_e64018f00020cc89(_Bool arg1, swig_type_473 arg2, swig_type_474 arg3, swig_intgo arg4, swig_voidp arg5, swig_intgo arg6, swig_intgo arg7, _Bool arg8);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_1_pdftron_e64018f00020cc89(_Bool arg1, swig_type_475 arg2, swig_type_476 arg3, swig_intgo arg4, swig_voidp arg5, swig_intgo arg6, swig_intgo arg7);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_2_pdftron_e64018f00020cc89(_Bool arg1, swig_type_477 arg2, swig_type_478 arg3, swig_intgo arg4, swig_voidp arg5, swig_intgo arg6);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_3_pdftron_e64018f00020cc89(_Bool arg1, swig_type_479 arg2, swig_type_480 arg3, swig_intgo arg4, swig_voidp arg5);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_4_pdftron_e64018f00020cc89(_Bool arg1, swig_type_481 arg2, swig_type_482 arg3, swig_intgo arg4);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_5_pdftron_e64018f00020cc89(_Bool arg1, swig_type_483 arg2, swig_type_484 arg3);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_6_pdftron_e64018f00020cc89(_Bool arg1, swig_type_485 arg2);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_7_pdftron_e64018f00020cc89(_Bool arg1, swig_type_486 arg2, swig_type_487 arg3, swig_type_488 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7, swig_intgo arg8, _Bool arg9);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_8_pdftron_e64018f00020cc89(_Bool arg1, swig_type_489 arg2, swig_type_490 arg3, swig_type_491 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7, swig_intgo arg8);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_9_pdftron_e64018f00020cc89(_Bool arg1, swig_type_492 arg2, swig_type_493 arg3, swig_type_494 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_10_pdftron_e64018f00020cc89(_Bool arg1, swig_type_495 arg2, swig_type_496 arg3, swig_type_497 arg4, swig_intgo arg5, swig_voidp arg6);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_11_pdftron_e64018f00020cc89(_Bool arg1, swig_type_498 arg2, swig_type_499 arg3, swig_type_500 arg4, swig_intgo arg5);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_12_pdftron_e64018f00020cc89(_Bool arg1, swig_type_501 arg2, swig_type_502 arg3, swig_type_503 arg4);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_13_pdftron_e64018f00020cc89(_Bool arg1, swig_type_504 arg2, swig_type_505 arg3);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_14_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_506 arg3, swig_type_507 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7, swig_intgo arg8, _Bool arg9);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_15_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_508 arg3, swig_type_509 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7, swig_intgo arg8);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_16_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_510 arg3, swig_type_511 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_17_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_512 arg3, swig_type_513 arg4, swig_intgo arg5, swig_voidp arg6);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_18_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_514 arg3, swig_type_515 arg4, swig_intgo arg5);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_19_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_516 arg3, swig_type_517 arg4);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_20_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_518 arg3);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_21_pdftron_e64018f00020cc89(_Bool arg1, swig_type_519 arg2, uintptr_t arg3);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_22_pdftron_e64018f00020cc89(_Bool arg1, swig_type_520 arg2, swig_type_521 arg3, uintptr_t arg4);
-extern uintptr_t _wrap_new_PDFACompliance__SWIG_23_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_522 arg3, uintptr_t arg4);
-extern void _wrap_PDFACompliance_SaveAs__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_523 arg2, _Bool arg3);
-extern void _wrap_PDFACompliance_SaveAs__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_524 arg2);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_0_pdftron_e64018f00020cc89(_Bool arg1, swig_type_477 arg2, swig_type_478 arg3, swig_intgo arg4, swig_voidp arg5, swig_intgo arg6, swig_intgo arg7, _Bool arg8);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_1_pdftron_e64018f00020cc89(_Bool arg1, swig_type_479 arg2, swig_type_480 arg3, swig_intgo arg4, swig_voidp arg5, swig_intgo arg6, swig_intgo arg7);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_2_pdftron_e64018f00020cc89(_Bool arg1, swig_type_481 arg2, swig_type_482 arg3, swig_intgo arg4, swig_voidp arg5, swig_intgo arg6);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_3_pdftron_e64018f00020cc89(_Bool arg1, swig_type_483 arg2, swig_type_484 arg3, swig_intgo arg4, swig_voidp arg5);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_4_pdftron_e64018f00020cc89(_Bool arg1, swig_type_485 arg2, swig_type_486 arg3, swig_intgo arg4);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_5_pdftron_e64018f00020cc89(_Bool arg1, swig_type_487 arg2, swig_type_488 arg3);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_6_pdftron_e64018f00020cc89(_Bool arg1, swig_type_489 arg2);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_7_pdftron_e64018f00020cc89(_Bool arg1, swig_type_490 arg2, swig_type_491 arg3, swig_type_492 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7, swig_intgo arg8, _Bool arg9);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_8_pdftron_e64018f00020cc89(_Bool arg1, swig_type_493 arg2, swig_type_494 arg3, swig_type_495 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7, swig_intgo arg8);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_9_pdftron_e64018f00020cc89(_Bool arg1, swig_type_496 arg2, swig_type_497 arg3, swig_type_498 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_10_pdftron_e64018f00020cc89(_Bool arg1, swig_type_499 arg2, swig_type_500 arg3, swig_type_501 arg4, swig_intgo arg5, swig_voidp arg6);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_11_pdftron_e64018f00020cc89(_Bool arg1, swig_type_502 arg2, swig_type_503 arg3, swig_type_504 arg4, swig_intgo arg5);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_12_pdftron_e64018f00020cc89(_Bool arg1, swig_type_505 arg2, swig_type_506 arg3, swig_type_507 arg4);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_13_pdftron_e64018f00020cc89(_Bool arg1, swig_type_508 arg2, swig_type_509 arg3);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_14_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_510 arg3, swig_type_511 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7, swig_intgo arg8, _Bool arg9);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_15_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_512 arg3, swig_type_513 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7, swig_intgo arg8);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_16_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_514 arg3, swig_type_515 arg4, swig_intgo arg5, swig_voidp arg6, swig_intgo arg7);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_17_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_516 arg3, swig_type_517 arg4, swig_intgo arg5, swig_voidp arg6);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_18_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_518 arg3, swig_type_519 arg4, swig_intgo arg5);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_19_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_520 arg3, swig_type_521 arg4);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_20_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_522 arg3);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_21_pdftron_e64018f00020cc89(_Bool arg1, swig_type_523 arg2, uintptr_t arg3);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_22_pdftron_e64018f00020cc89(_Bool arg1, swig_type_524 arg2, swig_type_525 arg3, uintptr_t arg4);
+extern uintptr_t _wrap_new_PDFACompliance__SWIG_23_pdftron_e64018f00020cc89(_Bool arg1, swig_voidp arg2, swig_type_526 arg3, uintptr_t arg4);
+extern void _wrap_PDFACompliance_SaveAs__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_527 arg2, _Bool arg3);
+extern void _wrap_PDFACompliance_SaveAs__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_528 arg2);
 extern uintptr_t _wrap_PDFACompliance_SaveAs__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_PDFACompliance_SaveAs__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_525 _wrap_PDFACompliance_GetErrorCount_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_intgo _wrap_PDFACompliance_GetError_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_526 arg2);
-extern swig_type_527 _wrap_PDFACompliance_GetRefObjCount_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern swig_type_528 _wrap_PDFACompliance_GetRefObj_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_529 arg3);
-extern swig_type_530 _wrap_PDFACompliance_GetPDFAErrorMessage_pdftron_e64018f00020cc89(swig_intgo arg1);
+extern swig_type_529 _wrap_PDFACompliance_GetErrorCount_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_intgo _wrap_PDFACompliance_GetError_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_530 arg2);
+extern swig_type_531 _wrap_PDFACompliance_GetRefObjCount_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_532 _wrap_PDFACompliance_GetRefObj_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_533 arg3);
+extern swig_type_534 _wrap_PDFACompliance_GetPDFAErrorMessage_pdftron_e64018f00020cc89(swig_intgo arg1);
 extern swig_intgo _wrap_PDFACompliance_GetDeclaredConformance_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_PDFACompliance_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFACompliance_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4342,7 +4352,7 @@ extern uintptr_t _wrap_PDFACompliance_mp_pdfac_get_pdftron_e64018f00020cc89(uint
 extern uintptr_t _wrap_new_AttrObj__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_AttrObj__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_AttrObj__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_531 _wrap_AttrObj_GetOwner_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_535 _wrap_AttrObj_GetOwner_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_AttrObj_GetSDFObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_AttrObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_ClassMap__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4372,7 +4382,7 @@ extern void _wrap_delete_ContentItem_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_RoleMap__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_RoleMap__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_RoleMap_IsValid_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_532 _wrap_RoleMap_GetDirectMap_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_533 arg2);
+extern swig_type_536 _wrap_RoleMap_GetDirectMap_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_537 arg2);
 extern uintptr_t _wrap_RoleMap_GetSDFObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_RoleMap__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_RoleMap_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4383,7 +4393,7 @@ extern void _wrap_STree_Insert_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_
 extern _Bool _wrap_STree_IsValid_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_STree_GetNumKids_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_STree_GetKid_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern uintptr_t _wrap_STree_GetElement_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_534 arg2, swig_intgo arg3);
+extern uintptr_t _wrap_STree_GetElement_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_538 arg2, swig_intgo arg3);
 extern uintptr_t _wrap_STree_GetRoleMap_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_STree_GetClassMap_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_STree_GetSDFObj_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4393,12 +4403,12 @@ extern void _wrap_delete_STree_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_SElement__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_SElement__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_SElement__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_SElement_Create_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_535 arg2);
+extern uintptr_t _wrap_SElement_Create_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_539 arg2);
 extern void _wrap_SElement_Insert_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
 extern swig_intgo _wrap_SElement_CreateContentItem__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, swig_intgo arg4);
 extern swig_intgo _wrap_SElement_CreateContentItem__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern _Bool _wrap_SElement_IsValid_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_536 _wrap_SElement_GetType_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_540 _wrap_SElement_GetType_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_SElement_GetNumKids_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_SElement_IsContentItem_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_SElement_GetAsContentItem_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
@@ -4406,18 +4416,18 @@ extern uintptr_t _wrap_SElement_GetAsStructElem_pdftron_e64018f00020cc89(uintptr
 extern uintptr_t _wrap_SElement_GetParent_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SElement_GetStructTreeRoot_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_SElement_HasTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_537 _wrap_SElement_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_541 _wrap_SElement_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SElement_GetID_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_SElement_HasActualText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_538 _wrap_SElement_GetActualText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_542 _wrap_SElement_GetActualText_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_SElement_HasAlt_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_539 _wrap_SElement_GetAlt_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_543 _wrap_SElement_GetAlt_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SElement_GetSDFObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_SElement__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_SElement_mp_elem_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_SElement_mp_elem_get_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_SElement_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_Bookmark_Create_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_540 arg2);
+extern uintptr_t _wrap_Bookmark_Create_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_544 arg2);
 extern uintptr_t _wrap_new_Bookmark__SWIG_0_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_Bookmark__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Bookmark__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4429,12 +4439,12 @@ extern uintptr_t _wrap_Bookmark_GetPrev_pdftron_e64018f00020cc89(uintptr_t arg1)
 extern uintptr_t _wrap_Bookmark_GetFirstChild_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Bookmark_GetLastChild_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Bookmark_GetParent_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_Bookmark_Find_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_541 arg2);
-extern uintptr_t _wrap_Bookmark_AddChild__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_542 arg2);
+extern uintptr_t _wrap_Bookmark_Find_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_545 arg2);
+extern uintptr_t _wrap_Bookmark_AddChild__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_546 arg2);
 extern uintptr_t _wrap_Bookmark_AddChild__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Bookmark_AddNext__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_543 arg2);
+extern uintptr_t _wrap_Bookmark_AddNext__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_547 arg2);
 extern void _wrap_Bookmark_AddNext__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Bookmark_AddPrev__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_544 arg2);
+extern uintptr_t _wrap_Bookmark_AddPrev__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_548 arg2);
 extern void _wrap_Bookmark_AddPrev__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_Bookmark_Delete_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Bookmark_Unlink_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4442,9 +4452,9 @@ extern swig_intgo _wrap_Bookmark_GetIndent_pdftron_e64018f00020cc89(uintptr_t ar
 extern _Bool _wrap_Bookmark_IsOpen_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Bookmark_SetOpen_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern swig_intgo _wrap_Bookmark_GetOpenCount_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_545 _wrap_Bookmark_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_549 _wrap_Bookmark_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Bookmark_GetTitleObj_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Bookmark_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_546 arg2);
+extern void _wrap_Bookmark_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_550 arg2);
 extern uintptr_t _wrap_Bookmark_GetAction_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Bookmark_SetAction_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_Bookmark_RemoveAction_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4465,9 +4475,9 @@ extern void _wrap_delete_Bookmark_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_ContentReplacer_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_ContentReplacer_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_ContentReplacer_AddImage_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
-extern void _wrap_ContentReplacer_AddText_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_547 arg3);
-extern void _wrap_ContentReplacer_AddString_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_548 arg2, swig_type_549 arg3);
-extern void _wrap_ContentReplacer_SetMatchStrings_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_550 arg2, swig_type_551 arg3);
+extern void _wrap_ContentReplacer_AddText_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_551 arg3);
+extern void _wrap_ContentReplacer_AddString_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_552 arg2, swig_type_553 arg3);
+extern void _wrap_ContentReplacer_SetMatchStrings_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_554 arg2, swig_type_555 arg3);
 extern void _wrap_ContentReplacer_Process_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_ContentReplacer_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_ContentReplacer_mp_impl_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
@@ -4509,15 +4519,17 @@ extern uintptr_t _wrap_TextDiffOptions_AddIgnoreZonesForPage_pdftron_e64018f0002
 extern uintptr_t _wrap_TextDiffOptions_GetInternalObj__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TextDiffOptions_GetInternalObj__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_ConversionOptions__SWIG_0_pdftron_e64018f00020cc89(void);
-extern uintptr_t _wrap_new_ConversionOptions__SWIG_1_pdftron_e64018f00020cc89(swig_type_552 arg1);
+extern uintptr_t _wrap_new_ConversionOptions__SWIG_1_pdftron_e64018f00020cc89(swig_type_556 arg1);
 extern void _wrap_delete_ConversionOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_553 _wrap_ConversionOptions_GetFileExtension_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_ConversionOptions_SetFileExtension_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_554 arg2);
+extern swig_type_557 _wrap_ConversionOptions_GetFileExtension_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_ConversionOptions_SetFileExtension_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_558 arg2);
 extern _Bool _wrap_ConversionOptions_GetEnableExternalMediaDownloads_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_ConversionOptions_SetEnableExternalMediaDownloads_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_ConversionOptions_GetInternalObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_OfficeToPDFOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_OfficeToPDFOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_intgo _wrap_e_default_OfficeToPDFOptions_pdftron_e64018f00020cc89(void);
+extern swig_intgo _wrap_e_none_OfficeToPDFOptions_pdftron_e64018f00020cc89(void);
 extern _Bool _wrap_OfficeToPDFOptions_GetApplyPageBreaksToSheet_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetApplyPageBreaksToSheet_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetDisplayChangeTracking_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4530,41 +4542,43 @@ extern swig_intgo _wrap_OfficeToPDFOptions_GetExcelMaxAllowedCellCount_pdftron_e
 extern uintptr_t _wrap_OfficeToPDFOptions_SetExcelMaxAllowedCellCount_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetHideTotalNumberOfPages_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetHideTotalNumberOfPages_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern swig_type_555 _wrap_OfficeToPDFOptions_GetLayoutResourcesPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetLayoutResourcesPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_556 arg2);
-extern swig_type_557 _wrap_OfficeToPDFOptions_GetLocale_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetLocale_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_558 arg2);
-extern swig_type_559 _wrap_OfficeToPDFOptions_GetPassword_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_560 arg2);
-extern swig_type_561 _wrap_OfficeToPDFOptions_GetResourceDocPath_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetResourceDocPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_562 arg2);
-extern swig_type_563 _wrap_OfficeToPDFOptions_GetSmartSubstitutionPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetSmartSubstitutionPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_564 arg2);
-extern swig_type_565 _wrap_OfficeToPDFOptions_GetTemplateLeftDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateLeftDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_566 arg2);
-extern swig_type_567 _wrap_OfficeToPDFOptions_GetTemplateParamsJson_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateParamsJson_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_568 arg2);
-extern swig_type_569 _wrap_OfficeToPDFOptions_GetTemplateRightDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateRightDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_570 arg2);
+extern swig_type_559 _wrap_OfficeToPDFOptions_GetLayoutResourcesPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetLayoutResourcesPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_560 arg2);
+extern swig_type_561 _wrap_OfficeToPDFOptions_GetLocale_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetLocale_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_562 arg2);
+extern swig_type_563 _wrap_OfficeToPDFOptions_GetPassword_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_564 arg2);
+extern swig_type_565 _wrap_OfficeToPDFOptions_GetResourceDocPath_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetResourceDocPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_566 arg2);
+extern swig_type_567 _wrap_OfficeToPDFOptions_GetSmartSubstitutionPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetSmartSubstitutionPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_568 arg2);
+extern swig_intgo _wrap_OfficeToPDFOptions_GetStructureTagLevel_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetStructureTagLevel_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_569 _wrap_OfficeToPDFOptions_GetTemplateLeftDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateLeftDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_570 arg2);
+extern swig_type_571 _wrap_OfficeToPDFOptions_GetTemplateParamsJson_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateParamsJson_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_572 arg2);
+extern swig_type_573 _wrap_OfficeToPDFOptions_GetTemplateRightDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateRightDelimiter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_574 arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetTemplateStrictMode_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateStrictMode_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetUpdateTableOfContents_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetUpdateTableOfContents_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern swig_type_571 _wrap_OfficeToPDFOptions_GetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern uintptr_t _wrap_OfficeToPDFOptions_SetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_572 arg1);
+extern swig_type_575 _wrap_OfficeToPDFOptions_GetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_576 arg1);
 extern _Bool _wrap_OfficeToPDFOptions_GetEnableExternalMediaDownloads_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetEnableExternalMediaDownloads_pdftron_e64018f00020cc89(uintptr_t _swig_base, _Bool arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_GetInternalObj_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_new_WordToPDFOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_WordToPDFOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_573 _wrap_WordToPDFOptions_GetLayoutResourcesPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_WordToPDFOptions_SetLayoutResourcesPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_574 arg2);
-extern swig_type_575 _wrap_WordToPDFOptions_GetResourceDocPath_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_WordToPDFOptions_SetResourceDocPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_576 arg2);
-extern swig_type_577 _wrap_WordToPDFOptions_GetSmartSubstitutionPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_WordToPDFOptions_SetSmartSubstitutionPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_578 arg2);
-extern swig_type_579 _wrap_WordToPDFOptions_GetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern uintptr_t _wrap_WordToPDFOptions_SetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_572 arg1);
+extern swig_type_577 _wrap_WordToPDFOptions_GetLayoutResourcesPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_WordToPDFOptions_SetLayoutResourcesPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_578 arg2);
+extern swig_type_579 _wrap_WordToPDFOptions_GetResourceDocPath_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_WordToPDFOptions_SetResourceDocPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_580 arg2);
+extern swig_type_581 _wrap_WordToPDFOptions_GetSmartSubstitutionPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_WordToPDFOptions_SetSmartSubstitutionPluginPath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_582 arg2);
+extern swig_type_583 _wrap_WordToPDFOptions_GetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern uintptr_t _wrap_WordToPDFOptions_SetFileExtension_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_576 arg1);
 extern _Bool _wrap_WordToPDFOptions_GetEnableExternalMediaDownloads_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_WordToPDFOptions_SetEnableExternalMediaDownloads_pdftron_e64018f00020cc89(uintptr_t _swig_base, _Bool arg1);
 extern uintptr_t _wrap_WordToPDFOptions_GetInternalObj_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -4585,12 +4599,12 @@ extern void _wrap_DocumentConversion_CancelConversion_pdftron_e64018f00020cc89(u
 extern _Bool _wrap_DocumentConversion_IsCancelled_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_DocumentConversion_HasProgressTracking_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern double _wrap_DocumentConversion_GetProgress_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_580 _wrap_DocumentConversion_GetProgressLabel_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_584 _wrap_DocumentConversion_GetProgressLabel_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_DocumentConversion_GetNumConvertedPages_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_581 _wrap_DocumentConversion_GetErrorString_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_585 _wrap_DocumentConversion_GetErrorString_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_DocumentConversion_GetNumWarnings_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_582 _wrap_DocumentConversion_GetWarningString_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern swig_type_583 _wrap_DocumentConversion_GetCurrentExcelSheetName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_586 _wrap_DocumentConversion_GetWarningString_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_587 _wrap_DocumentConversion_GetCurrentExcelSheetName_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_DocumentConversion_GetNextExcelSheetCellCount_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_DocumentConversion_SkipNextExcelSheet_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_DocumentConversion_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4605,15 +4619,15 @@ extern uintptr_t _wrap_new_TemplateDocument__SWIG_1_pdftron_e64018f00020cc89(uin
 extern uintptr_t _wrap_new_TemplateDocument__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_TemplateDocument_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_TemplateDocument_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_TemplateDocument_FillTemplateJson_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_584 arg2);
-extern void _wrap_TemplateDocument_FillTemplateJsonToOffice_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_585 arg2, swig_type_586 arg3);
-extern swig_type_587 _wrap_TemplateDocument_GetTemplateKeysJson_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_588 _wrap_TemplateDocument_GetErrorString_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_TemplateDocument_FillTemplateJson_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_588 arg2);
+extern void _wrap_TemplateDocument_FillTemplateJsonToOffice_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_589 arg2, swig_type_590 arg3);
+extern swig_type_591 _wrap_TemplateDocument_GetTemplateKeysJson_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_592 _wrap_TemplateDocument_GetErrorString_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_TemplateDocument_GetConversionStatus_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_TemplateDocument_CancelConversion_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_TemplateDocument_IsCancelled_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_TemplateDocument_GetNumWarnings_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_589 _wrap_TemplateDocument_GetWarningString_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_593 _wrap_TemplateDocument_GetWarningString_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_TemplateDocument_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TemplateDocument_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_TemplateDocument_m_impl_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
@@ -4622,10 +4636,10 @@ extern uintptr_t _wrap_new_SVGConvertOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_SVGConvertOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_SVGConvertOptions_GetConvertLinks_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SVGConvertOptions_SetConvertLinks_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern swig_type_590 _wrap_SVGConvertOptions_GetDefaultFontFamily_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_SVGConvertOptions_SetDefaultFontFamily_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_591 arg2);
-extern swig_type_592 _wrap_SVGConvertOptions_GetFallbackFontFamily_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_SVGConvertOptions_SetFallbackFontFamily_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_593 arg2);
+extern swig_type_594 _wrap_SVGConvertOptions_GetDefaultFontFamily_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_SVGConvertOptions_SetDefaultFontFamily_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_595 arg2);
+extern swig_type_596 _wrap_SVGConvertOptions_GetFallbackFontFamily_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_SVGConvertOptions_SetFallbackFontFamily_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_597 arg2);
 extern double _wrap_SVGConvertOptions_GetFallbackHeight_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SVGConvertOptions_SetFallbackHeight_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
 extern double _wrap_SVGConvertOptions_GetFallbackWidth_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4640,24 +4654,24 @@ extern _Bool _wrap_SVGConvertOptions_GetHonorIccProfile_pdftron_e64018f00020cc89
 extern uintptr_t _wrap_SVGConvertOptions_SetHonorIccProfile_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_SVGConvertOptions_GetInline_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SVGConvertOptions_SetInline_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern swig_type_594 _wrap_SVGConvertOptions_GetLang_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_SVGConvertOptions_SetLang_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_595 arg2);
+extern swig_type_598 _wrap_SVGConvertOptions_GetLang_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_SVGConvertOptions_SetLang_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_599 arg2);
 extern uintptr_t _wrap_SVGConvertOptions_GetInternalObj__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SVGConvertOptions_GetInternalObj__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_DataExtractionOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_DataExtractionOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_DataExtractionOptions_GetDeepLearningAssist_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_DataExtractionOptions_SetDeepLearningAssist_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern swig_type_596 _wrap_DataExtractionOptions_GetFormExtractionEngine_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_DataExtractionOptions_SetFormExtractionEngine_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_597 arg2);
-extern swig_type_598 _wrap_DataExtractionOptions_GetLanguage_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_DataExtractionOptions_SetLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_599 arg2);
-extern swig_type_600 _wrap_DataExtractionOptions_GetOverlappingFormFieldBehavior_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_DataExtractionOptions_SetOverlappingFormFieldBehavior_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_601 arg2);
-extern swig_type_602 _wrap_DataExtractionOptions_GetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_DataExtractionOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_603 arg2);
-extern swig_type_604 _wrap_DataExtractionOptions_GetPages_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_DataExtractionOptions_SetPages_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_605 arg2);
+extern swig_type_600 _wrap_DataExtractionOptions_GetFormExtractionEngine_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_DataExtractionOptions_SetFormExtractionEngine_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_601 arg2);
+extern swig_type_602 _wrap_DataExtractionOptions_GetLanguage_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_DataExtractionOptions_SetLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_603 arg2);
+extern swig_type_604 _wrap_DataExtractionOptions_GetOverlappingFormFieldBehavior_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_DataExtractionOptions_SetOverlappingFormFieldBehavior_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_605 arg2);
+extern swig_type_606 _wrap_DataExtractionOptions_GetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_DataExtractionOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_607 arg2);
+extern swig_type_608 _wrap_DataExtractionOptions_GetPages_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_DataExtractionOptions_SetPages_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_609 arg2);
 extern _Bool _wrap_ConversionMonitor_Next_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_ConversionMonitor_Ready_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_ConversionMonitor_Progress_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4680,81 +4694,85 @@ extern swig_intgo _wrap_e_off_Convert_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_simple_Convert_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_fast_Convert_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_high_quality_Convert_pdftron_e64018f00020cc89(void);
-extern void _wrap_Convert_FromXps__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_606 arg2);
-extern void _wrap_Convert_FromXps__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_607 arg2, swig_type_608 arg3);
-extern void _wrap_Convert_FromEmf_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_609 arg2);
-extern void _wrap_Convert_FromText__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_610 arg2, uintptr_t arg3);
-extern void _wrap_Convert_FromText__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_611 arg2);
-extern void _wrap_Convert_ToEmf__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_612 arg2);
-extern void _wrap_Convert_ToEmf__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_613 arg2);
-extern void _wrap_Convert_ToSvg__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_614 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToSvg__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_615 arg2);
-extern void _wrap_Convert_ToSvg__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_616 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToSvg__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_617 arg2);
-extern void _wrap_Convert_ToXps__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_618 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToXps__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_619 arg2);
-extern void _wrap_Convert_ToXps__SWIG_2_pdftron_e64018f00020cc89(swig_type_620 arg1, swig_type_621 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToXps__SWIG_3_pdftron_e64018f00020cc89(swig_type_622 arg1, swig_type_623 arg2);
-extern void _wrap_Convert_ToXod__SWIG_0_pdftron_e64018f00020cc89(swig_type_624 arg1, swig_type_625 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToXod__SWIG_1_pdftron_e64018f00020cc89(swig_type_626 arg1, swig_type_627 arg2);
-extern void _wrap_Convert_ToXod__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_628 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToXod__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_629 arg2);
-extern void _wrap_Convert_ToHtml__SWIG_0_pdftron_e64018f00020cc89(swig_type_630 arg1, swig_type_631 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToHtml__SWIG_1_pdftron_e64018f00020cc89(swig_type_632 arg1, swig_type_633 arg2);
-extern swig_type_634 _wrap_Convert_PageToHtml_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_635 _wrap_Convert_PageToHtmlZoned_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_636 arg2);
-extern void _wrap_Convert_ToHtml__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_637 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToHtml__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_638 arg2);
-extern void _wrap_Convert_ToWord__SWIG_0_pdftron_e64018f00020cc89(swig_type_639 arg1, swig_type_640 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToWord__SWIG_1_pdftron_e64018f00020cc89(swig_type_641 arg1, swig_type_642 arg2);
-extern void _wrap_Convert_ToWord__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_643 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToWord__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_644 arg2);
-extern void _wrap_Convert_ToExcel__SWIG_0_pdftron_e64018f00020cc89(swig_type_645 arg1, swig_type_646 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToExcel__SWIG_1_pdftron_e64018f00020cc89(swig_type_647 arg1, swig_type_648 arg2);
-extern void _wrap_Convert_ToExcel__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_649 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToExcel__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_650 arg2);
-extern void _wrap_Convert_ToPowerPoint__SWIG_0_pdftron_e64018f00020cc89(swig_type_651 arg1, swig_type_652 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToPowerPoint__SWIG_1_pdftron_e64018f00020cc89(swig_type_653 arg1, swig_type_654 arg2);
-extern void _wrap_Convert_ToPowerPoint__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_655 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToPowerPoint__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_656 arg2);
-extern void _wrap_Convert_ToEpub__SWIG_0_pdftron_e64018f00020cc89(swig_type_657 arg1, swig_type_658 arg2, uintptr_t arg3, uintptr_t arg4);
-extern void _wrap_Convert_ToEpub__SWIG_1_pdftron_e64018f00020cc89(swig_type_659 arg1, swig_type_660 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToEpub__SWIG_2_pdftron_e64018f00020cc89(swig_type_661 arg1, swig_type_662 arg2);
-extern void _wrap_Convert_ToEpub__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_663 arg2, uintptr_t arg3, uintptr_t arg4);
-extern void _wrap_Convert_ToEpub__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_664 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToEpub__SWIG_5_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_665 arg2);
-extern void _wrap_Convert_ToTiff__SWIG_0_pdftron_e64018f00020cc89(swig_type_666 arg1, swig_type_667 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToTiff__SWIG_1_pdftron_e64018f00020cc89(swig_type_668 arg1, swig_type_669 arg2);
-extern void _wrap_Convert_ToTiff__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_670 arg2, uintptr_t arg3);
-extern void _wrap_Convert_ToTiff__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_671 arg2);
-extern uintptr_t _wrap_Convert_ToXod__SWIG_4_pdftron_e64018f00020cc89(swig_type_672 arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Convert_ToXod__SWIG_5_pdftron_e64018f00020cc89(swig_type_673 arg1);
+extern void _wrap_Convert_FromXps__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_610 arg2);
+extern void _wrap_Convert_FromXps__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_611 arg2, swig_type_612 arg3);
+extern void _wrap_Convert_FromEmf_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_613 arg2);
+extern void _wrap_Convert_FromText__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_614 arg2, uintptr_t arg3);
+extern void _wrap_Convert_FromText__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_615 arg2);
+extern void _wrap_Convert_ToEmf__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_616 arg2);
+extern void _wrap_Convert_ToEmf__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_617 arg2);
+extern void _wrap_Convert_ToSvg__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_618 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToSvg__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_619 arg2);
+extern void _wrap_Convert_ToSvg__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_620 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToSvg__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_621 arg2);
+extern void _wrap_Convert_ToXps__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_622 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToXps__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_623 arg2);
+extern void _wrap_Convert_ToXps__SWIG_2_pdftron_e64018f00020cc89(swig_type_624 arg1, swig_type_625 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToXps__SWIG_3_pdftron_e64018f00020cc89(swig_type_626 arg1, swig_type_627 arg2);
+extern void _wrap_Convert_ToXod__SWIG_0_pdftron_e64018f00020cc89(swig_type_628 arg1, swig_type_629 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToXod__SWIG_1_pdftron_e64018f00020cc89(swig_type_630 arg1, swig_type_631 arg2);
+extern void _wrap_Convert_ToXod__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_632 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToXod__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_633 arg2);
+extern void _wrap_Convert_ToHtml__SWIG_0_pdftron_e64018f00020cc89(swig_type_634 arg1, swig_type_635 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToHtml__SWIG_1_pdftron_e64018f00020cc89(swig_type_636 arg1, swig_type_637 arg2);
+extern swig_type_638 _wrap_Convert_PageToHtml_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_639 _wrap_Convert_PageToHtmlZoned_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_640 arg2);
+extern void _wrap_Convert_ToHtml__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_641 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToHtml__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_642 arg2);
+extern void _wrap_Convert_ToWord__SWIG_0_pdftron_e64018f00020cc89(swig_type_643 arg1, swig_type_644 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToWord__SWIG_1_pdftron_e64018f00020cc89(swig_type_645 arg1, swig_type_646 arg2);
+extern void _wrap_Convert_ToWord__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_647 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToWord__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_648 arg2);
+extern void _wrap_Convert_ToExcel__SWIG_0_pdftron_e64018f00020cc89(swig_type_649 arg1, swig_type_650 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToExcel__SWIG_1_pdftron_e64018f00020cc89(swig_type_651 arg1, swig_type_652 arg2);
+extern void _wrap_Convert_ToExcel__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_653 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToExcel__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_654 arg2);
+extern void _wrap_Convert_ToPowerPoint__SWIG_0_pdftron_e64018f00020cc89(swig_type_655 arg1, swig_type_656 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToPowerPoint__SWIG_1_pdftron_e64018f00020cc89(swig_type_657 arg1, swig_type_658 arg2);
+extern void _wrap_Convert_ToPowerPoint__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_659 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToPowerPoint__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_660 arg2);
+extern void _wrap_Convert_ToEpub__SWIG_0_pdftron_e64018f00020cc89(swig_type_661 arg1, swig_type_662 arg2, uintptr_t arg3, uintptr_t arg4);
+extern void _wrap_Convert_ToEpub__SWIG_1_pdftron_e64018f00020cc89(swig_type_663 arg1, swig_type_664 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToEpub__SWIG_2_pdftron_e64018f00020cc89(swig_type_665 arg1, swig_type_666 arg2);
+extern void _wrap_Convert_ToEpub__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_667 arg2, uintptr_t arg3, uintptr_t arg4);
+extern void _wrap_Convert_ToEpub__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_668 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToEpub__SWIG_5_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_669 arg2);
+extern void _wrap_Convert_ToTiff__SWIG_0_pdftron_e64018f00020cc89(swig_type_670 arg1, swig_type_671 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToTiff__SWIG_1_pdftron_e64018f00020cc89(swig_type_672 arg1, swig_type_673 arg2);
+extern void _wrap_Convert_ToTiff__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_674 arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToTiff__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_675 arg2);
+extern void _wrap_Convert_ToTiff__SWIG_4_pdftron_e64018f00020cc89(swig_type_676 arg1, uintptr_t arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToTiff__SWIG_5_pdftron_e64018f00020cc89(swig_type_677 arg1, uintptr_t arg2);
+extern void _wrap_Convert_ToTiff__SWIG_6_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
+extern void _wrap_Convert_ToTiff__SWIG_7_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_Convert_ToXod__SWIG_4_pdftron_e64018f00020cc89(swig_type_678 arg1, uintptr_t arg2);
+extern uintptr_t _wrap_Convert_ToXod__SWIG_5_pdftron_e64018f00020cc89(swig_type_679 arg1);
 extern uintptr_t _wrap_Convert_ToXod__SWIG_6_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Convert_ToXod__SWIG_7_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Convert_ToXodWithMonitor__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Convert_ToXodWithMonitor__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Convert_WordToPDF__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_674 arg2, uintptr_t arg3);
-extern uintptr_t _wrap_Convert_WordToPDFConversion__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_675 arg2, uintptr_t arg3);
+extern void _wrap_Convert_WordToPDF__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_680 arg2, uintptr_t arg3);
+extern uintptr_t _wrap_Convert_WordToPDFConversion__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_681 arg2, uintptr_t arg3);
 extern void _wrap_Convert_WordToPDF__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern uintptr_t _wrap_Convert_WordToPDFConversion__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
-extern void _wrap_Convert_OfficeToPDF__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_676 arg2, uintptr_t arg3);
-extern uintptr_t _wrap_Convert_StreamingPDFConversion__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_677 arg2, uintptr_t arg3);
-extern uintptr_t _wrap_Convert_StreamingPDFConversion__SWIG_1_pdftron_e64018f00020cc89(swig_type_678 arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Convert_CreateReflow_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_679 arg2);
+extern void _wrap_Convert_OfficeToPDF__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_682 arg2, uintptr_t arg3);
+extern uintptr_t _wrap_Convert_StreamingPDFConversion__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_683 arg2, uintptr_t arg3);
+extern uintptr_t _wrap_Convert_StreamingPDFConversion__SWIG_1_pdftron_e64018f00020cc89(swig_type_684 arg1, uintptr_t arg2);
+extern uintptr_t _wrap_Convert_CreateReflow_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_685 arg2);
 extern void _wrap_Convert_OfficeToPDF__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern uintptr_t _wrap_Convert_StreamingPDFConversion__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern uintptr_t _wrap_Convert_StreamingPDFConversion__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_Convert_ToPdf_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_680 arg2);
-extern void _wrap_Convert_FromCAD__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_681 arg2, uintptr_t arg3);
-extern void _wrap_Convert_FromCAD__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_682 arg2);
-extern void _wrap_Convert_FromDICOM__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_683 arg2, uintptr_t arg3);
-extern void _wrap_Convert_FromDICOM__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_684 arg2);
-extern void _wrap_Convert_FromSVG__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_685 arg2, uintptr_t arg3);
-extern void _wrap_Convert_FromSVG__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_686 arg2);
+extern void _wrap_Convert_ToPdf_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_686 arg2);
+extern void _wrap_Convert_FromCAD__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_687 arg2, uintptr_t arg3);
+extern void _wrap_Convert_FromCAD__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_688 arg2);
+extern void _wrap_Convert_FromDICOM__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_689 arg2, uintptr_t arg3);
+extern void _wrap_Convert_FromDICOM__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_690 arg2);
+extern void _wrap_Convert_FromSVG__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_691 arg2, uintptr_t arg3);
+extern void _wrap_Convert_FromSVG__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_692 arg2);
 extern void _wrap_Convert_FromTiff_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Convert_CreateOfficeTemplate__SWIG_0_pdftron_e64018f00020cc89(swig_type_687 arg1, uintptr_t arg2);
+extern uintptr_t _wrap_Convert_CreateOfficeTemplate__SWIG_0_pdftron_e64018f00020cc89(swig_type_693 arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Convert_CreateOfficeTemplate__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern _Bool _wrap_Convert_RequiresPrinter_pdftron_e64018f00020cc89(swig_type_688 arg1);
+extern _Bool _wrap_Convert_RequiresPrinter_pdftron_e64018f00020cc89(swig_type_694 arg1);
 extern uintptr_t _wrap_new_XPSOutputCommonOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_XPSOutputCommonOptions_SetPrintMode_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_XPSOutputCommonOptions_SetDPI_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
@@ -4796,7 +4814,7 @@ extern void _wrap_XODOutputOptions_SetJPGQuality_pdftron_e64018f00020cc89(uintpt
 extern void _wrap_XODOutputOptions_SetSilverlightTextWorkaround_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_XODOutputOptions_SetAnnotationOutput_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_XODOutputOptions_SetExternalParts_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern void _wrap_XODOutputOptions_SetEncryptPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_689 arg2);
+extern void _wrap_XODOutputOptions_SetEncryptPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_695 arg2);
 extern void _wrap_XODOutputOptions_UseSilverlightFlashCompatible_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_new_XODOutputOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_XODOutputOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -4828,8 +4846,8 @@ extern swig_intgo _wrap_e_lang_swedish_OutputOptionsOCR_pdftron_e64018f00020cc89
 extern swig_intgo _wrap_e_lang_turkish_OutputOptionsOCR_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_engine_default_OutputOptionsOCR_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_engine_tesseract_OutputOptionsOCR_pdftron_e64018f00020cc89(void);
-extern swig_type_690 _wrap_OutputOptionsOCR_LanguageChoiceToString_pdftron_e64018f00020cc89(swig_intgo arg1);
-extern swig_type_691 _wrap_OutputOptionsOCR_PreferredOCRChoiceToString_pdftron_e64018f00020cc89(swig_intgo arg1);
+extern swig_type_696 _wrap_OutputOptionsOCR_LanguageChoiceToString_pdftron_e64018f00020cc89(swig_intgo arg1);
+extern swig_type_697 _wrap_OutputOptionsOCR_PreferredOCRChoiceToString_pdftron_e64018f00020cc89(swig_intgo arg1);
 extern uintptr_t _wrap_new_OutputOptionsOCR_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_OutputOptionsOCR_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_HTMLOutputOptions_pdftron_e64018f00020cc89(void);
@@ -4845,13 +4863,13 @@ extern void _wrap_HTMLOutputOptions_SetScale_pdftron_e64018f00020cc89(uintptr_t 
 extern void _wrap_HTMLOutputOptions_SetExternalLinks_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetInternalLinks_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetSimplifyText_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern void _wrap_HTMLOutputOptions_SetReportFile_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_692 arg2);
-extern void _wrap_HTMLOutputOptions_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_693 arg2);
+extern void _wrap_HTMLOutputOptions_SetReportFile_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_698 arg2);
+extern void _wrap_HTMLOutputOptions_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_699 arg2);
 extern void _wrap_HTMLOutputOptions_SetImageDPI_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_HTMLOutputOptions_SetEmbedImages_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetFileConversionTimeoutSeconds_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_HTMLOutputOptions_SetPages_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
-extern void _wrap_HTMLOutputOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_694 arg2);
+extern void _wrap_HTMLOutputOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_700 arg2);
 extern swig_intgo _wrap_e_ocr_image_text_HTMLOutputOptions_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_ocr_image_HTMLOutputOptions_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_ocr_text_HTMLOutputOptions_pdftron_e64018f00020cc89(void);
@@ -4871,7 +4889,7 @@ extern swig_intgo _wrap_e_wof_rtf_WordOutputOptions_pdftron_e64018f00020cc89(voi
 extern swig_intgo _wrap_e_wof_txt_WordOutputOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_WordOutputOptions_SetWordOutputFormat_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_WordOutputOptions_SetPages_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
-extern void _wrap_WordOutputOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_695 arg2);
+extern void _wrap_WordOutputOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_701 arg2);
 extern swig_intgo _wrap_e_ocr_image_text_WordOutputOptions_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_ocr_image_WordOutputOptions_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_ocr_text_WordOutputOptions_pdftron_e64018f00020cc89(void);
@@ -4881,24 +4899,24 @@ extern void _wrap_WordOutputOptions_SetSearchableImageSetting_pdftron_e64018f000
 extern void _wrap_WordOutputOptions_SetConnectHyphens_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_WordOutputOptions_SetLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_WordOutputOptions_SetPreferredOCREngine_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_WordOutputOptions_SetCustomOCRLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_696 arg2);
+extern void _wrap_WordOutputOptions_SetCustomOCRLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_702 arg2);
 extern void _wrap_WordOutputOptions_SetPrioritizeVisualAppearance_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_delete_WordOutputOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_ExcelOutputOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_ExcelOutputOptions_SetPages_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
-extern void _wrap_ExcelOutputOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_697 arg2);
+extern void _wrap_ExcelOutputOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_703 arg2);
 extern void _wrap_ExcelOutputOptions_SetLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_ExcelOutputOptions_SetPreferredOCREngine_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_ExcelOutputOptions_SetCustomOCRLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_698 arg2);
+extern void _wrap_ExcelOutputOptions_SetCustomOCRLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_704 arg2);
 extern void _wrap_ExcelOutputOptions_SetNonTableContent_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_ExcelOutputOptions_SetSingleSheet_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_delete_ExcelOutputOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_PowerPointOutputOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_PowerPointOutputOptions_SetPages_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
-extern void _wrap_PowerPointOutputOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_699 arg2);
+extern void _wrap_PowerPointOutputOptions_SetPDFPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_705 arg2);
 extern void _wrap_PowerPointOutputOptions_SetLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PowerPointOutputOptions_SetPreferredOCREngine_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_PowerPointOutputOptions_SetCustomOCRLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_700 arg2);
+extern void _wrap_PowerPointOutputOptions_SetCustomOCRLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_706 arg2);
 extern void _wrap_delete_PowerPointOutputOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_EPUBOutputOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_EPUBOutputOptions_SetExpanded_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
@@ -4928,7 +4946,7 @@ extern uintptr_t _wrap_new_TiffOutputOptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_TiffOutputOptions_SetBox_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_TiffOutputOptions_SetRotate_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_TiffOutputOptions_SetClip_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2, double arg3, double arg4, double arg5);
-extern void _wrap_TiffOutputOptions_SetPages_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_701 arg2);
+extern void _wrap_TiffOutputOptions_SetPages_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_707 arg2);
 extern void _wrap_TiffOutputOptions_SetOverprint_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_TiffOutputOptions_SetCMYK_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_TiffOutputOptions_SetDither_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
@@ -4944,13 +4962,13 @@ extern void _wrap_TiffOutputOptions_SetGamma_pdftron_e64018f00020cc89(uintptr_t 
 extern void _wrap_TiffOutputOptions_SetHRes_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_TiffOutputOptions_SetVRes_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_delete_TiffOutputOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Printer_Install__SWIG_0_pdftron_e64018f00020cc89(swig_type_702 arg1);
+extern void _wrap_Printer_Install__SWIG_0_pdftron_e64018f00020cc89(swig_type_708 arg1);
 extern void _wrap_Printer_Install__SWIG_1_pdftron_e64018f00020cc89(void);
 extern void _wrap_Printer_Uninstall_pdftron_e64018f00020cc89(void);
-extern swig_type_703 _wrap_Printer_GetPrinterName_pdftron_e64018f00020cc89(void);
-extern void _wrap_Printer_SetPrinterName__SWIG_0_pdftron_e64018f00020cc89(swig_type_704 arg1);
+extern swig_type_709 _wrap_Printer_GetPrinterName_pdftron_e64018f00020cc89(void);
+extern void _wrap_Printer_SetPrinterName__SWIG_0_pdftron_e64018f00020cc89(swig_type_710 arg1);
 extern void _wrap_Printer_SetPrinterName__SWIG_1_pdftron_e64018f00020cc89(void);
-extern _Bool _wrap_Printer_IsInstalled__SWIG_0_pdftron_e64018f00020cc89(swig_type_705 arg1);
+extern _Bool _wrap_Printer_IsInstalled__SWIG_0_pdftron_e64018f00020cc89(swig_type_711 arg1);
 extern _Bool _wrap_Printer_IsInstalled__SWIG_1_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_auto_Printer_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_interop_only_Printer_pdftron_e64018f00020cc89(void);
@@ -4965,16 +4983,16 @@ extern swig_intgo _wrap_e_Form_DataExtractionModule_pdftron_e64018f00020cc89(voi
 extern swig_intgo _wrap_e_DocStructure_DataExtractionModule_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_FormKeyValue_DataExtractionModule_pdftron_e64018f00020cc89(void);
 extern _Bool _wrap_DataExtractionModule_IsModuleAvailable_pdftron_e64018f00020cc89(swig_intgo arg1);
-extern swig_type_706 _wrap_DataExtractionModule_ExtractData__SWIG_0_pdftron_e64018f00020cc89(swig_type_707 arg1, swig_intgo arg2, uintptr_t arg3);
-extern swig_type_708 _wrap_DataExtractionModule_ExtractData__SWIG_1_pdftron_e64018f00020cc89(swig_type_709 arg1, swig_intgo arg2);
-extern void _wrap_DataExtractionModule_ExtractData__SWIG_2_pdftron_e64018f00020cc89(swig_type_710 arg1, swig_type_711 arg2, swig_intgo arg3, uintptr_t arg4);
-extern void _wrap_DataExtractionModule_ExtractData__SWIG_3_pdftron_e64018f00020cc89(swig_type_712 arg1, swig_type_713 arg2, swig_intgo arg3);
+extern swig_type_712 _wrap_DataExtractionModule_ExtractData__SWIG_0_pdftron_e64018f00020cc89(swig_type_713 arg1, swig_intgo arg2, uintptr_t arg3);
+extern swig_type_714 _wrap_DataExtractionModule_ExtractData__SWIG_1_pdftron_e64018f00020cc89(swig_type_715 arg1, swig_intgo arg2);
+extern void _wrap_DataExtractionModule_ExtractData__SWIG_2_pdftron_e64018f00020cc89(swig_type_716 arg1, swig_type_717 arg2, swig_intgo arg3, uintptr_t arg4);
+extern void _wrap_DataExtractionModule_ExtractData__SWIG_3_pdftron_e64018f00020cc89(swig_type_718 arg1, swig_type_719 arg2, swig_intgo arg3);
 extern void _wrap_DataExtractionModule_DetectAndAddFormFieldsToPDF__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_DataExtractionModule_DetectAndAddFormFieldsToPDF__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_0_pdftron_e64018f00020cc89(swig_type_714 arg1, swig_type_715 arg2, uintptr_t arg3);
-extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_1_pdftron_e64018f00020cc89(swig_type_716 arg1, swig_type_717 arg2);
-extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_2_pdftron_e64018f00020cc89(swig_type_718 arg1, uintptr_t arg2, uintptr_t arg3);
-extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_3_pdftron_e64018f00020cc89(swig_type_719 arg1, uintptr_t arg2);
+extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_0_pdftron_e64018f00020cc89(swig_type_720 arg1, swig_type_721 arg2, uintptr_t arg3);
+extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_1_pdftron_e64018f00020cc89(swig_type_722 arg1, swig_type_723 arg2);
+extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_2_pdftron_e64018f00020cc89(swig_type_724 arg1, uintptr_t arg2, uintptr_t arg3);
+extern void _wrap_DataExtractionModule_ExtractToXLSX__SWIG_3_pdftron_e64018f00020cc89(swig_type_725 arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_DataExtractionModule_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_DataExtractionModule_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_e_moveto_PathData_pdftron_e64018f00020cc89(void);
@@ -5019,20 +5037,20 @@ extern uintptr_t _wrap_new_Font__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1)
 extern uintptr_t _wrap_new_Font__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_Font_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, _Bool arg3);
 extern uintptr_t _wrap_Font_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern uintptr_t _wrap_Font_CreateTrueTypeFont__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_720 arg2, _Bool arg3, _Bool arg4);
-extern uintptr_t _wrap_Font_CreateTrueTypeFont__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_721 arg2, _Bool arg3);
-extern uintptr_t _wrap_Font_CreateTrueTypeFont__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_722 arg2);
+extern uintptr_t _wrap_Font_CreateTrueTypeFont__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_726 arg2, _Bool arg3, _Bool arg4);
+extern uintptr_t _wrap_Font_CreateTrueTypeFont__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_727 arg2, _Bool arg3);
+extern uintptr_t _wrap_Font_CreateTrueTypeFont__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_728 arg2);
 extern swig_intgo _wrap_e_IdentityH_Font_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Indices_Font_pdftron_e64018f00020cc89(void);
-extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_723 arg2, _Bool arg3, _Bool arg4, swig_intgo arg5, swig_intgo arg6);
-extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_724 arg2, _Bool arg3, _Bool arg4, swig_intgo arg5);
-extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_725 arg2, _Bool arg3, _Bool arg4);
-extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_726 arg2, _Bool arg3);
-extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_727 arg2);
-extern uintptr_t _wrap_Font_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_728 arg3);
-extern uintptr_t _wrap_Font_Create__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_729 arg2, swig_type_730 arg3);
-extern uintptr_t _wrap_Font_CreateType1Font__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_731 arg2, _Bool arg3);
-extern uintptr_t _wrap_Font_CreateType1Font__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_732 arg2);
+extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_729 arg2, _Bool arg3, _Bool arg4, swig_intgo arg5, swig_intgo arg6);
+extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_730 arg2, _Bool arg3, _Bool arg4, swig_intgo arg5);
+extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_731 arg2, _Bool arg3, _Bool arg4);
+extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_732 arg2, _Bool arg3);
+extern uintptr_t _wrap_Font_CreateCIDTrueTypeFont__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_733 arg2);
+extern uintptr_t _wrap_Font_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_734 arg3);
+extern uintptr_t _wrap_Font_Create__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_735 arg2, swig_type_736 arg3);
+extern uintptr_t _wrap_Font_CreateType1Font__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_737 arg2, _Bool arg3);
+extern uintptr_t _wrap_Font_CreateType1Font__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_738 arg2);
 extern swig_intgo _wrap_e_Type1_Font_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_TrueType_Font_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_MMType1_Font_pdftron_e64018f00020cc89(void);
@@ -5045,8 +5063,8 @@ extern swig_intgo _wrap_Font_GetType_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_Font_IsSimple_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Font_GetSDFObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Font_GetDescriptor_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_733 _wrap_Font_GetName_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_734 _wrap_Font_GetFamilyName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_739 _wrap_Font_GetName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_740 _wrap_Font_GetFamilyName_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_Font_IsFixedWidth_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_Font_IsSerif_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_Font_IsSymbolic_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -5060,10 +5078,10 @@ extern double _wrap_Font_GetMissingWidth_pdftron_e64018f00020cc89(uintptr_t arg1
 extern uintptr_t _wrap_Font_GetCharCodeIterator_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Font_GetGlyphPath__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, _Bool arg3, uintptr_t arg4);
 extern uintptr_t _wrap_Font_GetGlyphPath__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, _Bool arg3);
-extern uintptr_t _wrap_Font_GetShapedText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_735 arg2);
-extern swig_type_736 _wrap_Font_MapToUnicode_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern uintptr_t _wrap_Font_GetShapedText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_741 arg2);
+extern swig_type_742 _wrap_Font_MapToUnicode_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern _Bool _wrap_Font_IsEmbedded_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_737 _wrap_Font_GetEmbeddedFontName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_743 _wrap_Font_GetEmbeddedFontName_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Font_GetEmbeddedFont_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_Font_GetEmbeddedFontBufSize_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern short _wrap_Font_GetUnitsPerEm_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -5220,7 +5238,7 @@ extern swig_intgo _wrap_e_relative_colorimetric_GState_pdftron_e64018f00020cc89(
 extern swig_intgo _wrap_e_saturation_GState_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_perceptual_GState_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_GState_GetRenderingIntent_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_intgo _wrap_GState_GetRenderingIntentType_pdftron_e64018f00020cc89(swig_type_738 arg1);
+extern swig_intgo _wrap_GState_GetRenderingIntentType_pdftron_e64018f00020cc89(swig_type_744 arg1);
 extern swig_intgo _wrap_e_bl_compatible_GState_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_bl_normal_GState_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_bl_multiply_GState_pdftron_e64018f00020cc89(void);
@@ -5298,22 +5316,22 @@ extern uintptr_t _wrap_new_GState__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg
 extern void _wrap_GState_mp_state_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_GState_mp_state_get_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_GState_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_Image_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_739 arg2, uintptr_t arg3);
-extern uintptr_t _wrap_Image_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_740 arg2);
-extern uintptr_t _wrap_Image_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_741 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, uintptr_t arg7, uintptr_t arg8);
-extern uintptr_t _wrap_Image_Create__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_742 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, uintptr_t arg7);
+extern uintptr_t _wrap_Image_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_745 arg2, uintptr_t arg3);
+extern uintptr_t _wrap_Image_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_746 arg2);
+extern uintptr_t _wrap_Image_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_747 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, uintptr_t arg7, uintptr_t arg8);
+extern uintptr_t _wrap_Image_Create__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_748 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, uintptr_t arg7);
 extern uintptr_t _wrap_Image_Create__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5, uintptr_t arg6, uintptr_t arg7);
 extern uintptr_t _wrap_Image_Create__SWIG_5_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5, uintptr_t arg6);
-extern uintptr_t _wrap_Image_Create__SWIG_6_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_743 arg3, uintptr_t arg4);
-extern uintptr_t _wrap_Image_Create__SWIG_7_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_744 arg3);
+extern uintptr_t _wrap_Image_Create__SWIG_6_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_749 arg3, uintptr_t arg4);
+extern uintptr_t _wrap_Image_Create__SWIG_7_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_type_750 arg3);
 extern uintptr_t _wrap_Image_Create__SWIG_8_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern uintptr_t _wrap_Image_Create__SWIG_9_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Image_CreateImageMask__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_745 arg2, swig_type_746 arg3, swig_intgo arg4, swig_intgo arg5, uintptr_t arg6);
-extern uintptr_t _wrap_Image_CreateImageMask__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_747 arg2, swig_type_748 arg3, swig_intgo arg4, swig_intgo arg5);
+extern uintptr_t _wrap_Image_CreateImageMask__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_751 arg2, swig_type_752 arg3, swig_intgo arg4, swig_intgo arg5, uintptr_t arg6);
+extern uintptr_t _wrap_Image_CreateImageMask__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_753 arg2, swig_type_754 arg3, swig_intgo arg4, swig_intgo arg5);
 extern uintptr_t _wrap_Image_CreateImageMask__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
 extern uintptr_t _wrap_Image_CreateImageMask__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_intgo arg4);
-extern uintptr_t _wrap_Image_CreateSoftMask__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_749 arg2, swig_type_750 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, uintptr_t arg7);
-extern uintptr_t _wrap_Image_CreateSoftMask__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_751 arg2, swig_type_752 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6);
+extern uintptr_t _wrap_Image_CreateSoftMask__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_755 arg2, swig_type_756 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, uintptr_t arg7);
+extern uintptr_t _wrap_Image_CreateSoftMask__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_757 arg2, swig_type_758 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6);
 extern uintptr_t _wrap_Image_CreateSoftMask__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5, uintptr_t arg6);
 extern uintptr_t _wrap_Image_CreateSoftMask__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5);
 extern swig_intgo _wrap_e_none_Image_pdftron_e64018f00020cc89(void);
@@ -5323,7 +5341,7 @@ extern swig_intgo _wrap_e_flate_Image_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_g3_Image_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_g4_Image_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_ascii_hex_Image_pdftron_e64018f00020cc89(void);
-extern uintptr_t _wrap_Image_Create__SWIG_10_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_753 arg2, swig_type_754 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, uintptr_t arg7, swig_intgo arg8);
+extern uintptr_t _wrap_Image_Create__SWIG_10_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_759 arg2, swig_type_760 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, uintptr_t arg7, swig_intgo arg8);
 extern uintptr_t _wrap_Image_Create__SWIG_11_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5, uintptr_t arg6, swig_intgo arg7);
 extern uintptr_t _wrap_new_Image__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Image__SWIG_1_pdftron_e64018f00020cc89(void);
@@ -5346,11 +5364,11 @@ extern void _wrap_Image_SetMask__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1,
 extern uintptr_t _wrap_Image_GetSoftMask_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Image_SetSoftMask_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern swig_intgo _wrap_Image_GetImageRenderingIntent_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_intgo _wrap_Image_Export__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_755 arg2);
+extern swig_intgo _wrap_Image_Export__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_761 arg2);
 extern swig_intgo _wrap_Image_Export__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_Image_ExportAsTiff__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_756 arg2);
+extern void _wrap_Image_ExportAsTiff__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_762 arg2);
 extern void _wrap_Image_ExportAsTiff__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_Image_ExportAsPng__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_757 arg2);
+extern void _wrap_Image_ExportAsPng__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_763 arg2);
 extern void _wrap_Image_ExportAsPng__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_Image__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Image_mp_image_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
@@ -5362,8 +5380,8 @@ extern swig_intgo _wrap_e_roman_lowercase_PageLabel_pdftron_e64018f00020cc89(voi
 extern swig_intgo _wrap_e_alphabetic_uppercase_PageLabel_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_alphabetic_lowercase_PageLabel_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_none_PageLabel_pdftron_e64018f00020cc89(void);
-extern uintptr_t _wrap_PageLabel_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_758 arg3, swig_intgo arg4);
-extern uintptr_t _wrap_PageLabel_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_759 arg3);
+extern uintptr_t _wrap_PageLabel_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_764 arg3, swig_intgo arg4);
+extern uintptr_t _wrap_PageLabel_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_type_765 arg3);
 extern uintptr_t _wrap_PageLabel_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_new_PageLabel__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
 extern uintptr_t _wrap_new_PageLabel__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
@@ -5372,11 +5390,11 @@ extern uintptr_t _wrap_new_PageLabel__SWIG_3_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_PageLabel__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PageLabel_IsEqual_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern _Bool _wrap_PageLabel_IsValid_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_760 _wrap_PageLabel_GetLabelTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_766 _wrap_PageLabel_GetLabelTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PageLabel_SetStyle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern swig_intgo _wrap_PageLabel_GetStyle_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_761 _wrap_PageLabel_GetPrefix_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PageLabel_SetPrefix_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_762 arg2);
+extern swig_type_767 _wrap_PageLabel_GetPrefix_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_PageLabel_SetPrefix_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_768 arg2);
 extern swig_intgo _wrap_PageLabel_GetStart_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PageLabel_SetStart_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern swig_intgo _wrap_PageLabel_GetFirstPageNum_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -5451,24 +5469,24 @@ extern void _wrap_PDFDocViewPrefs_mp_prefs_set_pdftron_e64018f00020cc89(uintptr_
 extern uintptr_t _wrap_PDFDocViewPrefs_mp_prefs_get_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_PDFDocViewPrefs__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_PDFDocViewPrefs_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_763 _wrap_PDFDocInfo_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_769 _wrap_PDFDocInfo_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDocInfo_GetTitleObj_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFDocInfo_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_764 arg2);
-extern swig_type_765 _wrap_PDFDocInfo_GetAuthor_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_PDFDocInfo_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_770 arg2);
+extern swig_type_771 _wrap_PDFDocInfo_GetAuthor_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDocInfo_GetAuthorObj_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFDocInfo_SetAuthor_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_766 arg2);
-extern swig_type_767 _wrap_PDFDocInfo_GetSubject_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_PDFDocInfo_SetAuthor_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_772 arg2);
+extern swig_type_773 _wrap_PDFDocInfo_GetSubject_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDocInfo_GetSubjectObj_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFDocInfo_SetSubject_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_768 arg2);
-extern swig_type_769 _wrap_PDFDocInfo_GetKeywords_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_PDFDocInfo_SetSubject_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_774 arg2);
+extern swig_type_775 _wrap_PDFDocInfo_GetKeywords_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDocInfo_GetKeywordsObj_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFDocInfo_SetKeywords_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_770 arg2);
-extern swig_type_771 _wrap_PDFDocInfo_GetCreator_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_PDFDocInfo_SetKeywords_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_776 arg2);
+extern swig_type_777 _wrap_PDFDocInfo_GetCreator_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDocInfo_GetCreatorObj_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFDocInfo_SetCreator_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_772 arg2);
-extern swig_type_773 _wrap_PDFDocInfo_GetProducer_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_PDFDocInfo_SetCreator_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_778 arg2);
+extern swig_type_779 _wrap_PDFDocInfo_GetProducer_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDocInfo_GetProducerObj_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFDocInfo_SetProducer_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_774 arg2);
+extern void _wrap_PDFDocInfo_SetProducer_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_780 arg2);
 extern uintptr_t _wrap_PDFDocInfo_GetCreationDate_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDocInfo_SetCreationDate_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_PDFDocInfo_GetModDate_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -5484,28 +5502,28 @@ extern void _wrap_delete_PDFDocInfo_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_PDFDoc__SWIG_0_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_PDFDoc__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_PDFDoc__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_new_PDFDoc__SWIG_3_pdftron_e64018f00020cc89(swig_type_775 arg1);
-extern uintptr_t _wrap_new_PDFDoc__SWIG_4_pdftron_e64018f00020cc89(swig_type_776 arg1);
+extern uintptr_t _wrap_new_PDFDoc__SWIG_3_pdftron_e64018f00020cc89(swig_type_781 arg1);
+extern uintptr_t _wrap_new_PDFDoc__SWIG_4_pdftron_e64018f00020cc89(swig_type_782 arg1);
 extern uintptr_t _wrap_new_PDFDoc__SWIG_5_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_new_PDFDoc__SWIG_6_pdftron_e64018f00020cc89(swig_voidp arg1, swig_type_777 arg2);
+extern uintptr_t _wrap_new_PDFDoc__SWIG_6_pdftron_e64018f00020cc89(swig_voidp arg1, swig_type_783 arg2);
 extern void _wrap_delete_PDFDoc_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDoc_Close_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PDFDoc_IsEncrypted_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PDFDoc_InitSecurityHandler_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern _Bool _wrap_PDFDoc_InitStdSecurityHandler__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_778 arg2, swig_intgo arg3);
-extern _Bool _wrap_PDFDoc_InitStdSecurityHandler__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_779 arg2);
+extern _Bool _wrap_PDFDoc_InitStdSecurityHandler__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_784 arg2, swig_intgo arg3);
+extern _Bool _wrap_PDFDoc_InitStdSecurityHandler__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_785 arg2);
 extern _Bool _wrap_PDFDoc_InitStdSecurityHandler__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_PDFDoc_GetSecurityHandler_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDoc_SetSecurityHandler_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_PDFDoc_RemoveSecurity_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PDFDoc_HasSignatures_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_780 _wrap_PDFDoc_AddSignatureHandler_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_781 _wrap_PDFDoc_AddStdSignatureHandler__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_782 arg2, swig_type_783 arg3);
-extern swig_type_784 _wrap_PDFDoc_AddStdSignatureHandler__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_785 arg3);
-extern void _wrap_PDFDoc_RemoveSignatureHandler_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_786 arg2);
-extern uintptr_t _wrap_PDFDoc_GetSignatureHandler_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_787 arg2);
+extern swig_type_786 _wrap_PDFDoc_AddSignatureHandler_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
+extern swig_type_787 _wrap_PDFDoc_AddStdSignatureHandler__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_788 arg2, swig_type_789 arg3);
+extern swig_type_790 _wrap_PDFDoc_AddStdSignatureHandler__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_791 arg3);
+extern void _wrap_PDFDoc_RemoveSignatureHandler_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_792 arg2);
+extern uintptr_t _wrap_PDFDoc_GetSignatureHandler_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_793 arg2);
 extern uintptr_t _wrap_PDFDoc_GetUndoManager_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_PDFDoc_CreateDigitalSignatureField__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_788 arg2);
+extern uintptr_t _wrap_PDFDoc_CreateDigitalSignatureField__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_794 arg2);
 extern uintptr_t _wrap_PDFDoc_CreateDigitalSignatureField__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDoc_GetDigitalSignatureFieldIterator_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_PDFDoc_GetDigitalSignaturePermissions_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -5521,12 +5539,12 @@ extern _Bool _wrap_PDFDoc_IsModified_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PDFDoc_HasRepairedXRef_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PDFDoc_IsLinearized_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PDFDoc_HasDownloader_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_789 _wrap_PDFDoc_GetDownloadedByteCount_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_790 _wrap_PDFDoc_GetTotalRemoteByteCount_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFDoc_Save__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_791 arg2, swig_intgo arg3);
+extern swig_type_795 _wrap_PDFDoc_GetDownloadedByteCount_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_796 _wrap_PDFDoc_GetTotalRemoteByteCount_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_PDFDoc_Save__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_797 arg2, swig_intgo arg3);
 extern uintptr_t _wrap_PDFDoc_Save__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PDFDoc_Save__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
-extern void _wrap_PDFDoc_SaveCustomSignature__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, swig_type_792 arg4);
+extern void _wrap_PDFDoc_SaveCustomSignature__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, swig_type_798 arg4);
 extern void _wrap_PDFDoc_SaveCustomSignature__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, uintptr_t arg4);
 extern uintptr_t _wrap_PDFDoc_GetPageIterator__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_PDFDoc_GetPageIterator__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -5557,13 +5575,13 @@ extern uintptr_t _wrap_PDFDoc_GetRoot_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDoc_GetPages_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_PDFDoc_GetPageCount_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDoc_GetFieldIterator__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_PDFDoc_GetFieldIterator__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_793 arg2);
-extern uintptr_t _wrap_PDFDoc_GetField_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_794 arg2);
-extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_795 arg2, swig_intgo arg3, uintptr_t arg4, uintptr_t arg5);
-extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_796 arg2, swig_intgo arg3, uintptr_t arg4);
-extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_797 arg2, swig_intgo arg3);
-extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_798 arg2, swig_intgo arg3, swig_type_799 arg4, swig_type_800 arg5);
-extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_801 arg2, swig_intgo arg3, swig_type_802 arg4);
+extern uintptr_t _wrap_PDFDoc_GetFieldIterator__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_799 arg2);
+extern uintptr_t _wrap_PDFDoc_GetField_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_800 arg2);
+extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_801 arg2, swig_intgo arg3, uintptr_t arg4, uintptr_t arg5);
+extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_802 arg2, swig_intgo arg3, uintptr_t arg4);
+extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_803 arg2, swig_intgo arg3);
+extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_804 arg2, swig_intgo arg3, swig_type_805 arg4, swig_type_806 arg5);
+extern uintptr_t _wrap_PDFDoc_FieldCreate__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_807 arg2, swig_intgo arg3, swig_type_808 arg4);
 extern void _wrap_PDFDoc_RefreshFieldAppearances_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDoc_RefreshAnnotAppearances__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_PDFDoc_RefreshAnnotAppearances__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -5584,7 +5602,7 @@ extern void _wrap_PDFDoc_FDFMerge_pdftron_e64018f00020cc89(uintptr_t arg1, uintp
 extern void _wrap_PDFDoc_FDFUpdate_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_PDFDoc_GetOpenAction_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDoc_SetOpenAction_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_PDFDoc_AddFileAttachment_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_803 arg2, uintptr_t arg3);
+extern void _wrap_PDFDoc_AddFileAttachment_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_809 arg2, uintptr_t arg3);
 extern uintptr_t _wrap_PDFDoc_GetPageLabel_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PDFDoc_SetPageLabel_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
 extern void _wrap_PDFDoc_RemovePageLabel_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
@@ -5593,19 +5611,19 @@ extern uintptr_t _wrap_PDFDoc_GetStructTree_pdftron_e64018f00020cc89(uintptr_t a
 extern _Bool _wrap_PDFDoc_HasOC_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDoc_GetOCGs_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDoc_GetOCGConfig_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFDoc_AddHighlights_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_804 arg2);
-extern uintptr_t _wrap_PDFDoc_CreateIndirectName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_805 arg2);
+extern void _wrap_PDFDoc_AddHighlights_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_810 arg2);
+extern uintptr_t _wrap_PDFDoc_CreateIndirectName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_811 arg2);
 extern uintptr_t _wrap_PDFDoc_CreateIndirectArray_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDoc_CreateIndirectBool_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_PDFDoc_CreateIndirectDict_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDoc_CreateIndirectNull_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDoc_CreateIndirectNumber_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
 extern uintptr_t _wrap_PDFDoc_CreateIndirectString__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3);
-extern uintptr_t _wrap_PDFDoc_CreateIndirectString__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_806 arg2);
+extern uintptr_t _wrap_PDFDoc_CreateIndirectString__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_812 arg2);
 extern uintptr_t _wrap_PDFDoc_CreateIndirectStream__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern uintptr_t _wrap_PDFDoc_CreateIndirectStream__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_PDFDoc_CreateIndirectStream__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_807 arg2, swig_type_808 arg3, uintptr_t arg4);
-extern uintptr_t _wrap_PDFDoc_CreateIndirectStream__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_809 arg2, swig_type_810 arg3);
+extern uintptr_t _wrap_PDFDoc_CreateIndirectStream__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_813 arg2, swig_type_814 arg3, uintptr_t arg4);
+extern uintptr_t _wrap_PDFDoc_CreateIndirectStream__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_815 arg2, swig_type_816 arg3);
 extern uintptr_t _wrap_PDFDoc_GetSDFDoc_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDoc_Lock_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDoc_Unlock_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -5615,11 +5633,11 @@ extern void _wrap_PDFDoc_LockRead_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDoc_UnlockRead_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PDFDoc_TryLockRead__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern _Bool _wrap_PDFDoc_TryLockRead__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_811 _wrap_PDFDoc_GetFileName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_817 _wrap_PDFDoc_GetFileName_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDoc_GenerateThumbnails_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PDFDoc_AppendVisualDiff_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, uintptr_t arg4);
-extern void _wrap_PDFDoc_SaveViewerOptimized__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_812 arg2, uintptr_t arg3);
-extern void _wrap_PDFDoc_SaveViewerOptimized__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_813 arg2, swig_voidp arg3, uintptr_t arg4);
+extern void _wrap_PDFDoc_SaveViewerOptimized__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_818 arg2, uintptr_t arg3);
+extern void _wrap_PDFDoc_SaveViewerOptimized__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_819 arg2, swig_voidp arg3, uintptr_t arg4);
 extern swig_intgo _wrap_e_unsigned_PDFDoc_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_failure_PDFDoc_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_untrusted_PDFDoc_pdftron_e64018f00020cc89(void);
@@ -5628,8 +5646,8 @@ extern swig_intgo _wrap_e_verified_PDFDoc_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_PDFDoc_VerifySignedDigitalSignatures_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_PDFDoc_MergeXFDF__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern void _wrap_PDFDoc_MergeXFDF__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_PDFDoc_MergeXFDF__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_814 arg2, uintptr_t arg3);
-extern void _wrap_PDFDoc_MergeXFDF__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_815 arg2);
+extern void _wrap_PDFDoc_MergeXFDF__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_820 arg2, uintptr_t arg3);
+extern void _wrap_PDFDoc_MergeXFDF__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_821 arg2);
 extern uintptr_t _wrap_PDFDoc_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PDFDoc_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFDoc_mp_doc_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
@@ -5641,15 +5659,15 @@ extern double _wrap_PrintToPdfOptions_GetHorizontalPageMargin_pdftron_e64018f000
 extern uintptr_t _wrap_PrintToPdfOptions_SetHorizontalPageMargin_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
 extern double _wrap_PrintToPdfOptions_GetPageHeight_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PrintToPdfOptions_SetPageHeight_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
-extern swig_type_816 _wrap_PrintToPdfOptions_GetPageOrientation_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_PrintToPdfOptions_SetPageOrientation_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_817 arg2);
+extern swig_type_822 _wrap_PrintToPdfOptions_GetPageOrientation_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_PrintToPdfOptions_SetPageOrientation_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_823 arg2);
 extern double _wrap_PrintToPdfOptions_GetPageWidth_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PrintToPdfOptions_SetPageWidth_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
 extern double _wrap_PrintToPdfOptions_GetVerticalPageMargin_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PrintToPdfOptions_SetVerticalPageMargin_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
 extern _Bool _wrap_PrintToPdfModule_IsModuleAvailable_pdftron_e64018f00020cc89(void);
-extern void _wrap_PrintToPdfModule_PrintToPdf__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_818 arg2, uintptr_t arg3);
-extern void _wrap_PrintToPdfModule_PrintToPdf__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_819 arg2);
+extern void _wrap_PrintToPdfModule_PrintToPdf__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_824 arg2, uintptr_t arg3);
+extern void _wrap_PrintToPdfModule_PrintToPdf__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_825 arg2);
 extern uintptr_t _wrap_new_PrintToPdfModule_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_PrintToPdfModule_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Caret__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -5659,19 +5677,19 @@ extern uintptr_t _wrap_Caret_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t a
 extern uintptr_t _wrap_Caret_CreateAnnot__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Caret_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern uintptr_t _wrap_Caret_CreateAnnot__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
-extern swig_type_820 _wrap_Caret_GetSymbol_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Caret_SetSymbol_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_821 arg2);
+extern swig_type_826 _wrap_Caret_GetSymbol_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Caret_SetSymbol_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_827 arg2);
 extern uintptr_t _wrap_new_Caret__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_Caret_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_822 _wrap_Caret_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Caret_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_Caret_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_828 _wrap_Caret_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Caret_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_Caret_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_Caret_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_Caret_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_823 _wrap_Caret_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Caret_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_829 _wrap_Caret_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Caret_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_Caret_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_Caret_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -5700,8 +5718,8 @@ extern void _wrap_Caret_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, u
 extern uintptr_t _wrap_Caret_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Caret_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Caret_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Caret_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Caret_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Caret_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Caret_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Caret_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -5710,18 +5728,18 @@ extern uintptr_t _wrap_Caret_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_t
 extern uintptr_t _wrap_Caret_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Caret_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Caret_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Caret_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Caret_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Caret_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Caret_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Caret_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Caret_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Caret_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Caret_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Caret_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Caret_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Caret_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_824 _wrap_Caret_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Caret_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_830 _wrap_Caret_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Caret_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Caret_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Caret_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Caret_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -5732,15 +5750,15 @@ extern swig_intgo _wrap_Caret_GetStructParent_pdftron_e64018f00020cc89(uintptr_t
 extern void _wrap_Caret_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Caret_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Caret_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_825 _wrap_Caret_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Caret_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_831 _wrap_Caret_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Caret_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Caret_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Caret_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_826 _wrap_Caret_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Caret_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Caret_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_832 _wrap_Caret_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Caret_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Caret_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Caret_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Caret_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Caret_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -5753,15 +5771,15 @@ extern uintptr_t _wrap_Circle_Create_pdftron_e64018f00020cc89(uintptr_t arg1, ui
 extern uintptr_t _wrap_Circle_CreateAnnot_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_Circle__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_Circle_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_827 _wrap_Circle_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Circle_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_Circle_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_833 _wrap_Circle_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Circle_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_Circle_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_Circle_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_Circle_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_828 _wrap_Circle_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Circle_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_834 _wrap_Circle_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Circle_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_Circle_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_Circle_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -5790,8 +5808,8 @@ extern void _wrap_Circle_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, 
 extern uintptr_t _wrap_Circle_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Circle_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Circle_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Circle_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Circle_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Circle_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Circle_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Circle_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -5800,18 +5818,18 @@ extern uintptr_t _wrap_Circle_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_
 extern uintptr_t _wrap_Circle_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Circle_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Circle_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Circle_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Circle_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Circle_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Circle_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Circle_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Circle_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Circle_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Circle_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Circle_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Circle_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Circle_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_829 _wrap_Circle_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Circle_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_835 _wrap_Circle_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Circle_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Circle_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Circle_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Circle_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -5822,15 +5840,15 @@ extern swig_intgo _wrap_Circle_GetStructParent_pdftron_e64018f00020cc89(uintptr_
 extern void _wrap_Circle_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Circle_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Circle_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_830 _wrap_Circle_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Circle_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_836 _wrap_Circle_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Circle_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Circle_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Circle_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_831 _wrap_Circle_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Circle_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Circle_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_837 _wrap_Circle_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Circle_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Circle_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Circle_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Circle_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Circle_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -5845,15 +5863,15 @@ extern void _wrap_delete_HighlightAnnot_pdftron_e64018f00020cc89(uintptr_t arg1)
 extern swig_intgo _wrap_HighlightAnnot_GetQuadPointCount_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_HighlightAnnot_GetQuadPoint_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_HighlightAnnot_SetQuadPoint_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, uintptr_t arg2);
-extern swig_type_832 _wrap_HighlightAnnot_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_HighlightAnnot_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_HighlightAnnot_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_838 _wrap_HighlightAnnot_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_HighlightAnnot_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_HighlightAnnot_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_HighlightAnnot_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_HighlightAnnot_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_833 _wrap_HighlightAnnot_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_HighlightAnnot_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_839 _wrap_HighlightAnnot_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_HighlightAnnot_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_HighlightAnnot_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_HighlightAnnot_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -5882,8 +5900,8 @@ extern void _wrap_HighlightAnnot_SetRect_pdftron_e64018f00020cc89(uintptr_t _swi
 extern uintptr_t _wrap_HighlightAnnot_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_HighlightAnnot_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_HighlightAnnot_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_HighlightAnnot_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_HighlightAnnot_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_HighlightAnnot_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_HighlightAnnot_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_HighlightAnnot_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -5892,18 +5910,18 @@ extern uintptr_t _wrap_HighlightAnnot_GetTriggerAction_pdftron_e64018f00020cc89(
 extern uintptr_t _wrap_HighlightAnnot_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_HighlightAnnot_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_HighlightAnnot_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_HighlightAnnot_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_HighlightAnnot_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_HighlightAnnot_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_HighlightAnnot_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_HighlightAnnot_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_HighlightAnnot_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_HighlightAnnot_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_HighlightAnnot_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_HighlightAnnot_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_HighlightAnnot_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_HighlightAnnot_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_834 _wrap_HighlightAnnot_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_HighlightAnnot_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_840 _wrap_HighlightAnnot_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_HighlightAnnot_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_HighlightAnnot_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_HighlightAnnot_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_HighlightAnnot_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -5914,15 +5932,15 @@ extern swig_intgo _wrap_HighlightAnnot_GetStructParent_pdftron_e64018f00020cc89(
 extern void _wrap_HighlightAnnot_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_HighlightAnnot_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_HighlightAnnot_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_835 _wrap_HighlightAnnot_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_HighlightAnnot_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_841 _wrap_HighlightAnnot_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_HighlightAnnot_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_HighlightAnnot_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_HighlightAnnot_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_836 _wrap_HighlightAnnot_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_HighlightAnnot_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_HighlightAnnot_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_842 _wrap_HighlightAnnot_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_HighlightAnnot_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_HighlightAnnot_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_HighlightAnnot_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_HighlightAnnot_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_HighlightAnnot_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -5975,15 +5993,15 @@ extern double _wrap_LineAnnot_GetTextVOffset_pdftron_e64018f00020cc89(uintptr_t 
 extern void _wrap_LineAnnot_SetTextVOffset_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
 extern uintptr_t _wrap_new_LineAnnot__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_LineAnnot_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_837 _wrap_LineAnnot_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_LineAnnot_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_LineAnnot_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_843 _wrap_LineAnnot_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_LineAnnot_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_LineAnnot_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_LineAnnot_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_LineAnnot_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_838 _wrap_LineAnnot_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_LineAnnot_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_844 _wrap_LineAnnot_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_LineAnnot_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_LineAnnot_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_LineAnnot_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6012,8 +6030,8 @@ extern void _wrap_LineAnnot_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_bas
 extern uintptr_t _wrap_LineAnnot_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_LineAnnot_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_LineAnnot_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_LineAnnot_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_LineAnnot_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_LineAnnot_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_LineAnnot_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_LineAnnot_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6022,18 +6040,18 @@ extern uintptr_t _wrap_LineAnnot_GetTriggerAction_pdftron_e64018f00020cc89(uintp
 extern uintptr_t _wrap_LineAnnot_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_LineAnnot_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_LineAnnot_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_LineAnnot_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_LineAnnot_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_LineAnnot_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_LineAnnot_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_LineAnnot_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_LineAnnot_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_LineAnnot_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_LineAnnot_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_LineAnnot_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_LineAnnot_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_LineAnnot_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_839 _wrap_LineAnnot_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_LineAnnot_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_845 _wrap_LineAnnot_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_LineAnnot_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_LineAnnot_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_LineAnnot_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_LineAnnot_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6044,15 +6062,15 @@ extern swig_intgo _wrap_LineAnnot_GetStructParent_pdftron_e64018f00020cc89(uintp
 extern void _wrap_LineAnnot_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_LineAnnot_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_LineAnnot_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_840 _wrap_LineAnnot_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_LineAnnot_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_846 _wrap_LineAnnot_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_LineAnnot_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_LineAnnot_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_LineAnnot_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_841 _wrap_LineAnnot_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_LineAnnot_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_LineAnnot_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_847 _wrap_LineAnnot_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_LineAnnot_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_LineAnnot_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_LineAnnot_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_LineAnnot_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_LineAnnot_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6063,8 +6081,8 @@ extern uintptr_t _wrap_new_FreeText__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_FreeText__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_FreeText_Create_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_FreeText_CreateAnnot_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_842 _wrap_FreeText_GetDefaultAppearance_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_FreeText_SetDefaultAppearance_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_843 arg2);
+extern swig_type_848 _wrap_FreeText_GetDefaultAppearance_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_FreeText_SetDefaultAppearance_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_849 arg2);
 extern swig_intgo _wrap_FreeText_GetQuaddingFormat_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_FreeText_SetQuaddingFormat_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_FreeText_GetCalloutLinePoint1_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -6081,27 +6099,27 @@ extern void _wrap_FreeText_SetIntentName__SWIG_0_pdftron_e64018f00020cc89(uintpt
 extern void _wrap_FreeText_SetIntentName__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_FreeText_GetEndingStyle_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_FreeText_SetEndingStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_FreeText_SetEndingStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_844 arg2);
+extern void _wrap_FreeText_SetEndingStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_850 arg2);
 extern void _wrap_FreeText_SetTextColor_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
 extern uintptr_t _wrap_FreeText_GetTextColor_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_FreeText_GetTextColorCompNum_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_FreeText_SetLineColor_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
 extern uintptr_t _wrap_FreeText_GetLineColor_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_FreeText_GetLineColorCompNum_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_FreeText_SetFontName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_845 arg2);
+extern void _wrap_FreeText_SetFontName_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_851 arg2);
 extern void _wrap_FreeText_SetFontSize_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
 extern double _wrap_FreeText_GetFontSize_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_FreeText__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_FreeText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_846 _wrap_FreeText_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FreeText_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_FreeText_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_852 _wrap_FreeText_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_FreeText_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_FreeText_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_FreeText_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_FreeText_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_847 _wrap_FreeText_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FreeText_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_853 _wrap_FreeText_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_FreeText_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_FreeText_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_FreeText_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6130,8 +6148,8 @@ extern void _wrap_FreeText_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base
 extern uintptr_t _wrap_FreeText_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_FreeText_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FreeText_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_FreeText_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_FreeText_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_FreeText_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_FreeText_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_FreeText_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6140,18 +6158,18 @@ extern uintptr_t _wrap_FreeText_GetTriggerAction_pdftron_e64018f00020cc89(uintpt
 extern uintptr_t _wrap_FreeText_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_FreeText_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_FreeText_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_FreeText_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_FreeText_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_FreeText_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FreeText_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_FreeText_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_FreeText_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_FreeText_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_FreeText_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_FreeText_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_FreeText_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_FreeText_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_848 _wrap_FreeText_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_FreeText_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_854 _wrap_FreeText_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_FreeText_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_FreeText_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_FreeText_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_FreeText_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6162,15 +6180,15 @@ extern swig_intgo _wrap_FreeText_GetStructParent_pdftron_e64018f00020cc89(uintpt
 extern void _wrap_FreeText_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_FreeText_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_FreeText_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_849 _wrap_FreeText_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_FreeText_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_855 _wrap_FreeText_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_FreeText_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_FreeText_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_FreeText_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_850 _wrap_FreeText_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_FreeText_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_FreeText_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_856 _wrap_FreeText_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_FreeText_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_FreeText_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_FreeText_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_FreeText_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_FreeText_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6195,7 +6213,7 @@ extern void _wrap_Link_SetHighlightingMode_pdftron_e64018f00020cc89(uintptr_t ar
 extern swig_intgo _wrap_Link_GetQuadPointCount_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Link_GetQuadPoint_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Link_SetQuadPoint_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern swig_type_851 _wrap_Link_GetNormalizedUrl_pdftron_e64018f00020cc89(swig_type_852 arg1);
+extern swig_type_857 _wrap_Link_GetNormalizedUrl_pdftron_e64018f00020cc89(swig_type_858 arg1);
 extern uintptr_t _wrap_new_Link__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_Link_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_Link_IsEqual_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
@@ -6209,8 +6227,8 @@ extern void _wrap_Link_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, ui
 extern uintptr_t _wrap_Link_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Link_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Link_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Link_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Link_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Link_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Link_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Link_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Link_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Link_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6219,18 +6237,18 @@ extern uintptr_t _wrap_Link_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_t 
 extern uintptr_t _wrap_Link_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Link_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Link_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Link_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Link_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Link_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Link_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Link_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Link_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Link_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Link_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Link_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Link_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Link_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Link_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Link_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_853 _wrap_Link_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Link_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_859 _wrap_Link_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Link_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Link_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Link_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Link_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6241,15 +6259,15 @@ extern swig_intgo _wrap_Link_GetStructParent_pdftron_e64018f00020cc89(uintptr_t 
 extern void _wrap_Link_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Link_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Link_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Link_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_854 _wrap_Link_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Link_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_860 _wrap_Link_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Link_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Link_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Link_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Link_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_855 _wrap_Link_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Link_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Link_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_861 _wrap_Link_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Link_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Link_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Link_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Link_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Link_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6260,8 +6278,8 @@ extern uintptr_t _wrap_new_Movie__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_Movie__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Movie_Create_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Movie_CreateAnnot_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_856 _wrap_Movie_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Movie_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_857 arg2);
+extern swig_type_862 _wrap_Movie_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Movie_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_863 arg2);
 extern _Bool _wrap_Movie_IsToBePlayed_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Movie_SetToBePlayed__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_Movie_SetToBePlayed__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -6278,8 +6296,8 @@ extern void _wrap_Movie_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, u
 extern uintptr_t _wrap_Movie_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Movie_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Movie_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Movie_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Movie_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Movie_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Movie_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Movie_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Movie_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Movie_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6288,18 +6306,18 @@ extern uintptr_t _wrap_Movie_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_t
 extern uintptr_t _wrap_Movie_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Movie_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Movie_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Movie_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Movie_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Movie_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Movie_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Movie_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Movie_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Movie_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Movie_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Movie_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Movie_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Movie_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Movie_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Movie_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_858 _wrap_Movie_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Movie_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_864 _wrap_Movie_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Movie_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Movie_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Movie_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Movie_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6310,15 +6328,15 @@ extern swig_intgo _wrap_Movie_GetStructParent_pdftron_e64018f00020cc89(uintptr_t
 extern void _wrap_Movie_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Movie_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Movie_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Movie_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_859 _wrap_Movie_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Movie_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_865 _wrap_Movie_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Movie_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Movie_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Movie_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Movie_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_860 _wrap_Movie_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Movie_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Movie_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_866 _wrap_Movie_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Movie_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Movie_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Movie_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Movie_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Movie_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6364,15 +6382,15 @@ extern double _wrap_PolyLine_GetTextHOffset_pdftron_e64018f00020cc89(uintptr_t _
 extern void _wrap_PolyLine_SetTextHOffset_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
 extern double _wrap_PolyLine_GetTextVOffset_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_SetTextVOffset_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_861 _wrap_PolyLine_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PolyLine_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_PolyLine_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_867 _wrap_PolyLine_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_PolyLine_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_PolyLine_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_PolyLine_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_PolyLine_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_862 _wrap_PolyLine_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PolyLine_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_868 _wrap_PolyLine_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_PolyLine_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_PolyLine_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_PolyLine_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6401,8 +6419,8 @@ extern void _wrap_PolyLine_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base
 extern uintptr_t _wrap_PolyLine_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_PolyLine_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PolyLine_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_PolyLine_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_PolyLine_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_PolyLine_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_PolyLine_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_PolyLine_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6411,18 +6429,18 @@ extern uintptr_t _wrap_PolyLine_GetTriggerAction_pdftron_e64018f00020cc89(uintpt
 extern uintptr_t _wrap_PolyLine_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_PolyLine_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_PolyLine_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_PolyLine_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_PolyLine_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_PolyLine_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PolyLine_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_PolyLine_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_PolyLine_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PolyLine_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_PolyLine_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_PolyLine_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_PolyLine_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_PolyLine_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_863 _wrap_PolyLine_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PolyLine_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_869 _wrap_PolyLine_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_PolyLine_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_PolyLine_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_PolyLine_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_PolyLine_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6433,15 +6451,15 @@ extern swig_intgo _wrap_PolyLine_GetStructParent_pdftron_e64018f00020cc89(uintpt
 extern void _wrap_PolyLine_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_PolyLine_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_PolyLine_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_864 _wrap_PolyLine_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_PolyLine_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_870 _wrap_PolyLine_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_PolyLine_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_PolyLine_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PolyLine_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_865 _wrap_PolyLine_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_PolyLine_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_PolyLine_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_871 _wrap_PolyLine_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_PolyLine_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_PolyLine_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_PolyLine_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_PolyLine_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PolyLine_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6483,15 +6501,15 @@ extern double _wrap_Polygon_GetTextHOffset_pdftron_e64018f00020cc89(uintptr_t _s
 extern void _wrap_Polygon_SetTextHOffset_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
 extern double _wrap_Polygon_GetTextVOffset_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_SetTextVOffset_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_866 _wrap_Polygon_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Polygon_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_Polygon_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_872 _wrap_Polygon_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Polygon_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_Polygon_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_Polygon_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_Polygon_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_867 _wrap_Polygon_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Polygon_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_873 _wrap_Polygon_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Polygon_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_Polygon_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_Polygon_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6520,8 +6538,8 @@ extern void _wrap_Polygon_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base,
 extern uintptr_t _wrap_Polygon_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Polygon_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Polygon_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Polygon_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Polygon_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Polygon_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Polygon_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Polygon_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6530,18 +6548,18 @@ extern uintptr_t _wrap_Polygon_GetTriggerAction_pdftron_e64018f00020cc89(uintptr
 extern uintptr_t _wrap_Polygon_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Polygon_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Polygon_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Polygon_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Polygon_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Polygon_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Polygon_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Polygon_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Polygon_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Polygon_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Polygon_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Polygon_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Polygon_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Polygon_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_868 _wrap_Polygon_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Polygon_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_874 _wrap_Polygon_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Polygon_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Polygon_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Polygon_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Polygon_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6552,15 +6570,15 @@ extern swig_intgo _wrap_Polygon_GetStructParent_pdftron_e64018f00020cc89(uintptr
 extern void _wrap_Polygon_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Polygon_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Polygon_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_869 _wrap_Polygon_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Polygon_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_875 _wrap_Polygon_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Polygon_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Polygon_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Polygon_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_870 _wrap_Polygon_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Polygon_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Polygon_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_876 _wrap_Polygon_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Polygon_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Polygon_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Polygon_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Polygon_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Polygon_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6576,13 +6594,13 @@ extern uintptr_t _wrap_RedactionAnnot_GetQuadPoint_pdftron_e64018f00020cc89(uint
 extern void _wrap_RedactionAnnot_SetQuadPoint_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
 extern uintptr_t _wrap_RedactionAnnot_GetAppFormXO_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_RedactionAnnot_SetAppFormXO_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_871 _wrap_RedactionAnnot_GetOverlayText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_RedactionAnnot_SetOverlayText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_872 arg2);
+extern swig_type_877 _wrap_RedactionAnnot_GetOverlayText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_RedactionAnnot_SetOverlayText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_878 arg2);
 extern _Bool _wrap_RedactionAnnot_GetUseRepeat_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_RedactionAnnot_SetUseRepeat__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_RedactionAnnot_SetUseRepeat__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_873 _wrap_RedactionAnnot_GetOverlayTextAppearance_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_RedactionAnnot_SetOverlayTextAppearance_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_874 arg2);
+extern swig_type_879 _wrap_RedactionAnnot_GetOverlayTextAppearance_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_RedactionAnnot_SetOverlayTextAppearance_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_880 arg2);
 extern swig_intgo _wrap_e_LeftJustified_RedactionAnnot_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Centered_RedactionAnnot_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_RightJustified_RedactionAnnot_pdftron_e64018f00020cc89(void);
@@ -6592,15 +6610,15 @@ extern void _wrap_RedactionAnnot_SetQuadForm__SWIG_0_pdftron_e64018f00020cc89(ui
 extern void _wrap_RedactionAnnot_SetQuadForm__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_RedactionAnnot__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_RedactionAnnot_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_875 _wrap_RedactionAnnot_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RedactionAnnot_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_RedactionAnnot_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_881 _wrap_RedactionAnnot_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RedactionAnnot_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_RedactionAnnot_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_RedactionAnnot_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_RedactionAnnot_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_876 _wrap_RedactionAnnot_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RedactionAnnot_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_882 _wrap_RedactionAnnot_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RedactionAnnot_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_RedactionAnnot_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_RedactionAnnot_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6629,8 +6647,8 @@ extern void _wrap_RedactionAnnot_SetRect_pdftron_e64018f00020cc89(uintptr_t _swi
 extern uintptr_t _wrap_RedactionAnnot_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_RedactionAnnot_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RedactionAnnot_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_RedactionAnnot_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_RedactionAnnot_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_RedactionAnnot_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_RedactionAnnot_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_RedactionAnnot_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6639,18 +6657,18 @@ extern uintptr_t _wrap_RedactionAnnot_GetTriggerAction_pdftron_e64018f00020cc89(
 extern uintptr_t _wrap_RedactionAnnot_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_RedactionAnnot_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_RedactionAnnot_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_RedactionAnnot_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_RedactionAnnot_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_RedactionAnnot_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RedactionAnnot_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_RedactionAnnot_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_RedactionAnnot_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_RedactionAnnot_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_RedactionAnnot_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_RedactionAnnot_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_RedactionAnnot_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_RedactionAnnot_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_877 _wrap_RedactionAnnot_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RedactionAnnot_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_883 _wrap_RedactionAnnot_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RedactionAnnot_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_RedactionAnnot_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_RedactionAnnot_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_RedactionAnnot_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6661,15 +6679,15 @@ extern swig_intgo _wrap_RedactionAnnot_GetStructParent_pdftron_e64018f00020cc89(
 extern void _wrap_RedactionAnnot_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_RedactionAnnot_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_RedactionAnnot_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_878 _wrap_RedactionAnnot_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RedactionAnnot_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_884 _wrap_RedactionAnnot_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_RedactionAnnot_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_RedactionAnnot_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RedactionAnnot_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_879 _wrap_RedactionAnnot_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_RedactionAnnot_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_RedactionAnnot_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_885 _wrap_RedactionAnnot_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_RedactionAnnot_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_RedactionAnnot_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_RedactionAnnot_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_RedactionAnnot_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_RedactionAnnot_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6702,19 +6720,19 @@ extern uintptr_t _wrap_RubberStamp_CreateAnnot__SWIG_2_pdftron_e64018f00020cc89(
 extern swig_intgo _wrap_RubberStamp_GetIcon_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_RubberStamp_SetIcon__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_RubberStamp_SetIcon__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_880 _wrap_RubberStamp_GetIconName_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_RubberStamp_SetIcon__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_881 arg2);
+extern swig_type_886 _wrap_RubberStamp_GetIconName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_RubberStamp_SetIcon__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_887 arg2);
 extern void _wrap_RubberStamp_SetOpacity_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
 extern uintptr_t _wrap_new_RubberStamp__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_RubberStamp_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_882 _wrap_RubberStamp_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RubberStamp_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_RubberStamp_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_888 _wrap_RubberStamp_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RubberStamp_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_RubberStamp_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_RubberStamp_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RubberStamp_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_RubberStamp_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_883 _wrap_RubberStamp_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RubberStamp_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_889 _wrap_RubberStamp_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RubberStamp_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_RubberStamp_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RubberStamp_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_RubberStamp_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6743,8 +6761,8 @@ extern void _wrap_RubberStamp_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_b
 extern uintptr_t _wrap_RubberStamp_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RubberStamp_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_RubberStamp_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RubberStamp_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_RubberStamp_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_RubberStamp_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_RubberStamp_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_RubberStamp_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RubberStamp_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_RubberStamp_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6753,18 +6771,18 @@ extern uintptr_t _wrap_RubberStamp_GetTriggerAction_pdftron_e64018f00020cc89(uin
 extern uintptr_t _wrap_RubberStamp_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RubberStamp_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_RubberStamp_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_RubberStamp_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_RubberStamp_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_RubberStamp_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_RubberStamp_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RubberStamp_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_RubberStamp_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_RubberStamp_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_RubberStamp_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_RubberStamp_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_RubberStamp_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_RubberStamp_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_RubberStamp_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RubberStamp_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_884 _wrap_RubberStamp_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RubberStamp_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_890 _wrap_RubberStamp_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RubberStamp_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_RubberStamp_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_RubberStamp_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_RubberStamp_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6775,15 +6793,15 @@ extern swig_intgo _wrap_RubberStamp_GetStructParent_pdftron_e64018f00020cc89(uin
 extern void _wrap_RubberStamp_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_RubberStamp_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RubberStamp_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_RubberStamp_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_885 _wrap_RubberStamp_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RubberStamp_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_891 _wrap_RubberStamp_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_RubberStamp_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RubberStamp_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_RubberStamp_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RubberStamp_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_886 _wrap_RubberStamp_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_RubberStamp_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_RubberStamp_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_892 _wrap_RubberStamp_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_RubberStamp_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_RubberStamp_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_RubberStamp_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_RubberStamp_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_RubberStamp_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6794,8 +6812,8 @@ extern uintptr_t _wrap_new_Screen__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_Screen__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Screen_Create_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Screen_CreateAnnot_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_887 _wrap_Screen_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Screen_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_888 arg2);
+extern swig_type_893 _wrap_Screen_GetTitle_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Screen_SetTitle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_894 arg2);
 extern uintptr_t _wrap_Screen_GetAction_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Screen_SetAction_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern swig_intgo _wrap_Screen_GetBorderColorCompNum_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -6804,12 +6822,12 @@ extern void _wrap_Screen_SetBorderColor_pdftron_e64018f00020cc89(uintptr_t arg1,
 extern swig_intgo _wrap_Screen_GetBackgroundColorCompNum_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Screen_GetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Screen_SetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
-extern swig_type_889 _wrap_Screen_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Screen_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_890 arg2);
-extern swig_type_891 _wrap_Screen_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Screen_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_892 arg2);
-extern swig_type_893 _wrap_Screen_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Screen_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_894 arg2);
+extern swig_type_895 _wrap_Screen_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Screen_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_896 arg2);
+extern swig_type_897 _wrap_Screen_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Screen_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_898 arg2);
+extern swig_type_899 _wrap_Screen_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Screen_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_900 arg2);
 extern uintptr_t _wrap_Screen_GetStaticIcon_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Screen_SetStaticIcon_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Screen_GetRolloverIcon_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -6854,8 +6872,8 @@ extern void _wrap_Screen_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, 
 extern uintptr_t _wrap_Screen_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Screen_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Screen_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Screen_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Screen_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Screen_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Screen_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Screen_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Screen_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Screen_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6864,18 +6882,18 @@ extern uintptr_t _wrap_Screen_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_
 extern uintptr_t _wrap_Screen_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Screen_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Screen_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Screen_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Screen_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Screen_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Screen_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Screen_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Screen_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Screen_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Screen_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Screen_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Screen_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Screen_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Screen_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Screen_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_895 _wrap_Screen_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Screen_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_901 _wrap_Screen_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Screen_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Screen_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Screen_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Screen_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6886,15 +6904,15 @@ extern swig_intgo _wrap_Screen_GetStructParent_pdftron_e64018f00020cc89(uintptr_
 extern void _wrap_Screen_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Screen_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Screen_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Screen_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_896 _wrap_Screen_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Screen_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_902 _wrap_Screen_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Screen_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Screen_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Screen_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Screen_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_897 _wrap_Screen_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Screen_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Screen_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_903 _wrap_Screen_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Screen_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Screen_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Screen_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Screen_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Screen_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6921,19 +6939,19 @@ extern void _wrap_Sound_SetSoundStream_pdftron_e64018f00020cc89(uintptr_t arg1, 
 extern swig_intgo _wrap_Sound_GetIcon_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Sound_SetIcon__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Sound_SetIcon__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_898 _wrap_Sound_GetIconName_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Sound_SetIcon__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_899 arg2);
+extern swig_type_904 _wrap_Sound_GetIconName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Sound_SetIcon__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_905 arg2);
 extern uintptr_t _wrap_new_Sound__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_Sound_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_900 _wrap_Sound_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Sound_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_Sound_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_906 _wrap_Sound_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Sound_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_Sound_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_Sound_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_Sound_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_901 _wrap_Sound_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Sound_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_907 _wrap_Sound_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Sound_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_Sound_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_Sound_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6962,8 +6980,8 @@ extern void _wrap_Sound_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, u
 extern uintptr_t _wrap_Sound_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Sound_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Sound_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Sound_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Sound_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Sound_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Sound_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Sound_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -6972,18 +6990,18 @@ extern uintptr_t _wrap_Sound_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_t
 extern uintptr_t _wrap_Sound_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Sound_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Sound_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Sound_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Sound_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Sound_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Sound_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Sound_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Sound_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Sound_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Sound_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Sound_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Sound_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Sound_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_902 _wrap_Sound_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Sound_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_908 _wrap_Sound_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Sound_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Sound_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Sound_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Sound_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -6994,15 +7012,15 @@ extern swig_intgo _wrap_Sound_GetStructParent_pdftron_e64018f00020cc89(uintptr_t
 extern void _wrap_Sound_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Sound_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Sound_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_903 _wrap_Sound_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Sound_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_909 _wrap_Sound_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Sound_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Sound_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Sound_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_904 _wrap_Sound_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Sound_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Sound_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_910 _wrap_Sound_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Sound_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Sound_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Sound_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Sound_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Sound_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7015,15 +7033,15 @@ extern uintptr_t _wrap_Square_Create_pdftron_e64018f00020cc89(uintptr_t arg1, ui
 extern uintptr_t _wrap_Square_CreateAnnot_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_Square__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_Square_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_905 _wrap_Square_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Square_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_Square_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_911 _wrap_Square_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Square_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_Square_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_Square_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_Square_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_906 _wrap_Square_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Square_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_912 _wrap_Square_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Square_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_Square_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_Square_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7052,8 +7070,8 @@ extern void _wrap_Square_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, 
 extern uintptr_t _wrap_Square_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Square_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Square_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Square_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Square_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Square_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Square_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Square_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7062,18 +7080,18 @@ extern uintptr_t _wrap_Square_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_
 extern uintptr_t _wrap_Square_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Square_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Square_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Square_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Square_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Square_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Square_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Square_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Square_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Square_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Square_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Square_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Square_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Square_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_907 _wrap_Square_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Square_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_913 _wrap_Square_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Square_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Square_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Square_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Square_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7084,15 +7102,15 @@ extern swig_intgo _wrap_Square_GetStructParent_pdftron_e64018f00020cc89(uintptr_
 extern void _wrap_Square_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Square_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Square_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_908 _wrap_Square_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Square_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_914 _wrap_Square_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Square_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Square_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Square_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_909 _wrap_Square_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Square_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Square_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_915 _wrap_Square_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Square_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Square_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Square_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Square_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Square_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7107,15 +7125,15 @@ extern void _wrap_delete_Squiggly_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_Squiggly_GetQuadPointCount_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Squiggly_GetQuadPoint_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Squiggly_SetQuadPoint_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, uintptr_t arg2);
-extern swig_type_910 _wrap_Squiggly_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Squiggly_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_Squiggly_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_916 _wrap_Squiggly_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Squiggly_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_Squiggly_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_Squiggly_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_Squiggly_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_911 _wrap_Squiggly_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Squiggly_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_917 _wrap_Squiggly_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Squiggly_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_Squiggly_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_Squiggly_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7144,8 +7162,8 @@ extern void _wrap_Squiggly_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base
 extern uintptr_t _wrap_Squiggly_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Squiggly_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Squiggly_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Squiggly_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Squiggly_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Squiggly_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Squiggly_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Squiggly_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7154,18 +7172,18 @@ extern uintptr_t _wrap_Squiggly_GetTriggerAction_pdftron_e64018f00020cc89(uintpt
 extern uintptr_t _wrap_Squiggly_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Squiggly_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Squiggly_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Squiggly_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Squiggly_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Squiggly_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Squiggly_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Squiggly_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Squiggly_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Squiggly_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Squiggly_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Squiggly_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Squiggly_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Squiggly_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_912 _wrap_Squiggly_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Squiggly_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_918 _wrap_Squiggly_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Squiggly_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Squiggly_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Squiggly_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Squiggly_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7176,15 +7194,15 @@ extern swig_intgo _wrap_Squiggly_GetStructParent_pdftron_e64018f00020cc89(uintpt
 extern void _wrap_Squiggly_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Squiggly_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Squiggly_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_913 _wrap_Squiggly_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Squiggly_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_919 _wrap_Squiggly_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Squiggly_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Squiggly_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Squiggly_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_914 _wrap_Squiggly_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Squiggly_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Squiggly_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_920 _wrap_Squiggly_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Squiggly_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Squiggly_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Squiggly_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Squiggly_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Squiggly_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7199,15 +7217,15 @@ extern void _wrap_delete_StrikeOut_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_StrikeOut_GetQuadPointCount_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_StrikeOut_GetQuadPoint_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_StrikeOut_SetQuadPoint_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, uintptr_t arg2);
-extern swig_type_915 _wrap_StrikeOut_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_StrikeOut_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_StrikeOut_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_921 _wrap_StrikeOut_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_StrikeOut_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_StrikeOut_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_StrikeOut_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_StrikeOut_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_916 _wrap_StrikeOut_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_StrikeOut_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_922 _wrap_StrikeOut_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_StrikeOut_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_StrikeOut_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_StrikeOut_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7236,8 +7254,8 @@ extern void _wrap_StrikeOut_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_bas
 extern uintptr_t _wrap_StrikeOut_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_StrikeOut_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_StrikeOut_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_StrikeOut_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_StrikeOut_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_StrikeOut_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_StrikeOut_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_StrikeOut_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7246,18 +7264,18 @@ extern uintptr_t _wrap_StrikeOut_GetTriggerAction_pdftron_e64018f00020cc89(uintp
 extern uintptr_t _wrap_StrikeOut_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_StrikeOut_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_StrikeOut_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_StrikeOut_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_StrikeOut_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_StrikeOut_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_StrikeOut_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_StrikeOut_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_StrikeOut_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_StrikeOut_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_StrikeOut_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_StrikeOut_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_StrikeOut_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_StrikeOut_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_917 _wrap_StrikeOut_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_StrikeOut_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_923 _wrap_StrikeOut_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_StrikeOut_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_StrikeOut_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_StrikeOut_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_StrikeOut_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7268,15 +7286,15 @@ extern swig_intgo _wrap_StrikeOut_GetStructParent_pdftron_e64018f00020cc89(uintp
 extern void _wrap_StrikeOut_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_StrikeOut_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_StrikeOut_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_918 _wrap_StrikeOut_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_StrikeOut_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_924 _wrap_StrikeOut_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_StrikeOut_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_StrikeOut_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_StrikeOut_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_919 _wrap_StrikeOut_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_StrikeOut_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_StrikeOut_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_925 _wrap_StrikeOut_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_StrikeOut_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_StrikeOut_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_StrikeOut_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_StrikeOut_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_StrikeOut_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7285,13 +7303,13 @@ extern uintptr_t _wrap_GetStrikeOut_Mp_annot_pdftron_e64018f00020cc89(uintptr_t 
 extern uintptr_t _wrap_new_Text__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Text__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_Text__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_Text_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_920 arg3);
+extern uintptr_t _wrap_Text_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_926 arg3);
 extern uintptr_t _wrap_Text_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Text_CreateAnnot__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_921 arg3);
+extern uintptr_t _wrap_Text_CreateAnnot__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_927 arg3);
 extern uintptr_t _wrap_Text_CreateAnnot__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Text_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_922 arg3);
+extern uintptr_t _wrap_Text_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_928 arg3);
 extern uintptr_t _wrap_Text_Create__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_Text_CreateAnnot__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_923 arg3);
+extern uintptr_t _wrap_Text_CreateAnnot__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_929 arg3);
 extern uintptr_t _wrap_Text_CreateAnnot__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern _Bool _wrap_Text_IsOpen_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Text_SetOpen_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
@@ -7304,28 +7322,28 @@ extern swig_intgo _wrap_e_Insert_Text_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Note_Text_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Unknown_Text_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_Text_GetIcon_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_924 _wrap_Text_GetIconName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_930 _wrap_Text_GetIconName_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Text_SetIcon__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Text_SetIcon__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Text_SetIcon__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_925 arg2);
-extern swig_type_926 _wrap_Text_GetState_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Text_SetState__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_927 arg2);
+extern void _wrap_Text_SetIcon__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_931 arg2);
+extern swig_type_932 _wrap_Text_GetState_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Text_SetState__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_933 arg2);
 extern void _wrap_Text_SetState__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_928 _wrap_Text_GetStateModel_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Text_SetStateModel_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_929 arg2);
+extern swig_type_934 _wrap_Text_GetStateModel_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Text_SetStateModel_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_935 arg2);
 extern uintptr_t _wrap_Text_GetAnchorPosition_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Text_SetAnchorPosition_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_Text__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_Text_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_930 _wrap_Text_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Text_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_Text_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_936 _wrap_Text_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Text_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_Text_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_Text_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_Text_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_931 _wrap_Text_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Text_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_937 _wrap_Text_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Text_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_Text_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_Text_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7354,8 +7372,8 @@ extern void _wrap_Text_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, ui
 extern uintptr_t _wrap_Text_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Text_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Text_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Text_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Text_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Text_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Text_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Text_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7364,18 +7382,18 @@ extern uintptr_t _wrap_Text_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_t 
 extern uintptr_t _wrap_Text_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Text_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Text_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Text_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Text_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Text_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Text_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Text_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Text_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Text_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Text_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Text_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Text_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Text_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_932 _wrap_Text_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Text_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_938 _wrap_Text_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Text_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Text_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Text_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Text_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7386,15 +7404,15 @@ extern swig_intgo _wrap_Text_GetStructParent_pdftron_e64018f00020cc89(uintptr_t 
 extern void _wrap_Text_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Text_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Text_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_933 _wrap_Text_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Text_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_939 _wrap_Text_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Text_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Text_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Text_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_934 _wrap_Text_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Text_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Text_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_940 _wrap_Text_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Text_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Text_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Text_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Text_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Text_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7409,15 +7427,15 @@ extern void _wrap_delete_Underline_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_Underline_GetQuadPointCount_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Underline_GetQuadPoint_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Underline_SetQuadPoint_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, uintptr_t arg2);
-extern swig_type_935 _wrap_Underline_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Underline_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_416 arg1);
-extern void _wrap_Underline_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_417 arg1);
+extern swig_type_941 _wrap_Underline_GetTitle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Underline_SetTitle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_420 arg1);
+extern void _wrap_Underline_SetTitle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_421 arg1);
 extern uintptr_t _wrap_Underline_GetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_SetPopup_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern double _wrap_Underline_GetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_SetOpacity_pdftron_e64018f00020cc89(uintptr_t _swig_base, double arg1);
-extern swig_type_936 _wrap_Underline_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Underline_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_419 arg1);
+extern swig_type_942 _wrap_Underline_GetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Underline_SetSubject_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_423 arg1);
 extern uintptr_t _wrap_Underline_GetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_SetCreationDates_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern swig_intgo _wrap_Underline_GetBorderEffect_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7446,8 +7464,8 @@ extern void _wrap_Underline_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_bas
 extern uintptr_t _wrap_Underline_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Underline_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Underline_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Underline_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Underline_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Underline_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Underline_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Underline_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7456,18 +7474,18 @@ extern uintptr_t _wrap_Underline_GetTriggerAction_pdftron_e64018f00020cc89(uintp
 extern uintptr_t _wrap_Underline_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Underline_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Underline_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Underline_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Underline_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Underline_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Underline_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Underline_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Underline_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Underline_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Underline_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Underline_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Underline_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Underline_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_937 _wrap_Underline_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Underline_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_943 _wrap_Underline_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Underline_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Underline_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Underline_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Underline_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7478,15 +7496,15 @@ extern swig_intgo _wrap_Underline_GetStructParent_pdftron_e64018f00020cc89(uintp
 extern void _wrap_Underline_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Underline_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Underline_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_938 _wrap_Underline_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Underline_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_944 _wrap_Underline_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Underline_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Underline_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Underline_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_939 _wrap_Underline_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Underline_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Underline_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_945 _wrap_Underline_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Underline_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Underline_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Underline_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Underline_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Underline_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7510,8 +7528,8 @@ extern void _wrap_Watermark_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_bas
 extern uintptr_t _wrap_Watermark_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Watermark_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Watermark_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Watermark_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Watermark_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Watermark_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Watermark_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Watermark_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Watermark_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Watermark_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7520,18 +7538,18 @@ extern uintptr_t _wrap_Watermark_GetTriggerAction_pdftron_e64018f00020cc89(uintp
 extern uintptr_t _wrap_Watermark_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Watermark_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Watermark_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Watermark_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Watermark_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Watermark_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Watermark_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Watermark_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Watermark_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Watermark_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Watermark_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Watermark_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Watermark_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Watermark_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Watermark_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Watermark_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_940 _wrap_Watermark_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Watermark_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_946 _wrap_Watermark_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Watermark_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Watermark_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Watermark_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Watermark_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7542,15 +7560,15 @@ extern swig_intgo _wrap_Watermark_GetStructParent_pdftron_e64018f00020cc89(uintp
 extern void _wrap_Watermark_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Watermark_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Watermark_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Watermark_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_941 _wrap_Watermark_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Watermark_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_947 _wrap_Watermark_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Watermark_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Watermark_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Watermark_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Watermark_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_942 _wrap_Watermark_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Watermark_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Watermark_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_948 _wrap_Watermark_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Watermark_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Watermark_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Watermark_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Watermark_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Watermark_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7577,12 +7595,12 @@ extern void _wrap_Widget_SetBorderColor_pdftron_e64018f00020cc89(uintptr_t arg1,
 extern swig_intgo _wrap_Widget_GetBackgroundColorCompNum_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Widget_GetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Widget_SetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
-extern swig_type_943 _wrap_Widget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Widget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_944 arg2);
-extern swig_type_945 _wrap_Widget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Widget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_946 arg2);
-extern swig_type_947 _wrap_Widget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Widget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_948 arg2);
+extern swig_type_949 _wrap_Widget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Widget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_950 arg2);
+extern swig_type_951 _wrap_Widget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Widget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_952 arg2);
+extern swig_type_953 _wrap_Widget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Widget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_954 arg2);
 extern uintptr_t _wrap_Widget_GetStaticIcon_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Widget_SetStaticIcon_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Widget_GetRolloverIcon_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -7634,8 +7652,8 @@ extern void _wrap_Widget_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_base, 
 extern uintptr_t _wrap_Widget_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Widget_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Widget_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Widget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_Widget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_Widget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_Widget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_Widget_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Widget_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_Widget_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7644,18 +7662,18 @@ extern uintptr_t _wrap_Widget_GetTriggerAction_pdftron_e64018f00020cc89(uintptr_
 extern uintptr_t _wrap_Widget_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Widget_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_Widget_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_Widget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_Widget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_Widget_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Widget_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Widget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_Widget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_Widget_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_Widget_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Widget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_Widget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_Widget_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Widget_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Widget_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_949 _wrap_Widget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_Widget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_955 _wrap_Widget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Widget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_Widget_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Widget_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Widget_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7666,15 +7684,15 @@ extern swig_intgo _wrap_Widget_GetStructParent_pdftron_e64018f00020cc89(uintptr_
 extern void _wrap_Widget_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_Widget_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Widget_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_Widget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_950 _wrap_Widget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_Widget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_956 _wrap_Widget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_Widget_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Widget_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_Widget_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Widget_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_951 _wrap_Widget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_Widget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_Widget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_957 _wrap_Widget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_Widget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_Widget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_Widget_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_Widget_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Widget_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7685,7 +7703,7 @@ extern uintptr_t _wrap_new_SignatureWidget__SWIG_1_pdftron_e64018f00020cc89(void
 extern uintptr_t _wrap_new_SignatureWidget__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SignatureWidget_GetDigitalSignatureField_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_SignatureWidget_CreateSignatureAppearance_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_SignatureWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_952 arg3);
+extern uintptr_t _wrap_SignatureWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_958 arg3);
 extern uintptr_t _wrap_SignatureWidget_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_SignatureWidget_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern uintptr_t _wrap_SignatureWidget_Create__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
@@ -7702,12 +7720,12 @@ extern void _wrap_SignatureWidget_SetBorderColor_pdftron_e64018f00020cc89(uintpt
 extern swig_intgo _wrap_SignatureWidget_GetBackgroundColorCompNum_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_SignatureWidget_GetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SignatureWidget_SetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
-extern swig_type_953 _wrap_SignatureWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_SignatureWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_954 arg1);
-extern swig_type_955 _wrap_SignatureWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_SignatureWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_956 arg1);
-extern swig_type_957 _wrap_SignatureWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_SignatureWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_958 arg1);
+extern swig_type_959 _wrap_SignatureWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_SignatureWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_960 arg1);
+extern swig_type_961 _wrap_SignatureWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_SignatureWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_962 arg1);
+extern swig_type_963 _wrap_SignatureWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_SignatureWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_964 arg1);
 extern uintptr_t _wrap_SignatureWidget_GetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SignatureWidget_SetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_SignatureWidget_GetRolloverIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7744,8 +7762,8 @@ extern void _wrap_SignatureWidget_SetRect_pdftron_e64018f00020cc89(uintptr_t _sw
 extern uintptr_t _wrap_SignatureWidget_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SignatureWidget_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_SignatureWidget_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_SignatureWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_SignatureWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_SignatureWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_SignatureWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_SignatureWidget_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SignatureWidget_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_SignatureWidget_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7754,18 +7772,18 @@ extern uintptr_t _wrap_SignatureWidget_GetTriggerAction_pdftron_e64018f00020cc89
 extern uintptr_t _wrap_SignatureWidget_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SignatureWidget_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_SignatureWidget_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_SignatureWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_SignatureWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_SignatureWidget_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_SignatureWidget_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_SignatureWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_SignatureWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_SignatureWidget_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_SignatureWidget_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_SignatureWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_SignatureWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_SignatureWidget_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_SignatureWidget_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SignatureWidget_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_959 _wrap_SignatureWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_SignatureWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_965 _wrap_SignatureWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_SignatureWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_SignatureWidget_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_SignatureWidget_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_SignatureWidget_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7776,15 +7794,15 @@ extern swig_intgo _wrap_SignatureWidget_GetStructParent_pdftron_e64018f00020cc89
 extern void _wrap_SignatureWidget_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_SignatureWidget_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SignatureWidget_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_SignatureWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_960 _wrap_SignatureWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_SignatureWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_966 _wrap_SignatureWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_SignatureWidget_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SignatureWidget_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_SignatureWidget_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SignatureWidget_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_961 _wrap_SignatureWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_SignatureWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_SignatureWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_967 _wrap_SignatureWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_SignatureWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_SignatureWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_SignatureWidget_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_SignatureWidget_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SignatureWidget_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7793,7 +7811,7 @@ extern uintptr_t _wrap_GetSignatureWidget_Mp_annot_pdftron_e64018f00020cc89(uint
 extern uintptr_t _wrap_new_CheckBoxWidget__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_CheckBoxWidget__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_CheckBoxWidget__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_CheckBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_962 arg3);
+extern uintptr_t _wrap_CheckBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_968 arg3);
 extern uintptr_t _wrap_CheckBoxWidget_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_CheckBoxWidget_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern _Bool _wrap_CheckBoxWidget_IsChecked_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -7811,12 +7829,12 @@ extern void _wrap_CheckBoxWidget_SetBorderColor_pdftron_e64018f00020cc89(uintptr
 extern swig_intgo _wrap_CheckBoxWidget_GetBackgroundColorCompNum_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_CheckBoxWidget_GetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_CheckBoxWidget_SetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
-extern swig_type_963 _wrap_CheckBoxWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_CheckBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_954 arg1);
-extern swig_type_964 _wrap_CheckBoxWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_CheckBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_956 arg1);
-extern swig_type_965 _wrap_CheckBoxWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_CheckBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_958 arg1);
+extern swig_type_969 _wrap_CheckBoxWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_CheckBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_960 arg1);
+extern swig_type_970 _wrap_CheckBoxWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_CheckBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_962 arg1);
+extern swig_type_971 _wrap_CheckBoxWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_CheckBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_964 arg1);
 extern uintptr_t _wrap_CheckBoxWidget_GetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_CheckBoxWidget_SetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_CheckBoxWidget_GetRolloverIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7853,8 +7871,8 @@ extern void _wrap_CheckBoxWidget_SetRect_pdftron_e64018f00020cc89(uintptr_t _swi
 extern uintptr_t _wrap_CheckBoxWidget_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_CheckBoxWidget_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_CheckBoxWidget_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_CheckBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_CheckBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_CheckBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_CheckBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_CheckBoxWidget_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_CheckBoxWidget_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_CheckBoxWidget_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7863,18 +7881,18 @@ extern uintptr_t _wrap_CheckBoxWidget_GetTriggerAction_pdftron_e64018f00020cc89(
 extern uintptr_t _wrap_CheckBoxWidget_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_CheckBoxWidget_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_CheckBoxWidget_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_CheckBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_CheckBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_CheckBoxWidget_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_CheckBoxWidget_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_CheckBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_CheckBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_CheckBoxWidget_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_CheckBoxWidget_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_CheckBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_CheckBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_CheckBoxWidget_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_CheckBoxWidget_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_CheckBoxWidget_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_966 _wrap_CheckBoxWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_CheckBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_972 _wrap_CheckBoxWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_CheckBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_CheckBoxWidget_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_CheckBoxWidget_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_CheckBoxWidget_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7885,15 +7903,15 @@ extern swig_intgo _wrap_CheckBoxWidget_GetStructParent_pdftron_e64018f00020cc89(
 extern void _wrap_CheckBoxWidget_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_CheckBoxWidget_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_CheckBoxWidget_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_CheckBoxWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_967 _wrap_CheckBoxWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_CheckBoxWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_973 _wrap_CheckBoxWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_CheckBoxWidget_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_CheckBoxWidget_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_CheckBoxWidget_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_CheckBoxWidget_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_968 _wrap_CheckBoxWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_CheckBoxWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_CheckBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_974 _wrap_CheckBoxWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_CheckBoxWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_CheckBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_CheckBoxWidget_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_CheckBoxWidget_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_CheckBoxWidget_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7902,7 +7920,7 @@ extern uintptr_t _wrap_GetCheckBoxWidget_Mp_annot_pdftron_e64018f00020cc89(uintp
 extern uintptr_t _wrap_new_PushButtonWidget__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_PushButtonWidget__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_PushButtonWidget__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_PushButtonWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_969 arg3);
+extern uintptr_t _wrap_PushButtonWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_975 arg3);
 extern uintptr_t _wrap_PushButtonWidget_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_PushButtonWidget_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern void _wrap_delete_PushButtonWidget_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -7918,12 +7936,12 @@ extern void _wrap_PushButtonWidget_SetBorderColor_pdftron_e64018f00020cc89(uintp
 extern swig_intgo _wrap_PushButtonWidget_GetBackgroundColorCompNum_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_PushButtonWidget_GetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PushButtonWidget_SetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
-extern swig_type_970 _wrap_PushButtonWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PushButtonWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_954 arg1);
-extern swig_type_971 _wrap_PushButtonWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PushButtonWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_956 arg1);
-extern swig_type_972 _wrap_PushButtonWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PushButtonWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_958 arg1);
+extern swig_type_976 _wrap_PushButtonWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_PushButtonWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_960 arg1);
+extern swig_type_977 _wrap_PushButtonWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_PushButtonWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_962 arg1);
+extern swig_type_978 _wrap_PushButtonWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_PushButtonWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_964 arg1);
 extern uintptr_t _wrap_PushButtonWidget_GetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PushButtonWidget_SetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_PushButtonWidget_GetRolloverIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7960,8 +7978,8 @@ extern void _wrap_PushButtonWidget_SetRect_pdftron_e64018f00020cc89(uintptr_t _s
 extern uintptr_t _wrap_PushButtonWidget_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PushButtonWidget_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_PushButtonWidget_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PushButtonWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_PushButtonWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_PushButtonWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_PushButtonWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_PushButtonWidget_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PushButtonWidget_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_PushButtonWidget_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -7970,18 +7988,18 @@ extern uintptr_t _wrap_PushButtonWidget_GetTriggerAction_pdftron_e64018f00020cc8
 extern uintptr_t _wrap_PushButtonWidget_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PushButtonWidget_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_PushButtonWidget_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_PushButtonWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_PushButtonWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_PushButtonWidget_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_PushButtonWidget_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PushButtonWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_PushButtonWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_PushButtonWidget_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PushButtonWidget_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_PushButtonWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_PushButtonWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_PushButtonWidget_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_PushButtonWidget_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PushButtonWidget_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_973 _wrap_PushButtonWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_PushButtonWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_979 _wrap_PushButtonWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_PushButtonWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_PushButtonWidget_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_PushButtonWidget_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_PushButtonWidget_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -7992,15 +8010,15 @@ extern swig_intgo _wrap_PushButtonWidget_GetStructParent_pdftron_e64018f00020cc8
 extern void _wrap_PushButtonWidget_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_PushButtonWidget_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PushButtonWidget_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_PushButtonWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_974 _wrap_PushButtonWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_PushButtonWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_980 _wrap_PushButtonWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_PushButtonWidget_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PushButtonWidget_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_PushButtonWidget_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_PushButtonWidget_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_975 _wrap_PushButtonWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_PushButtonWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_PushButtonWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_981 _wrap_PushButtonWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_PushButtonWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_PushButtonWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_PushButtonWidget_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_PushButtonWidget_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_PushButtonWidget_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8009,11 +8027,11 @@ extern uintptr_t _wrap_GetPushButtonWidget_Mp_annot_pdftron_e64018f00020cc89(uin
 extern uintptr_t _wrap_new_TextWidget__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_TextWidget__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_TextWidget__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_TextWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_976 arg3);
+extern uintptr_t _wrap_TextWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_982 arg3);
 extern uintptr_t _wrap_TextWidget_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_TextWidget_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
-extern void _wrap_TextWidget_SetText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_977 arg2);
-extern swig_type_978 _wrap_TextWidget_GetText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_TextWidget_SetText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_983 arg2);
+extern swig_type_984 _wrap_TextWidget_GetText_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_TextWidget_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TextWidget_GetField_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_TextWidget_GetHighlightingMode_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8027,12 +8045,12 @@ extern void _wrap_TextWidget_SetBorderColor_pdftron_e64018f00020cc89(uintptr_t _
 extern swig_intgo _wrap_TextWidget_GetBackgroundColorCompNum_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_TextWidget_GetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextWidget_SetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
-extern swig_type_979 _wrap_TextWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_954 arg1);
-extern swig_type_980 _wrap_TextWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_956 arg1);
-extern swig_type_981 _wrap_TextWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_958 arg1);
+extern swig_type_985 _wrap_TextWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_TextWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_960 arg1);
+extern swig_type_986 _wrap_TextWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_TextWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_962 arg1);
+extern swig_type_987 _wrap_TextWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_TextWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_964 arg1);
 extern uintptr_t _wrap_TextWidget_GetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextWidget_SetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_TextWidget_GetRolloverIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8069,8 +8087,8 @@ extern void _wrap_TextWidget_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig_ba
 extern uintptr_t _wrap_TextWidget_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextWidget_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_TextWidget_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_TextWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_TextWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_TextWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_TextWidget_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextWidget_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_TextWidget_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -8079,18 +8097,18 @@ extern uintptr_t _wrap_TextWidget_GetTriggerAction_pdftron_e64018f00020cc89(uint
 extern uintptr_t _wrap_TextWidget_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextWidget_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_TextWidget_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_TextWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_TextWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_TextWidget_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_TextWidget_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_TextWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_TextWidget_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_TextWidget_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_TextWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_TextWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_TextWidget_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_TextWidget_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextWidget_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_982 _wrap_TextWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_TextWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_988 _wrap_TextWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_TextWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_TextWidget_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_TextWidget_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_TextWidget_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8101,15 +8119,15 @@ extern swig_intgo _wrap_TextWidget_GetStructParent_pdftron_e64018f00020cc89(uint
 extern void _wrap_TextWidget_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_TextWidget_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextWidget_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_TextWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_983 _wrap_TextWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_TextWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_989 _wrap_TextWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_TextWidget_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextWidget_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_TextWidget_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_TextWidget_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_984 _wrap_TextWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_TextWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_TextWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_990 _wrap_TextWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_TextWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_TextWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_TextWidget_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_TextWidget_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TextWidget_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8118,16 +8136,16 @@ extern uintptr_t _wrap_GetTextWidget_Mp_annot_pdftron_e64018f00020cc89(uintptr_t
 extern uintptr_t _wrap_new_ComboBoxWidget__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_ComboBoxWidget__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_ComboBoxWidget__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_ComboBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_985 arg3);
+extern uintptr_t _wrap_ComboBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_991 arg3);
 extern uintptr_t _wrap_ComboBoxWidget_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_ComboBoxWidget_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
-extern void _wrap_ComboBoxWidget_AddOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_986 arg2);
+extern void _wrap_ComboBoxWidget_AddOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_992 arg2);
 extern void _wrap_ComboBoxWidget_AddOptions_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_ComboBoxWidget_GetOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_ComboBoxWidget_ReplaceOptions_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_ComboBoxWidget_SetSelectedOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_987 arg2);
-extern swig_type_988 _wrap_ComboBoxWidget_GetSelectedOption_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_ComboBoxWidget_RemoveOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_989 arg2);
+extern void _wrap_ComboBoxWidget_SetSelectedOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_993 arg2);
+extern swig_type_994 _wrap_ComboBoxWidget_GetSelectedOption_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_ComboBoxWidget_RemoveOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_995 arg2);
 extern void _wrap_delete_ComboBoxWidget_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_ComboBoxWidget_GetField_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_ComboBoxWidget_GetHighlightingMode_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8141,12 +8159,12 @@ extern void _wrap_ComboBoxWidget_SetBorderColor_pdftron_e64018f00020cc89(uintptr
 extern swig_intgo _wrap_ComboBoxWidget_GetBackgroundColorCompNum_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_ComboBoxWidget_GetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ComboBoxWidget_SetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
-extern swig_type_990 _wrap_ComboBoxWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ComboBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_954 arg1);
-extern swig_type_991 _wrap_ComboBoxWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ComboBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_956 arg1);
-extern swig_type_992 _wrap_ComboBoxWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ComboBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_958 arg1);
+extern swig_type_996 _wrap_ComboBoxWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ComboBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_960 arg1);
+extern swig_type_997 _wrap_ComboBoxWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ComboBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_962 arg1);
+extern swig_type_998 _wrap_ComboBoxWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ComboBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_964 arg1);
 extern uintptr_t _wrap_ComboBoxWidget_GetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ComboBoxWidget_SetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_ComboBoxWidget_GetRolloverIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8183,8 +8201,8 @@ extern void _wrap_ComboBoxWidget_SetRect_pdftron_e64018f00020cc89(uintptr_t _swi
 extern uintptr_t _wrap_ComboBoxWidget_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ComboBoxWidget_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_ComboBoxWidget_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ComboBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_ComboBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_ComboBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_ComboBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_ComboBoxWidget_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ComboBoxWidget_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_ComboBoxWidget_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -8193,18 +8211,18 @@ extern uintptr_t _wrap_ComboBoxWidget_GetTriggerAction_pdftron_e64018f00020cc89(
 extern uintptr_t _wrap_ComboBoxWidget_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ComboBoxWidget_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_ComboBoxWidget_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_ComboBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_ComboBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_ComboBoxWidget_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_ComboBoxWidget_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ComboBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_ComboBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_ComboBoxWidget_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_ComboBoxWidget_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_ComboBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_ComboBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_ComboBoxWidget_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_ComboBoxWidget_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ComboBoxWidget_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_993 _wrap_ComboBoxWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ComboBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_999 _wrap_ComboBoxWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ComboBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_ComboBoxWidget_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_ComboBoxWidget_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_ComboBoxWidget_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8215,15 +8233,15 @@ extern swig_intgo _wrap_ComboBoxWidget_GetStructParent_pdftron_e64018f00020cc89(
 extern void _wrap_ComboBoxWidget_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_ComboBoxWidget_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ComboBoxWidget_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_ComboBoxWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_994 _wrap_ComboBoxWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ComboBoxWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_1000 _wrap_ComboBoxWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_ComboBoxWidget_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ComboBoxWidget_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_ComboBoxWidget_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ComboBoxWidget_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_995 _wrap_ComboBoxWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_ComboBoxWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_ComboBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_1001 _wrap_ComboBoxWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_ComboBoxWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_ComboBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_ComboBoxWidget_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_ComboBoxWidget_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_ComboBoxWidget_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8232,16 +8250,16 @@ extern uintptr_t _wrap_GetComboBoxWidget_Mp_annot_pdftron_e64018f00020cc89(uintp
 extern uintptr_t _wrap_new_ListBoxWidget__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_ListBoxWidget__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_ListBoxWidget__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_ListBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_996 arg3);
+extern uintptr_t _wrap_ListBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1002 arg3);
 extern uintptr_t _wrap_ListBoxWidget_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_ListBoxWidget_Create__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
-extern void _wrap_ListBoxWidget_AddOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_997 arg2);
+extern void _wrap_ListBoxWidget_AddOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1003 arg2);
 extern void _wrap_ListBoxWidget_AddOptions_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_ListBoxWidget_SetSelectedOptions_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_ListBoxWidget_GetSelectedOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetOptions_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_ListBoxWidget_ReplaceOptions_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_ListBoxWidget_RemoveOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_998 arg2);
+extern void _wrap_ListBoxWidget_RemoveOption_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1004 arg2);
 extern void _wrap_delete_ListBoxWidget_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetField_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_ListBoxWidget_GetHighlightingMode_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8255,12 +8273,12 @@ extern void _wrap_ListBoxWidget_SetBorderColor_pdftron_e64018f00020cc89(uintptr_
 extern swig_intgo _wrap_ListBoxWidget_GetBackgroundColorCompNum_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_ListBoxWidget_GetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ListBoxWidget_SetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
-extern swig_type_999 _wrap_ListBoxWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ListBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_954 arg1);
-extern swig_type_1000 _wrap_ListBoxWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ListBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_956 arg1);
-extern swig_type_1001 _wrap_ListBoxWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ListBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_958 arg1);
+extern swig_type_1005 _wrap_ListBoxWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ListBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_960 arg1);
+extern swig_type_1006 _wrap_ListBoxWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ListBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_962 arg1);
+extern swig_type_1007 _wrap_ListBoxWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ListBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_964 arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ListBoxWidget_SetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetRolloverIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8297,8 +8315,8 @@ extern void _wrap_ListBoxWidget_SetRect_pdftron_e64018f00020cc89(uintptr_t _swig
 extern uintptr_t _wrap_ListBoxWidget_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ListBoxWidget_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ListBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_ListBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_ListBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_ListBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ListBoxWidget_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_ListBoxWidget_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -8307,18 +8325,18 @@ extern uintptr_t _wrap_ListBoxWidget_GetTriggerAction_pdftron_e64018f00020cc89(u
 extern uintptr_t _wrap_ListBoxWidget_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ListBoxWidget_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_ListBoxWidget_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_ListBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_ListBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_ListBoxWidget_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ListBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_ListBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_ListBoxWidget_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_ListBoxWidget_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_ListBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_ListBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_ListBoxWidget_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_ListBoxWidget_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ListBoxWidget_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_1002 _wrap_ListBoxWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_ListBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_1008 _wrap_ListBoxWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ListBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_ListBoxWidget_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_ListBoxWidget_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8329,15 +8347,15 @@ extern swig_intgo _wrap_ListBoxWidget_GetStructParent_pdftron_e64018f00020cc89(u
 extern void _wrap_ListBoxWidget_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ListBoxWidget_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_ListBoxWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_1003 _wrap_ListBoxWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_ListBoxWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_1009 _wrap_ListBoxWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_ListBoxWidget_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ListBoxWidget_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_ListBoxWidget_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_ListBoxWidget_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_1004 _wrap_ListBoxWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_ListBoxWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_ListBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_1010 _wrap_ListBoxWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_ListBoxWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_ListBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_ListBoxWidget_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_ListBoxWidget_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_ListBoxWidget_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8363,12 +8381,12 @@ extern void _wrap_RadioButtonWidget_SetBorderColor_pdftron_e64018f00020cc89(uint
 extern swig_intgo _wrap_RadioButtonWidget_GetBackgroundColorCompNum_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_RadioButtonWidget_GetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RadioButtonWidget_SetBackgroundColor_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
-extern swig_type_1005 _wrap_RadioButtonWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RadioButtonWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_954 arg1);
-extern swig_type_1006 _wrap_RadioButtonWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RadioButtonWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_956 arg1);
-extern swig_type_1007 _wrap_RadioButtonWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RadioButtonWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_958 arg1);
+extern swig_type_1011 _wrap_RadioButtonWidget_GetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RadioButtonWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_960 arg1);
+extern swig_type_1012 _wrap_RadioButtonWidget_GetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RadioButtonWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_962 arg1);
+extern swig_type_1013 _wrap_RadioButtonWidget_GetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RadioButtonWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_964 arg1);
 extern uintptr_t _wrap_RadioButtonWidget_GetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RadioButtonWidget_SetStaticIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_RadioButtonWidget_GetRolloverIcon_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8405,8 +8423,8 @@ extern void _wrap_RadioButtonWidget_SetRect_pdftron_e64018f00020cc89(uintptr_t _
 extern uintptr_t _wrap_RadioButtonWidget_GetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RadioButtonWidget_SetPage_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_RadioButtonWidget_GetUniqueID_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RadioButtonWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_384 arg1, swig_intgo arg2);
-extern void _wrap_RadioButtonWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_385 arg1);
+extern void _wrap_RadioButtonWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_388 arg1, swig_intgo arg2);
+extern void _wrap_RadioButtonWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_389 arg1);
 extern uintptr_t _wrap_RadioButtonWidget_GetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RadioButtonWidget_SetDate_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern _Bool _wrap_RadioButtonWidget_GetFlag_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
@@ -8415,18 +8433,18 @@ extern uintptr_t _wrap_RadioButtonWidget_GetTriggerAction_pdftron_e64018f00020cc
 extern uintptr_t _wrap_RadioButtonWidget_GetBorderStyle_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RadioButtonWidget_SetBorderStyle__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, _Bool arg2);
 extern void _wrap_RadioButtonWidget_SetBorderStyle__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern uintptr_t _wrap_RadioButtonWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_386 arg2);
+extern uintptr_t _wrap_RadioButtonWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_390 arg2);
 extern uintptr_t _wrap_RadioButtonWidget_GetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_RadioButtonWidget_GetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RadioButtonWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_387 arg3);
+extern void _wrap_RadioButtonWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2, swig_type_391 arg3);
 extern void _wrap_RadioButtonWidget_SetAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_RadioButtonWidget_SetAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_RadioButtonWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_388 arg2);
+extern void _wrap_RadioButtonWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1, swig_type_392 arg2);
 extern void _wrap_RadioButtonWidget_RemoveAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_RadioButtonWidget_RemoveAppearance__SWIG_2_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RadioButtonWidget_Flatten_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_1008 _wrap_RadioButtonWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern void _wrap_RadioButtonWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_390 arg1);
+extern swig_type_1014 _wrap_RadioButtonWidget_GetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RadioButtonWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
 extern uintptr_t _wrap_RadioButtonWidget_GetColorAsRGB_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_RadioButtonWidget_GetColorAsCMYK_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_RadioButtonWidget_GetColorAsGray_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8437,24 +8455,24 @@ extern swig_intgo _wrap_RadioButtonWidget_GetStructParent_pdftron_e64018f00020cc
 extern void _wrap_RadioButtonWidget_SetStructParent_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern uintptr_t _wrap_RadioButtonWidget_GetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RadioButtonWidget_SetOptionalContent_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern void _wrap_RadioButtonWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_391 arg1);
-extern swig_type_1009 _wrap_RadioButtonWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern void _wrap_RadioButtonWidget_SetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1);
+extern swig_type_1015 _wrap_RadioButtonWidget_GetContents_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern swig_intgo _wrap_RadioButtonWidget_GetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RadioButtonWidget_SetRotation_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_intgo arg1);
 extern void _wrap_RadioButtonWidget_RefreshAppearance__SWIG_0_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_RadioButtonWidget_RefreshAppearance__SWIG_1_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
-extern swig_type_1010 _wrap_RadioButtonWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_394 arg1);
-extern void _wrap_RadioButtonWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_395 arg1, swig_type_396 arg2);
-extern void _wrap_RadioButtonWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_397 arg1);
+extern swig_type_1016 _wrap_RadioButtonWidget_GetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_398 arg1);
+extern void _wrap_RadioButtonWidget_SetCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_399 arg1, swig_type_400 arg2);
+extern void _wrap_RadioButtonWidget_DeleteCustomData_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_401 arg1);
 extern void _wrap_RadioButtonWidget_Resize_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_RadioButtonWidget_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_RadioButtonWidget_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_SetRadioButtonWidget_Mp_annot_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
 extern uintptr_t _wrap_GetRadioButtonWidget_Mp_annot_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_new_RadioButtonGroup__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_RadioButtonGroup_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1011 arg2);
+extern uintptr_t _wrap_RadioButtonGroup_Create__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1017 arg2);
 extern uintptr_t _wrap_RadioButtonGroup_Create__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_RadioButtonGroup_Add__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1012 arg3);
+extern uintptr_t _wrap_RadioButtonGroup_Add__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1018 arg3);
 extern uintptr_t _wrap_RadioButtonGroup_Add__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern swig_intgo _wrap_RadioButtonGroup_GetNumButtons_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_RadioButtonGroup_GetButton_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
@@ -8512,7 +8530,7 @@ extern _Bool _wrap_Element_IsImageMask_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_Element_IsImageInterpolate_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Element_GetMask_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_Element_GetImageRenderingIntent_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1013 _wrap_Element_GetTextString_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1019 _wrap_Element_GetTextString_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Element_GetTextData_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_Element_GetTextDataSize_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Element_GetTextMatrix_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -8550,8 +8568,8 @@ extern uintptr_t _wrap_ElementBuilder_CreateForm__SWIG_2_pdftron_e64018f00020cc8
 extern uintptr_t _wrap_ElementBuilder_CreateTextBegin__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, double arg3);
 extern uintptr_t _wrap_ElementBuilder_CreateTextBegin__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_ElementBuilder_CreateTextEnd_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_ElementBuilder_CreateTextRun__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1014 arg2, uintptr_t arg3, double arg4);
-extern uintptr_t _wrap_ElementBuilder_CreateTextRun__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1015 arg2);
+extern uintptr_t _wrap_ElementBuilder_CreateTextRun__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1020 arg2, uintptr_t arg3, double arg4);
+extern uintptr_t _wrap_ElementBuilder_CreateTextRun__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1021 arg2);
 extern uintptr_t _wrap_ElementBuilder_CreateUnicodeTextRun_pdftron_e64018f00020cc89(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3);
 extern uintptr_t _wrap_ElementBuilder_CreateShapedTextRun_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_ElementBuilder_CreateTextNewLine__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2, double arg3);
@@ -8569,11 +8587,11 @@ extern void _wrap_ElementBuilder_ArcTo__SWIG_1_pdftron_e64018f00020cc89(uintptr_
 extern void _wrap_ElementBuilder_Ellipse_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2, double arg3, double arg4, double arg5);
 extern void _wrap_ElementBuilder_Rect_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2, double arg3, double arg4, double arg5);
 extern void _wrap_ElementBuilder_ClosePath_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_ElementBuilder_CreateMarkedContentBeginInlineProperties_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1016 arg2);
-extern uintptr_t _wrap_ElementBuilder_CreateMarkedContentBegin_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1017 arg2, uintptr_t arg3);
+extern uintptr_t _wrap_ElementBuilder_CreateMarkedContentBeginInlineProperties_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1022 arg2);
+extern uintptr_t _wrap_ElementBuilder_CreateMarkedContentBegin_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1023 arg2, uintptr_t arg3);
 extern uintptr_t _wrap_ElementBuilder_CreateMarkedContentEnd_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_ElementBuilder_CreateMarkedContentPointInlineProperties_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1018 arg2);
-extern uintptr_t _wrap_ElementBuilder_CreateMarkedContentPoint_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1019 arg2, uintptr_t arg3);
+extern uintptr_t _wrap_ElementBuilder_CreateMarkedContentPointInlineProperties_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1024 arg2);
+extern uintptr_t _wrap_ElementBuilder_CreateMarkedContentPoint_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1025 arg2, uintptr_t arg3);
 extern void _wrap_ElementBuilder_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_ElementBuilder_mp_builder_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_ElementBuilder_mp_builder_get_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -8596,12 +8614,12 @@ extern uintptr_t _wrap_ElementReader_GetChangesIterator_pdftron_e64018f00020cc89
 extern _Bool _wrap_ElementReader_IsChanged_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_ElementReader_ClearChangeList_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_ElementReader_AppendResource_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_ElementReader_GetFont_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1020 arg2);
-extern uintptr_t _wrap_ElementReader_GetXObject_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1021 arg2);
-extern uintptr_t _wrap_ElementReader_GetShading_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1022 arg2);
-extern uintptr_t _wrap_ElementReader_GetColorSpace_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1023 arg2);
-extern uintptr_t _wrap_ElementReader_GetPattern_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1024 arg2);
-extern uintptr_t _wrap_ElementReader_GetExtGState_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1025 arg2);
+extern uintptr_t _wrap_ElementReader_GetFont_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1026 arg2);
+extern uintptr_t _wrap_ElementReader_GetXObject_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1027 arg2);
+extern uintptr_t _wrap_ElementReader_GetShading_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1028 arg2);
+extern uintptr_t _wrap_ElementReader_GetColorSpace_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1029 arg2);
+extern uintptr_t _wrap_ElementReader_GetPattern_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1030 arg2);
+extern uintptr_t _wrap_ElementReader_GetExtGState_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1031 arg2);
 extern void _wrap_ElementReader_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_ElementReader__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_ElementReader_mp_reader_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
@@ -8626,7 +8644,7 @@ extern void _wrap_ElementWriter_WriteElement_pdftron_e64018f00020cc89(uintptr_t 
 extern void _wrap_ElementWriter_WritePlacedElement_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_ElementWriter_Flush_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_ElementWriter_WriteBuffer_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_ElementWriter_WriteString_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1026 arg2);
+extern void _wrap_ElementWriter_WriteString_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1032 arg2);
 extern void _wrap_ElementWriter_WriteGStateChanges_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_ElementWriter_SetDefaultGState_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_ElementWriter_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -8641,12 +8659,12 @@ extern void _wrap_Image2RGB_AttachFilter_pdftron_e64018f00020cc89(uintptr_t _swi
 extern uintptr_t _wrap_Image2RGB_ReleaseAttachedFilter_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Image2RGB_GetAttachedFilter_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Image2RGB_GetSourceFilter_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1027 _wrap_Image2RGB_GetName_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1028 _wrap_Image2RGB_GetDecodeName_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1029 _wrap_Image2RGB_Size_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1033 _wrap_Image2RGB_GetName_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1034 _wrap_Image2RGB_GetDecodeName_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1035 _wrap_Image2RGB_Size_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGB_Consume_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_144 arg1);
-extern swig_type_1030 _wrap_Image2RGB_Count_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1031 _wrap_Image2RGB_SetCount_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_147 arg1);
+extern swig_type_1036 _wrap_Image2RGB_Count_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1037 _wrap_Image2RGB_SetCount_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_147 arg1);
 extern void _wrap_Image2RGB_SetStreamLength_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_148 arg1);
 extern void _wrap_Image2RGB_Flush_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGB_FlushAll_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8654,9 +8672,9 @@ extern _Bool _wrap_Image2RGB_IsInputFilter_pdftron_e64018f00020cc89(uintptr_t _s
 extern _Bool _wrap_Image2RGB_CanSeek_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGB_Seek_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_Image2RGB_Tell_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1032 _wrap_Image2RGB_Truncate_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_150 arg1);
+extern swig_type_1038 _wrap_Image2RGB_Truncate_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_150 arg1);
 extern uintptr_t _wrap_Image2RGB_CreateInputIterator_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1033 _wrap_Image2RGB_GetFilePath_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1039 _wrap_Image2RGB_GetFilePath_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGB_Destroy_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGB_WriteToFile_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_152 arg1, _Bool arg2);
 extern void _wrap_SetImage2RGB_M_impl_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
@@ -8674,12 +8692,12 @@ extern void _wrap_Image2RGBA_AttachFilter_pdftron_e64018f00020cc89(uintptr_t _sw
 extern uintptr_t _wrap_Image2RGBA_ReleaseAttachedFilter_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Image2RGBA_GetAttachedFilter_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern uintptr_t _wrap_Image2RGBA_GetSourceFilter_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1034 _wrap_Image2RGBA_GetName_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1035 _wrap_Image2RGBA_GetDecodeName_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1036 _wrap_Image2RGBA_Size_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1040 _wrap_Image2RGBA_GetName_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1041 _wrap_Image2RGBA_GetDecodeName_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1042 _wrap_Image2RGBA_Size_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGBA_Consume_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_144 arg1);
-extern swig_type_1037 _wrap_Image2RGBA_Count_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1038 _wrap_Image2RGBA_SetCount_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_147 arg1);
+extern swig_type_1043 _wrap_Image2RGBA_Count_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1044 _wrap_Image2RGBA_SetCount_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_147 arg1);
 extern void _wrap_Image2RGBA_SetStreamLength_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_148 arg1);
 extern void _wrap_Image2RGBA_Flush_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGBA_FlushAll_pdftron_e64018f00020cc89(uintptr_t _swig_base);
@@ -8687,9 +8705,9 @@ extern _Bool _wrap_Image2RGBA_IsInputFilter_pdftron_e64018f00020cc89(uintptr_t _
 extern _Bool _wrap_Image2RGBA_CanSeek_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGBA_Seek_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_Image2RGBA_Tell_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1039 _wrap_Image2RGBA_Truncate_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_150 arg1);
+extern swig_type_1045 _wrap_Image2RGBA_Truncate_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_150 arg1);
 extern uintptr_t _wrap_Image2RGBA_CreateInputIterator_pdftron_e64018f00020cc89(uintptr_t _swig_base);
-extern swig_type_1040 _wrap_Image2RGBA_GetFilePath_pdftron_e64018f00020cc89(uintptr_t _swig_base);
+extern swig_type_1046 _wrap_Image2RGBA_GetFilePath_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGBA_Destroy_pdftron_e64018f00020cc89(uintptr_t _swig_base);
 extern void _wrap_Image2RGBA_WriteToFile_pdftron_e64018f00020cc89(uintptr_t _swig_base, swig_type_152 arg1, _Bool arg2);
 extern void _wrap_SetImage2RGBA_M_impl_pdftron_e64018f00020cc89(uintptr_t _swig_base, uintptr_t arg1);
@@ -8709,9 +8727,9 @@ extern void _wrap_delete_Highlight_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Highlights__SWIG_0_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_Highlights_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Highlights__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_Highlights_Load_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1041 arg2);
-extern void _wrap_Highlights_Save_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1042 arg2);
-extern swig_type_1043 _wrap_Highlights_SaveToString_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_Highlights_Load_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1047 arg2);
+extern void _wrap_Highlights_Save_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1048 arg2);
+extern swig_type_1049 _wrap_Highlights_SaveToString_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Highlights_Add_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_Highlights_Clear_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Highlights_Begin_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
@@ -8731,9 +8749,9 @@ extern void _wrap_delete_TextRange_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_TextRange__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_TextRange_GetPageNumber_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TextRange_GetQuads_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1044 _wrap_TextRange_GetText_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1045 _wrap_TextRange_GetTextBefore_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern swig_type_1046 _wrap_TextRange_GetTextAfter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_1050 _wrap_TextRange_GetText_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1051 _wrap_TextRange_GetTextBefore_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_1052 _wrap_TextRange_GetTextAfter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_TextRange_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TextRange_CreateInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TextRange_GetHandleInternal_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -8743,26 +8761,26 @@ extern uintptr_t _wrap_new_TextRange__SWIG_2_pdftron_e64018f00020cc89(uintptr_t 
 extern uintptr_t _wrap_new_OCROptions_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_OCROptions_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_OCROptions_AddIgnoreZonesForPage_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
-extern uintptr_t _wrap_OCROptions_AddLang_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1047 arg2);
+extern uintptr_t _wrap_OCROptions_AddLang_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1053 arg2);
 extern uintptr_t _wrap_OCROptions_AddTextZonesForPage_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
 extern uintptr_t _wrap_OCROptions_AddDPI_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_OCROptions_SetUsePDFPageCoords_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern uintptr_t _wrap_OCROptions_SetIgnoreExistingText_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_OCROptions_GetAutoRotate_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_OCROptions_SetAutoRotate_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern swig_type_1048 _wrap_OCROptions_GetOCREngine_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_OCROptions_SetOCREngine_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1049 arg2);
+extern swig_type_1054 _wrap_OCROptions_GetOCREngine_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern uintptr_t _wrap_OCROptions_SetOCREngine_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1055 arg2);
 extern uintptr_t _wrap_OCROptions_GetInternalObj_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_OCRModule_IsModuleAvailable_pdftron_e64018f00020cc89(void);
 extern _Bool _wrap_OCRModule_IsIRISModuleAvailable_pdftron_e64018f00020cc89(void);
-extern void _wrap_OCRModule_ImageToPDF_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1050 arg2, uintptr_t arg3);
+extern void _wrap_OCRModule_ImageToPDF_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1056 arg2, uintptr_t arg3);
 extern void _wrap_OCRModule_ProcessPDF_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern swig_type_1051 _wrap_OCRModule_GetOCRJsonFromImage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1052 arg2, uintptr_t arg3);
-extern swig_type_1053 _wrap_OCRModule_GetOCRJsonFromPDF_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_OCRModule_ApplyOCRJsonToPDF_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1054 arg2);
-extern swig_type_1055 _wrap_OCRModule_GetOCRXmlFromImage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1056 arg2, uintptr_t arg3);
-extern swig_type_1057 _wrap_OCRModule_GetOCRXmlFromPDF_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_OCRModule_ApplyOCRXmlToPDF_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1058 arg2);
+extern swig_type_1057 _wrap_OCRModule_GetOCRJsonFromImage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1058 arg2, uintptr_t arg3);
+extern swig_type_1059 _wrap_OCRModule_GetOCRJsonFromPDF_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_OCRModule_ApplyOCRJsonToPDF_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1060 arg2);
+extern swig_type_1061 _wrap_OCRModule_GetOCRXmlFromImage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1062 arg2, uintptr_t arg3);
+extern swig_type_1063 _wrap_OCRModule_GetOCRXmlFromPDF_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_OCRModule_ApplyOCRXmlToPDF_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1064 arg2);
 extern uintptr_t _wrap_new_OCRModule_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_OCRModule_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_CADModule_IsModuleAvailable_pdftron_e64018f00020cc89(void);
@@ -8833,7 +8851,7 @@ extern uintptr_t _wrap_OptimizerSettings_m_text_settings_get_pdftron_e64018f0002
 extern void _wrap_OptimizerSettings_m_remove_custom_set_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_OptimizerSettings_m_remove_custom_get_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_delete_OptimizerSettings_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_new_BitmapInfo__SWIG_0_pdftron_e64018f00020cc89(swig_intgo arg1, swig_intgo arg2, swig_intgo arg3, double arg4, swig_type_1059 arg5);
+extern uintptr_t _wrap_new_BitmapInfo__SWIG_0_pdftron_e64018f00020cc89(swig_intgo arg1, swig_intgo arg2, swig_intgo arg3, double arg4, swig_type_1065 arg5);
 extern void _wrap_BitmapInfo_width_set_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern swig_intgo _wrap_BitmapInfo_width_get_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_BitmapInfo_height_set_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
@@ -8874,11 +8892,11 @@ extern void _wrap_PDFDraw_SetPrintMode_pdftron_e64018f00020cc89(uintptr_t arg1, 
 extern void _wrap_PDFDraw_SetDefaultPageColor_pdftron_e64018f00020cc89(uintptr_t arg1, char arg2, char arg3, char arg4);
 extern void _wrap_PDFDraw_SetPageTransparent_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PDFDraw_SetOverprint_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_PDFDraw_Export__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1060 arg3, swig_type_1061 arg4, uintptr_t arg5);
-extern void _wrap_PDFDraw_Export__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1062 arg3, swig_type_1063 arg4);
-extern void _wrap_PDFDraw_Export__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1064 arg3);
-extern void _wrap_PDFDraw_Export__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, swig_type_1065 arg4, uintptr_t arg5);
-extern void _wrap_PDFDraw_Export__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, swig_type_1066 arg4);
+extern void _wrap_PDFDraw_Export__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1066 arg3, swig_type_1067 arg4, uintptr_t arg5);
+extern void _wrap_PDFDraw_Export__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1068 arg3, swig_type_1069 arg4);
+extern void _wrap_PDFDraw_Export__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1070 arg3);
+extern void _wrap_PDFDraw_Export__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, swig_type_1071 arg4, uintptr_t arg5);
+extern void _wrap_PDFDraw_Export__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, swig_type_1072 arg4);
 extern void _wrap_PDFDraw_Export__SWIG_5_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3);
 extern swig_intgo _wrap_e_rgba_PDFDraw_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_bgra_PDFDraw_pdftron_e64018f00020cc89(void);
@@ -8901,25 +8919,25 @@ extern void _wrap_WebFontDownloader_EnableDownloads_pdftron_e64018f00020cc89(voi
 extern void _wrap_WebFontDownloader_DisableDownloads_pdftron_e64018f00020cc89(void);
 extern void _wrap_WebFontDownloader_PreCacheAsync_pdftron_e64018f00020cc89(void);
 extern void _wrap_WebFontDownloader_ClearCache_pdftron_e64018f00020cc89(void);
-extern void _wrap_WebFontDownloader_SetCustomWebFontURL_pdftron_e64018f00020cc89(swig_type_1067 arg1);
+extern void _wrap_WebFontDownloader_SetCustomWebFontURL_pdftron_e64018f00020cc89(swig_type_1073 arg1);
 extern uintptr_t _wrap_new_WebFontDownloader_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_WebFontDownloader_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFNet_Initialize__SWIG_0_pdftron_e64018f00020cc89(swig_type_1068 arg1, swig_type_1069 arg2);
+extern void _wrap_PDFNet_Initialize__SWIG_0_pdftron_e64018f00020cc89(swig_type_1074 arg1, swig_type_1075 arg2);
 extern void _wrap_PDFNet_Terminate__SWIG_0_pdftron_e64018f00020cc89(swig_intgo arg1);
 extern void _wrap_PDFNet_EnableJavaScript_pdftron_e64018f00020cc89(_Bool arg1);
 extern _Bool _wrap_PDFNet_IsJavaScriptEnabled_pdftron_e64018f00020cc89(void);
-extern _Bool _wrap_PDFNet_SetResourcesPath_pdftron_e64018f00020cc89(swig_type_1070 arg1);
-extern swig_type_1071 _wrap_PDFNet_GetResourcesPath_pdftron_e64018f00020cc89(void);
-extern void _wrap_PDFNet_AddResourceSearchPath_pdftron_e64018f00020cc89(swig_type_1072 arg1);
+extern _Bool _wrap_PDFNet_SetResourcesPath_pdftron_e64018f00020cc89(swig_type_1076 arg1);
+extern swig_type_1077 _wrap_PDFNet_GetResourcesPath_pdftron_e64018f00020cc89(void);
+extern void _wrap_PDFNet_AddResourceSearchPath_pdftron_e64018f00020cc89(swig_type_1078 arg1);
 extern double _wrap_PDFNet_GetVersion_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_lcms_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_icm_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_no_cms_PDFNet_pdftron_e64018f00020cc89(void);
 extern void _wrap_PDFNet_SetColorManagement__SWIG_0_pdftron_e64018f00020cc89(swig_intgo arg1);
 extern void _wrap_PDFNet_SetColorManagement__SWIG_1_pdftron_e64018f00020cc89(void);
-extern void _wrap_PDFNet_SetDefaultDeviceCMYKProfile__SWIG_0_pdftron_e64018f00020cc89(swig_type_1073 arg1);
+extern void _wrap_PDFNet_SetDefaultDeviceCMYKProfile__SWIG_0_pdftron_e64018f00020cc89(swig_type_1079 arg1);
 extern void _wrap_PDFNet_SetDefaultDeviceCMYKProfile__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFNet_SetDefaultDeviceRGBProfile__SWIG_0_pdftron_e64018f00020cc89(swig_type_1074 arg1);
+extern void _wrap_PDFNet_SetDefaultDeviceRGBProfile__SWIG_0_pdftron_e64018f00020cc89(swig_type_1080 arg1);
 extern void _wrap_PDFNet_SetDefaultDeviceRGBProfile__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFNet_SetDefaultDiskCachingEnabled_pdftron_e64018f00020cc89(_Bool arg1);
 extern swig_intgo _wrap_e_Z_DEFAULT_COMPRESSION_PDFNet_pdftron_e64018f00020cc89(void);
@@ -8927,18 +8945,18 @@ extern swig_intgo _wrap_e_Z_NO_COMPRESSION_PDFNet_pdftron_e64018f00020cc89(void)
 extern swig_intgo _wrap_e_Z_BEST_SPEED_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Z_BEST_COMPRESSION_PDFNet_pdftron_e64018f00020cc89(void);
 extern void _wrap_PDFNet_SetDefaultFlateCompressionLevel_pdftron_e64018f00020cc89(swig_intgo arg1);
-extern void _wrap_PDFNet_SetViewerCache_pdftron_e64018f00020cc89(swig_type_1075 arg1, _Bool arg2);
+extern void _wrap_PDFNet_SetViewerCache_pdftron_e64018f00020cc89(swig_type_1081 arg1, _Bool arg2);
 extern swig_intgo _wrap_e_Identity_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Japan1_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Japan2_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_GB1_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_CNS1_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_Korea1_PDFNet_pdftron_e64018f00020cc89(void);
-extern _Bool _wrap_PDFNet_AddFontSubst__SWIG_0_pdftron_e64018f00020cc89(swig_type_1076 arg1, swig_type_1077 arg2);
-extern _Bool _wrap_PDFNet_AddFontSubst__SWIG_1_pdftron_e64018f00020cc89(swig_intgo arg1, swig_type_1078 arg2);
-extern void _wrap_PDFNet_SetTempPath_pdftron_e64018f00020cc89(swig_type_1079 arg1);
-extern void _wrap_PDFNet_SetPersistentCachePath_pdftron_e64018f00020cc89(swig_type_1080 arg1);
-extern swig_type_1081 _wrap_PDFNet_GetSystemFontList_pdftron_e64018f00020cc89(void);
+extern _Bool _wrap_PDFNet_AddFontSubst__SWIG_0_pdftron_e64018f00020cc89(swig_type_1082 arg1, swig_type_1083 arg2);
+extern _Bool _wrap_PDFNet_AddFontSubst__SWIG_1_pdftron_e64018f00020cc89(swig_intgo arg1, swig_type_1084 arg2);
+extern void _wrap_PDFNet_SetTempPath_pdftron_e64018f00020cc89(swig_type_1085 arg1);
+extern void _wrap_PDFNet_SetPersistentCachePath_pdftron_e64018f00020cc89(swig_type_1086 arg1);
+extern swig_type_1087 _wrap_PDFNet_GetSystemFontList_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_LogLevel_Off_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_LogLevel_Fatal_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_LogLevel_Error_PDFNet_pdftron_e64018f00020cc89(void);
@@ -8949,14 +8967,14 @@ extern swig_intgo _wrap_e_LogLevel_Debug_PDFNet_pdftron_e64018f00020cc89(void);
 extern void _wrap_PDFNet_SetLogLevel__SWIG_0_pdftron_e64018f00020cc89(swig_intgo arg1);
 extern void _wrap_PDFNet_SetLogLevel__SWIG_1_pdftron_e64018f00020cc89(void);
 extern void _wrap_PDFNet_AddPDFTronCustomHandler_pdftron_e64018f00020cc89(swig_intgo arg1);
-extern swig_type_1082 _wrap_PDFNet_GetVersionString_pdftron_e64018f00020cc89(void);
+extern swig_type_1088 _wrap_PDFNet_GetVersionString_pdftron_e64018f00020cc89(void);
 extern void _wrap_PDFNet_SetWriteAPIUsageLocally_pdftron_e64018f00020cc89(_Bool arg1);
 extern swig_intgo _wrap_e_continue_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_continue_unless_switching_to_demo_PDFNet_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_stop_PDFNet_pdftron_e64018f00020cc89(void);
 extern void _wrap_PDFNet_SetConnectionErrorHandlingMode_pdftron_e64018f00020cc89(swig_intgo arg1);
 extern void _wrap_PDFNet_SetConnectionErrorProc_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFNet_Initialize__SWIG_1_pdftron_e64018f00020cc89(swig_type_1083 arg1);
+extern void _wrap_PDFNet_Initialize__SWIG_1_pdftron_e64018f00020cc89(swig_type_1089 arg1);
 extern void _wrap_PDFNet_Initialize__SWIG_2_pdftron_e64018f00020cc89(void);
 extern void _wrap_PDFNet_Terminate__SWIG_1_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_PDFNet_pdftron_e64018f00020cc89(void);
@@ -9105,7 +9123,7 @@ extern void _wrap_PDFView_SetBackgroundColor__SWIG_1_pdftron_e64018f00020cc89(ui
 extern void _wrap_PDFView_SetHorizontalAlign_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PDFView_SetVerticalAlign_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_PDFView_SetPageSpacing_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5);
-extern void _wrap_PDFView_SetViewerCache_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1084 arg2, _Bool arg3);
+extern void _wrap_PDFView_SetViewerCache_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1090 arg2, _Bool arg3);
 extern void _wrap_PDFView_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFView_SetDevicePixelDensity_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2, double arg3);
 extern uintptr_t _wrap_PDFView_GetScreenRectForAnnot__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
@@ -9121,38 +9139,38 @@ extern swig_intgo _wrap_PDFView_GetPageViewMode_pdftron_e64018f00020cc89(uintptr
 extern void _wrap_PDFView_RefreshAndUpdate_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_PDFView_SetPageRefViewMode_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern swig_intgo _wrap_PDFView_GetPageRefViewMode_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFView_SetupThumbnails_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2, _Bool arg3, _Bool arg4, swig_intgo arg5, swig_type_1085 arg6, double arg7);
+extern void _wrap_PDFView_SetupThumbnails_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2, _Bool arg3, _Bool arg4, swig_intgo arg5, swig_type_1091 arg6, double arg7);
 extern void _wrap_PDFView_ClearThumbCache_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFView_GetThumbAsync_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern swig_type_1086 _wrap_PDFView_GetThumbInCacheSize_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_1092 _wrap_PDFView_GetThumbInCacheSize_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern _Bool _wrap_PDFView_GetThumbInCache_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_voidp arg3, swig_voidp arg4, swig_voidp arg5);
 extern void _wrap_PDFView_CancelAllThumbRequests_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFView_SetRequestRenderInWorkerThreadProc_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_PDFView_SetFindTextHandler_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_PDFView_FindTextAsync_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1087 arg2, _Bool arg3, _Bool arg4, _Bool arg5, _Bool arg6);
+extern void _wrap_PDFView_FindTextAsync_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1093 arg2, _Bool arg3, _Bool arg4, _Bool arg5, _Bool arg6);
 extern uintptr_t _wrap_PDFView_GetAnnotationsOnPage_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_PDFView_GetAnnotationListAt_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5);
 extern void _wrap_PDFView_EnableUndoRedo_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1088 _wrap_PDFView_Undo_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1089 _wrap_PDFView_Redo_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_PDFView_TakeSnapshot_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1090 arg2);
-extern swig_type_1091 _wrap_PDFView_GetNextUndoInfo_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1092 _wrap_PDFView_GetNextRedoInfo_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1094 _wrap_PDFView_Undo_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1095 _wrap_PDFView_Redo_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_PDFView_TakeSnapshot_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1096 arg2);
+extern swig_type_1097 _wrap_PDFView_GetNextUndoInfo_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1098 _wrap_PDFView_GetNextRedoInfo_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PDFView_CanUndo_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_PDFView_CanRedo_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_PDFView_RevertAllChanges_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_PDFView_GetExternalAnnotManager__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1093 arg2, uintptr_t arg3);
-extern uintptr_t _wrap_PDFView_GetExternalAnnotManager__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1094 arg2);
-extern void _wrap_Print_StartPrintJob__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1095 arg2, swig_type_1096 arg3, swig_type_1097 arg4, uintptr_t arg5, uintptr_t arg6, swig_voidp arg7, uintptr_t arg8);
-extern void _wrap_Print_StartPrintJob__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1098 arg2, swig_type_1099 arg3, swig_type_1100 arg4, uintptr_t arg5, uintptr_t arg6, swig_voidp arg7);
-extern void _wrap_Print_StartPrintJob__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1101 arg2, swig_type_1102 arg3, swig_type_1103 arg4, uintptr_t arg5, uintptr_t arg6);
-extern void _wrap_Print_StartPrintJob__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1104 arg2, swig_type_1105 arg3, swig_type_1106 arg4, uintptr_t arg5);
-extern void _wrap_Print_StartPrintJob__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1107 arg2, swig_type_1108 arg3, swig_type_1109 arg4);
-extern void _wrap_Print_StartPrintJob__SWIG_5_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1110 arg2, swig_type_1111 arg3, swig_type_1112 arg4, uintptr_t arg5, uintptr_t arg6, swig_voidp arg7, uintptr_t arg8);
-extern void _wrap_Print_StartPrintJob__SWIG_6_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1113 arg2, swig_type_1114 arg3, swig_type_1115 arg4, uintptr_t arg5, uintptr_t arg6, swig_voidp arg7);
-extern void _wrap_Print_StartPrintJob__SWIG_7_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1116 arg2, swig_type_1117 arg3, swig_type_1118 arg4, uintptr_t arg5, uintptr_t arg6);
-extern void _wrap_Print_StartPrintJob__SWIG_8_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1119 arg2, swig_type_1120 arg3, swig_type_1121 arg4, uintptr_t arg5);
-extern void _wrap_Print_StartPrintJob__SWIG_9_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1122 arg2, swig_type_1123 arg3, swig_type_1124 arg4);
+extern uintptr_t _wrap_PDFView_GetExternalAnnotManager__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1099 arg2, uintptr_t arg3);
+extern uintptr_t _wrap_PDFView_GetExternalAnnotManager__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1100 arg2);
+extern void _wrap_Print_StartPrintJob__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1101 arg2, swig_type_1102 arg3, swig_type_1103 arg4, uintptr_t arg5, uintptr_t arg6, swig_voidp arg7, uintptr_t arg8);
+extern void _wrap_Print_StartPrintJob__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1104 arg2, swig_type_1105 arg3, swig_type_1106 arg4, uintptr_t arg5, uintptr_t arg6, swig_voidp arg7);
+extern void _wrap_Print_StartPrintJob__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1107 arg2, swig_type_1108 arg3, swig_type_1109 arg4, uintptr_t arg5, uintptr_t arg6);
+extern void _wrap_Print_StartPrintJob__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1110 arg2, swig_type_1111 arg3, swig_type_1112 arg4, uintptr_t arg5);
+extern void _wrap_Print_StartPrintJob__SWIG_4_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1113 arg2, swig_type_1114 arg3, swig_type_1115 arg4);
+extern void _wrap_Print_StartPrintJob__SWIG_5_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1116 arg2, swig_type_1117 arg3, swig_type_1118 arg4, uintptr_t arg5, uintptr_t arg6, swig_voidp arg7, uintptr_t arg8);
+extern void _wrap_Print_StartPrintJob__SWIG_6_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1119 arg2, swig_type_1120 arg3, swig_type_1121 arg4, uintptr_t arg5, uintptr_t arg6, swig_voidp arg7);
+extern void _wrap_Print_StartPrintJob__SWIG_7_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1122 arg2, swig_type_1123 arg3, swig_type_1124 arg4, uintptr_t arg5, uintptr_t arg6);
+extern void _wrap_Print_StartPrintJob__SWIG_8_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1125 arg2, swig_type_1126 arg3, swig_type_1127 arg4, uintptr_t arg5);
+extern void _wrap_Print_StartPrintJob__SWIG_9_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1128 arg2, swig_type_1129 arg3, swig_type_1130 arg4);
 extern uintptr_t _wrap_new_Print_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_Print_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_e_custom_PrinterMode_pdftron_e64018f00020cc89(void);
@@ -9328,38 +9346,38 @@ extern void _wrap_PrinterMode_SetScaleType_pdftron_e64018f00020cc89(uintptr_t ar
 extern void _wrap_PrinterMode_SetUseRleImageCompression_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_PrinterMode_m_printerMode_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_PrinterMode_m_printerMode_get_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_HTML2PDF_InsertFromURL__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1125 arg2);
-extern void _wrap_HTML2PDF_InsertFromURL__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1126 arg2, uintptr_t arg3);
-extern void _wrap_HTML2PDF_InsertFromHtmlString__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1127 arg2);
-extern void _wrap_HTML2PDF_InsertFromHtmlString__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1128 arg2, uintptr_t arg3);
+extern void _wrap_HTML2PDF_InsertFromURL__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1131 arg2);
+extern void _wrap_HTML2PDF_InsertFromURL__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1132 arg2, uintptr_t arg3);
+extern void _wrap_HTML2PDF_InsertFromHtmlString__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1133 arg2);
+extern void _wrap_HTML2PDF_InsertFromHtmlString__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1134 arg2, uintptr_t arg3);
 extern void _wrap_HTML2PDF_InsertTOC__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_HTML2PDF_InsertTOC__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern _Bool _wrap_HTML2PDF_Convert_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern swig_intgo _wrap_HTML2PDF_GetHTTPErrorCode_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_HTML2PDF_SetQuiet_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTML2PDF_SetCompatibilityMode_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern void _wrap_HTML2PDF_SetLogFilePath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1129 arg2);
-extern swig_type_1130 _wrap_HTML2PDF_GetLog_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern void _wrap_HTML2PDF_SetModulePath_pdftron_e64018f00020cc89(swig_type_1131 arg1);
+extern void _wrap_HTML2PDF_SetLogFilePath_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1135 arg2);
+extern swig_type_1136 _wrap_HTML2PDF_GetLog_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern void _wrap_HTML2PDF_SetModulePath_pdftron_e64018f00020cc89(swig_type_1137 arg1);
 extern _Bool _wrap_HTML2PDF_IsModuleAvailable_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_HTML2PDF_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_HTML2PDF_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_HTML2PDF_SetPaperSize__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_HTML2PDF_SetPaperSize__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1132 arg2, swig_type_1133 arg3);
+extern void _wrap_HTML2PDF_SetPaperSize__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1138 arg2, swig_type_1139 arg3);
 extern void _wrap_HTML2PDF_SetLandscape_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTML2PDF_SetDPI_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_HTML2PDF_SetOutline__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2, swig_intgo arg3);
 extern void _wrap_HTML2PDF_SetOutline__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern void _wrap_HTML2PDF_DumpOutline_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1134 arg2);
+extern void _wrap_HTML2PDF_DumpOutline_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1140 arg2);
 extern void _wrap_HTML2PDF_SetPDFCompression_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern void _wrap_HTML2PDF_SetMargins_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1135 arg2, swig_type_1136 arg3, swig_type_1137 arg4, swig_type_1138 arg5);
-extern void _wrap_HTML2PDF_SetHeader_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1139 arg2);
-extern void _wrap_HTML2PDF_SetFooter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1140 arg2);
+extern void _wrap_HTML2PDF_SetMargins_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1141 arg2, swig_type_1142 arg3, swig_type_1143 arg4, swig_type_1144 arg5);
+extern void _wrap_HTML2PDF_SetHeader_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1145 arg2);
+extern void _wrap_HTML2PDF_SetFooter_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1146 arg2);
 extern void _wrap_HTML2PDF_SetImageDPI_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_HTML2PDF_SetImageQuality_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_HTML2PDF_SetCookieJar_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1141 arg2);
-extern void _wrap_HTML2PDF_AddCookie_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1142 arg2, swig_type_1143 arg3);
-extern void _wrap_HTML2PDF_SetCustomHeader_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1144 arg2, swig_type_1145 arg3);
+extern void _wrap_HTML2PDF_SetCookieJar_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1147 arg2);
+extern void _wrap_HTML2PDF_AddCookie_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1148 arg2, swig_type_1149 arg3);
+extern void _wrap_HTML2PDF_SetCustomHeader_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1150 arg2, swig_type_1151 arg3);
 extern void _wrap_HTML2PDF_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_HTML2PDF_mp_html2pdf_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_HTML2PDF_mp_html2pdf_get_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -9370,10 +9388,10 @@ extern swig_intgo _wrap_e_none_Proxy_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_http_Proxy_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_socks5_Proxy_pdftron_e64018f00020cc89(void);
 extern void _wrap_Proxy_SetType_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_Proxy_SetHost_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1146 arg2);
+extern void _wrap_Proxy_SetHost_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1152 arg2);
 extern void _wrap_Proxy_SetPort_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_Proxy_SetUsername_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1147 arg2);
-extern void _wrap_Proxy_SetPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1148 arg2);
+extern void _wrap_Proxy_SetUsername_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1153 arg2);
+extern void _wrap_Proxy_SetPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1154 arg2);
 extern void _wrap_Proxy_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Proxy_mp_impl_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_Proxy_mp_impl_get_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -9384,13 +9402,13 @@ extern void _wrap_WebPageSettings_SetLoadImages_pdftron_e64018f00020cc89(uintptr
 extern void _wrap_WebPageSettings_SetAllowJavaScript_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_WebPageSettings_SetSmartShrinking_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_WebPageSettings_SetMinimumFontSize_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_WebPageSettings_SetDefaultEncoding_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1149 arg2);
-extern void _wrap_WebPageSettings_SetUserStyleSheet_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1150 arg2);
+extern void _wrap_WebPageSettings_SetDefaultEncoding_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1155 arg2);
+extern void _wrap_WebPageSettings_SetUserStyleSheet_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1156 arg2);
 extern void _wrap_WebPageSettings_SetAllowPlugins_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_WebPageSettings_SetPrintMediaType_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_WebPageSettings_SetIncludeInOutline_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern void _wrap_WebPageSettings_SetUsername_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1151 arg2);
-extern void _wrap_WebPageSettings_SetPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1152 arg2);
+extern void _wrap_WebPageSettings_SetUsername_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1157 arg2);
+extern void _wrap_WebPageSettings_SetPassword_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1158 arg2);
 extern void _wrap_WebPageSettings_SetJavaScriptDelay_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_WebPageSettings_SetConvertDelay_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_WebPageSettings_SetTimeout_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
@@ -9413,10 +9431,10 @@ extern uintptr_t _wrap_new_TOCSettings_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_TOCSettings_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_TOCSettings_SetDottedLines_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern void _wrap_TOCSettings_SetLinks_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern void _wrap_TOCSettings_SetCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1153 arg2);
+extern void _wrap_TOCSettings_SetCaptionText_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1159 arg2);
 extern void _wrap_TOCSettings_SetLevelIndentation_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_TOCSettings_SetTextSizeShrink_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
-extern void _wrap_TOCSettings_SetXsl_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1154 arg2);
+extern void _wrap_TOCSettings_SetXsl_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1160 arg2);
 extern void _wrap_TOCSettings_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_TOCSettings_mp_impl_set_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_TOCSettings_mp_impl_get_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -9436,7 +9454,7 @@ extern uintptr_t _wrap_new_Stamper__SWIG_0_pdftron_e64018f00020cc89(swig_intgo a
 extern void _wrap_delete_Stamper_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Stamper_StampImage_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, uintptr_t arg4);
 extern void _wrap_Stamper_StampPage_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, uintptr_t arg4);
-extern void _wrap_Stamper_StampText_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1155 arg3, uintptr_t arg4);
+extern void _wrap_Stamper_StampText_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1161 arg3, uintptr_t arg4);
 extern void _wrap_Stamper_SetFont_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_Stamper_SetFontColor_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern void _wrap_Stamper_SetOpacity_pdftron_e64018f00020cc89(uintptr_t arg1, double arg2);
@@ -9478,20 +9496,20 @@ extern void _wrap_TextExtractor_SetOCGContext_pdftron_e64018f00020cc89(uintptr_t
 extern swig_intgo _wrap_TextExtractor_GetWordCount_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_TextExtractor_SetRightToLeftLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_TextExtractor_GetRightToLeftLanguage_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1156 _wrap_TextExtractor_GetAsText__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
-extern swig_type_1157 _wrap_TextExtractor_GetAsText__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1158 _wrap_TextExtractor_GetTextUnderAnnot_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
+extern swig_type_1162 _wrap_TextExtractor_GetAsText__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
+extern swig_type_1163 _wrap_TextExtractor_GetAsText__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1164 _wrap_TextExtractor_GetTextUnderAnnot_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern swig_intgo _wrap_e_words_as_elements_TextExtractor_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_output_bbox_TextExtractor_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_output_style_info_TextExtractor_pdftron_e64018f00020cc89(void);
-extern swig_type_1159 _wrap_TextExtractor_GetAsXML__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
-extern swig_type_1160 _wrap_TextExtractor_GetAsXML__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1165 _wrap_TextExtractor_GetAsXML__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_1166 _wrap_TextExtractor_GetAsXML__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TextExtractor_GetHighlights_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern swig_intgo _wrap_TextExtractor_GetNumLines_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_TextExtractor_GetFirstLine_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_TextExtractor_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Style_GetFont_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1161 _wrap_Style_GetFontName_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1167 _wrap_Style_GetFontName_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern double _wrap_Style_GetFontSize_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_Style_GetWeight_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_Style_IsItalic_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -9511,7 +9529,7 @@ extern uintptr_t _wrap_Word_GetGlyphQuad_pdftron_e64018f00020cc89(uintptr_t arg1
 extern uintptr_t _wrap_Word_GetCharStyle_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern uintptr_t _wrap_Word_GetStyle_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_Word_GetStringLen_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1162 _wrap_Word_GetString_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1168 _wrap_Word_GetString_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_Word_GetNextWord_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_Word_GetCurrentNum_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_Word_IsValid_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -9544,12 +9562,12 @@ extern _Bool _wrap_SearchResult_IsFound_pdftron_e64018f00020cc89(uintptr_t arg1)
 extern _Bool _wrap_SearchResult_IsDocEnd_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern _Bool _wrap_SearchResult_IsPageEnd_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern swig_intgo _wrap_SearchResult_GetPageNumber_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1163 _wrap_SearchResult_GetMatch_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern swig_type_1164 _wrap_SearchResult_GetAmbientString_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1169 _wrap_SearchResult_GetMatch_pdftron_e64018f00020cc89(uintptr_t arg1);
+extern swig_type_1170 _wrap_SearchResult_GetAmbientString_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_SearchResult_GetHighlights_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_SearchResult__SWIG_0_pdftron_e64018f00020cc89(void);
 extern uintptr_t _wrap_new_SearchResult__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_new_SearchResult__SWIG_2_pdftron_e64018f00020cc89(swig_intgo arg1, uintptr_t arg2, swig_type_1165 arg3, swig_type_1166 arg4, uintptr_t arg5);
+extern uintptr_t _wrap_new_SearchResult__SWIG_2_pdftron_e64018f00020cc89(swig_intgo arg1, uintptr_t arg2, swig_type_1171 arg3, swig_type_1172 arg4, uintptr_t arg5);
 extern void _wrap_delete_SearchResult_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_TextSearch_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_TextSearch_pdftron_e64018f00020cc89(uintptr_t arg1);
@@ -9562,11 +9580,11 @@ extern swig_intgo _wrap_e_highlight_TextSearch_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_ambient_string_TextSearch_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_raw_text_search_TextSearch_pdftron_e64018f00020cc89(void);
 extern swig_intgo _wrap_e_search_using_zorder_TextSearch_pdftron_e64018f00020cc89(void);
-extern _Bool _wrap_TextSearch_Begin__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1167 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6);
-extern _Bool _wrap_TextSearch_Begin__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1168 arg3, swig_intgo arg4, swig_intgo arg5);
-extern _Bool _wrap_TextSearch_Begin__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1169 arg3, swig_intgo arg4);
+extern _Bool _wrap_TextSearch_Begin__SWIG_0_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1173 arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6);
+extern _Bool _wrap_TextSearch_Begin__SWIG_1_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1174 arg3, swig_intgo arg4, swig_intgo arg5);
+extern _Bool _wrap_TextSearch_Begin__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2, swig_type_1175 arg3, swig_intgo arg4);
 extern uintptr_t _wrap_TextSearch_Run_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern _Bool _wrap_TextSearch_SetPattern_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1170 arg2);
+extern _Bool _wrap_TextSearch_SetPattern_pdftron_e64018f00020cc89(uintptr_t arg1, swig_type_1176 arg2);
 extern swig_intgo _wrap_TextSearch_GetMode_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_TextSearch_SetMode_pdftron_e64018f00020cc89(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_TextSearch_SetRightToLeftLanguage_pdftron_e64018f00020cc89(uintptr_t arg1, _Bool arg2);
@@ -9585,7 +9603,7 @@ extern void _wrap_Redactor_Redact__SWIG_2_pdftron_e64018f00020cc89(uintptr_t arg
 extern void _wrap_Redactor_Redact__SWIG_3_pdftron_e64018f00020cc89(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_Redactor_pdftron_e64018f00020cc89(void);
 extern void _wrap_delete_Redactor_pdftron_e64018f00020cc89(uintptr_t arg1);
-extern uintptr_t _wrap_new_Redaction__SWIG_0_pdftron_e64018f00020cc89(swig_intgo arg1, uintptr_t arg2, _Bool arg3, swig_type_1171 arg4);
+extern uintptr_t _wrap_new_Redaction__SWIG_0_pdftron_e64018f00020cc89(swig_intgo arg1, uintptr_t arg2, _Bool arg3, swig_type_1177 arg4);
 extern void _wrap_delete_Redaction_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern void _wrap_Redaction_Destroy_pdftron_e64018f00020cc89(uintptr_t arg1);
 extern uintptr_t _wrap_new_Redaction__SWIG_1_pdftron_e64018f00020cc89(void);
@@ -9930,7 +9948,7 @@ func (_swig_base SwigcptrScreen) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrScreen) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Screen_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_Screen_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -9938,7 +9956,7 @@ func (_swig_base SwigcptrScreen) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 
 func (_swig_base SwigcptrScreen) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Screen_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Screen_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -10032,7 +10050,7 @@ func (_swig_base SwigcptrScreen) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnot
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_Screen_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_Screen_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -10100,7 +10118,7 @@ func (_swig_base SwigcptrScreen) SetAppearance__SWIG_0(arg1 Obj, arg2 PdftronPDF
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_Screen_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_Screen_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -10137,7 +10155,7 @@ func (p SwigcptrScreen) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrScreen) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Screen_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Screen_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -10185,7 +10203,7 @@ func (_swig_base SwigcptrScreen) GetActiveAppearanceState() (_swig_ret string) {
 
 func (_swig_base SwigcptrScreen) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Screen_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Screen_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -10273,7 +10291,7 @@ func (_swig_base SwigcptrScreen) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrScreen) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Screen_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Screen_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -10322,7 +10340,7 @@ func (p SwigcptrScreen) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrScreen) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_Screen_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_Screen_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -10333,7 +10351,7 @@ func (_swig_base SwigcptrScreen) GetCustomData(arg1 string) (_swig_ret string) {
 func (_swig_base SwigcptrScreen) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Screen_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Screen_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -10344,7 +10362,7 @@ func (_swig_base SwigcptrScreen) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrScreen) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Screen_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Screen_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -10732,7 +10750,7 @@ func (arg1 SwigcptrSound) GetIconName() (_swig_ret string) {
 func (arg1 SwigcptrSound) SetIcon__SWIG_2(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Sound_SetIcon__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_899)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Sound_SetIcon__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_905)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -10805,7 +10823,7 @@ func (_swig_base SwigcptrSound) GetTitle() (_swig_ret string) {
 
 func (_swig_base SwigcptrSound) SetTitle__SWIG_0(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Sound_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_416)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Sound_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_420)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -10813,7 +10831,7 @@ func (_swig_base SwigcptrSound) SetTitle__SWIG_0(arg1 string) {
 
 func (_swig_base SwigcptrSound) SetTitle__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Sound_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_417)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Sound_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_421)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -10863,7 +10881,7 @@ func (_swig_base SwigcptrSound) GetSubject() (_swig_ret string) {
 
 func (_swig_base SwigcptrSound) SetSubject(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Sound_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_419)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Sound_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_423)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -11091,7 +11109,7 @@ func (_swig_base SwigcptrSound) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrSound) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Sound_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_Sound_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -11099,7 +11117,7 @@ func (_swig_base SwigcptrSound) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 
 func (_swig_base SwigcptrSound) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Sound_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Sound_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -11193,7 +11211,7 @@ func (_swig_base SwigcptrSound) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnota
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_Sound_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_Sound_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -11261,7 +11279,7 @@ func (_swig_base SwigcptrSound) SetAppearance__SWIG_0(arg1 Obj, arg2 PdftronPDFA
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_Sound_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_Sound_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -11298,7 +11316,7 @@ func (p SwigcptrSound) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrSound) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Sound_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Sound_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -11346,7 +11364,7 @@ func (_swig_base SwigcptrSound) GetActiveAppearanceState() (_swig_ret string) {
 
 func (_swig_base SwigcptrSound) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Sound_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Sound_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -11434,7 +11452,7 @@ func (_swig_base SwigcptrSound) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrSound) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Sound_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Sound_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -11483,7 +11501,7 @@ func (p SwigcptrSound) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrSound) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_Sound_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_Sound_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -11494,7 +11512,7 @@ func (_swig_base SwigcptrSound) GetCustomData(arg1 string) (_swig_ret string) {
 func (_swig_base SwigcptrSound) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Sound_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Sound_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -11505,7 +11523,7 @@ func (_swig_base SwigcptrSound) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrSound) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Sound_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Sound_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -11727,7 +11745,7 @@ func (_swig_base SwigcptrSquare) GetTitle() (_swig_ret string) {
 
 func (_swig_base SwigcptrSquare) SetTitle__SWIG_0(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Square_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_416)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Square_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_420)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -11735,7 +11753,7 @@ func (_swig_base SwigcptrSquare) SetTitle__SWIG_0(arg1 string) {
 
 func (_swig_base SwigcptrSquare) SetTitle__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Square_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_417)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Square_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_421)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -11785,7 +11803,7 @@ func (_swig_base SwigcptrSquare) GetSubject() (_swig_ret string) {
 
 func (_swig_base SwigcptrSquare) SetSubject(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Square_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_419)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Square_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_423)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12013,7 +12031,7 @@ func (_swig_base SwigcptrSquare) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrSquare) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Square_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_Square_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12021,7 +12039,7 @@ func (_swig_base SwigcptrSquare) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 
 func (_swig_base SwigcptrSquare) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Square_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Square_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12115,7 +12133,7 @@ func (_swig_base SwigcptrSquare) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnot
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_Square_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_Square_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -12183,7 +12201,7 @@ func (_swig_base SwigcptrSquare) SetAppearance__SWIG_0(arg1 Obj, arg2 PdftronPDF
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_Square_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_Square_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -12220,7 +12238,7 @@ func (p SwigcptrSquare) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrSquare) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Square_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Square_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -12268,7 +12286,7 @@ func (_swig_base SwigcptrSquare) GetActiveAppearanceState() (_swig_ret string) {
 
 func (_swig_base SwigcptrSquare) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Square_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Square_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12356,7 +12374,7 @@ func (_swig_base SwigcptrSquare) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrSquare) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Square_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Square_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12405,7 +12423,7 @@ func (p SwigcptrSquare) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrSquare) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_Square_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_Square_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -12416,7 +12434,7 @@ func (_swig_base SwigcptrSquare) GetCustomData(arg1 string) (_swig_ret string) {
 func (_swig_base SwigcptrSquare) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Square_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Square_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12427,7 +12445,7 @@ func (_swig_base SwigcptrSquare) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrSquare) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Square_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Square_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12654,7 +12672,7 @@ func (_swig_base SwigcptrSquiggly) GetTitle() (_swig_ret string) {
 
 func (_swig_base SwigcptrSquiggly) SetTitle__SWIG_0(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Squiggly_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_416)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Squiggly_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_420)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12662,7 +12680,7 @@ func (_swig_base SwigcptrSquiggly) SetTitle__SWIG_0(arg1 string) {
 
 func (_swig_base SwigcptrSquiggly) SetTitle__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Squiggly_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_417)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Squiggly_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_421)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12712,7 +12730,7 @@ func (_swig_base SwigcptrSquiggly) GetSubject() (_swig_ret string) {
 
 func (_swig_base SwigcptrSquiggly) SetSubject(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Squiggly_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_419)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Squiggly_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_423)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12940,7 +12958,7 @@ func (_swig_base SwigcptrSquiggly) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrSquiggly) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Squiggly_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_Squiggly_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -12948,7 +12966,7 @@ func (_swig_base SwigcptrSquiggly) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 
 func (_swig_base SwigcptrSquiggly) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Squiggly_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Squiggly_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13042,7 +13060,7 @@ func (_swig_base SwigcptrSquiggly) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotAnn
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_Squiggly_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_Squiggly_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -13110,7 +13128,7 @@ func (_swig_base SwigcptrSquiggly) SetAppearance__SWIG_0(arg1 Obj, arg2 PdftronP
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_Squiggly_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_Squiggly_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -13147,7 +13165,7 @@ func (p SwigcptrSquiggly) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrSquiggly) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Squiggly_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Squiggly_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -13195,7 +13213,7 @@ func (_swig_base SwigcptrSquiggly) GetActiveAppearanceState() (_swig_ret string)
 
 func (_swig_base SwigcptrSquiggly) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Squiggly_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Squiggly_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13283,7 +13301,7 @@ func (_swig_base SwigcptrSquiggly) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrSquiggly) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Squiggly_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Squiggly_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13332,7 +13350,7 @@ func (p SwigcptrSquiggly) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrSquiggly) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_Squiggly_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_Squiggly_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -13343,7 +13361,7 @@ func (_swig_base SwigcptrSquiggly) GetCustomData(arg1 string) (_swig_ret string)
 func (_swig_base SwigcptrSquiggly) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Squiggly_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Squiggly_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13354,7 +13372,7 @@ func (_swig_base SwigcptrSquiggly) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrSquiggly) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Squiggly_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Squiggly_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13593,7 +13611,7 @@ func (_swig_base SwigcptrStrikeOut) GetTitle() (_swig_ret string) {
 
 func (_swig_base SwigcptrStrikeOut) SetTitle__SWIG_0(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_StrikeOut_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_416)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_StrikeOut_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_420)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13601,7 +13619,7 @@ func (_swig_base SwigcptrStrikeOut) SetTitle__SWIG_0(arg1 string) {
 
 func (_swig_base SwigcptrStrikeOut) SetTitle__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_StrikeOut_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_417)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_StrikeOut_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_421)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13651,7 +13669,7 @@ func (_swig_base SwigcptrStrikeOut) GetSubject() (_swig_ret string) {
 
 func (_swig_base SwigcptrStrikeOut) SetSubject(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_StrikeOut_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_419)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_StrikeOut_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_423)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13879,7 +13897,7 @@ func (_swig_base SwigcptrStrikeOut) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrStrikeOut) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_StrikeOut_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_StrikeOut_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13887,7 +13905,7 @@ func (_swig_base SwigcptrStrikeOut) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 
 func (_swig_base SwigcptrStrikeOut) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_StrikeOut_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_StrikeOut_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -13981,7 +13999,7 @@ func (_swig_base SwigcptrStrikeOut) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotAn
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_StrikeOut_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_StrikeOut_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -14049,7 +14067,7 @@ func (_swig_base SwigcptrStrikeOut) SetAppearance__SWIG_0(arg1 Obj, arg2 Pdftron
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_StrikeOut_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_StrikeOut_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -14086,7 +14104,7 @@ func (p SwigcptrStrikeOut) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrStrikeOut) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_StrikeOut_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_StrikeOut_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -14134,7 +14152,7 @@ func (_swig_base SwigcptrStrikeOut) GetActiveAppearanceState() (_swig_ret string
 
 func (_swig_base SwigcptrStrikeOut) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_StrikeOut_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_StrikeOut_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -14222,7 +14240,7 @@ func (_swig_base SwigcptrStrikeOut) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrStrikeOut) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_StrikeOut_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_StrikeOut_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -14271,7 +14289,7 @@ func (p SwigcptrStrikeOut) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrStrikeOut) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_StrikeOut_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_StrikeOut_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -14282,7 +14300,7 @@ func (_swig_base SwigcptrStrikeOut) GetCustomData(arg1 string) (_swig_ret string
 func (_swig_base SwigcptrStrikeOut) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_StrikeOut_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_StrikeOut_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -14293,7 +14311,7 @@ func (_swig_base SwigcptrStrikeOut) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrStrikeOut) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_StrikeOut_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_StrikeOut_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -14465,7 +14483,7 @@ func TextCreate__SWIG_0(arg1 SDFDoc, arg2 Rect, arg3 string) (_swig_ret Text) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (Text)(SwigcptrText(C._wrap_Text_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_920)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (Text)(SwigcptrText(C._wrap_Text_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_926)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -14485,7 +14503,7 @@ func TextCreateAnnot__SWIG_0(arg1 SDFDoc, arg2 Rect, arg3 string) (_swig_ret Tex
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (Text)(SwigcptrText(C._wrap_Text_CreateAnnot__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_921)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (Text)(SwigcptrText(C._wrap_Text_CreateAnnot__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_927)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -14505,7 +14523,7 @@ func TextCreate__SWIG_2(arg1 SDFDoc, arg2 Point, arg3 string) (_swig_ret Text) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (Text)(SwigcptrText(C._wrap_Text_Create__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_922)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (Text)(SwigcptrText(C._wrap_Text_Create__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_928)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -14550,7 +14568,7 @@ func TextCreateAnnot__SWIG_2(arg1 SDFDoc, arg2 Point, arg3 string) (_swig_ret Te
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (Text)(SwigcptrText(C._wrap_Text_CreateAnnot__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_923)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (Text)(SwigcptrText(C._wrap_Text_CreateAnnot__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_929)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -14691,7 +14709,7 @@ func (arg1 SwigcptrText) SetIcon__SWIG_1() {
 func (arg1 SwigcptrText) SetIcon__SWIG_2(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Text_SetIcon__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_925)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Text_SetIcon__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_931)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -14729,7 +14747,7 @@ func (arg1 SwigcptrText) GetState() (_swig_ret string) {
 func (arg1 SwigcptrText) SetState__SWIG_0(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Text_SetState__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_927)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Text_SetState__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_933)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -14764,7 +14782,7 @@ func (arg1 SwigcptrText) GetStateModel() (_swig_ret string) {
 func (arg1 SwigcptrText) SetStateModel(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Text_SetStateModel_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_929)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Text_SetStateModel_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_935)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -14829,7 +14847,7 @@ func (_swig_base SwigcptrText) GetTitle() (_swig_ret string) {
 
 func (_swig_base SwigcptrText) SetTitle__SWIG_0(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Text_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_416)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Text_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_420)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -14837,7 +14855,7 @@ func (_swig_base SwigcptrText) SetTitle__SWIG_0(arg1 string) {
 
 func (_swig_base SwigcptrText) SetTitle__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Text_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_417)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Text_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_421)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -14887,7 +14905,7 @@ func (_swig_base SwigcptrText) GetSubject() (_swig_ret string) {
 
 func (_swig_base SwigcptrText) SetSubject(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Text_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_419)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Text_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_423)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -15115,7 +15133,7 @@ func (_swig_base SwigcptrText) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrText) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Text_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_Text_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -15123,7 +15141,7 @@ func (_swig_base SwigcptrText) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 
 func (_swig_base SwigcptrText) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Text_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Text_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -15217,7 +15235,7 @@ func (_swig_base SwigcptrText) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotat
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_Text_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_Text_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -15285,7 +15303,7 @@ func (_swig_base SwigcptrText) SetAppearance__SWIG_0(arg1 Obj, arg2 PdftronPDFAn
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_Text_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_Text_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -15322,7 +15340,7 @@ func (p SwigcptrText) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrText) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Text_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Text_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -15370,7 +15388,7 @@ func (_swig_base SwigcptrText) GetActiveAppearanceState() (_swig_ret string) {
 
 func (_swig_base SwigcptrText) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Text_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Text_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -15458,7 +15476,7 @@ func (_swig_base SwigcptrText) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrText) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Text_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Text_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -15507,7 +15525,7 @@ func (p SwigcptrText) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrText) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_Text_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_Text_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -15518,7 +15536,7 @@ func (_swig_base SwigcptrText) GetCustomData(arg1 string) (_swig_ret string) {
 func (_swig_base SwigcptrText) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Text_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Text_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -15529,7 +15547,7 @@ func (_swig_base SwigcptrText) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrText) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Text_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Text_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -15767,7 +15785,7 @@ func (_swig_base SwigcptrUnderline) GetTitle() (_swig_ret string) {
 
 func (_swig_base SwigcptrUnderline) SetTitle__SWIG_0(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Underline_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_416)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Underline_SetTitle__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_420)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -15775,7 +15793,7 @@ func (_swig_base SwigcptrUnderline) SetTitle__SWIG_0(arg1 string) {
 
 func (_swig_base SwigcptrUnderline) SetTitle__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Underline_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_417)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Underline_SetTitle__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_421)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -15825,7 +15843,7 @@ func (_swig_base SwigcptrUnderline) GetSubject() (_swig_ret string) {
 
 func (_swig_base SwigcptrUnderline) SetSubject(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Underline_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_419)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Underline_SetSubject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_423)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -16053,7 +16071,7 @@ func (_swig_base SwigcptrUnderline) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrUnderline) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Underline_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_Underline_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -16061,7 +16079,7 @@ func (_swig_base SwigcptrUnderline) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 
 func (_swig_base SwigcptrUnderline) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Underline_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Underline_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -16155,7 +16173,7 @@ func (_swig_base SwigcptrUnderline) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotAn
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_Underline_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_Underline_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -16223,7 +16241,7 @@ func (_swig_base SwigcptrUnderline) SetAppearance__SWIG_0(arg1 Obj, arg2 Pdftron
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_Underline_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_Underline_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -16260,7 +16278,7 @@ func (p SwigcptrUnderline) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrUnderline) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Underline_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Underline_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -16308,7 +16326,7 @@ func (_swig_base SwigcptrUnderline) GetActiveAppearanceState() (_swig_ret string
 
 func (_swig_base SwigcptrUnderline) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Underline_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Underline_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -16396,7 +16414,7 @@ func (_swig_base SwigcptrUnderline) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrUnderline) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Underline_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Underline_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -16445,7 +16463,7 @@ func (p SwigcptrUnderline) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrUnderline) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_Underline_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_Underline_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -16456,7 +16474,7 @@ func (_swig_base SwigcptrUnderline) GetCustomData(arg1 string) (_swig_ret string
 func (_swig_base SwigcptrUnderline) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Underline_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Underline_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -16467,7 +16485,7 @@ func (_swig_base SwigcptrUnderline) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrUnderline) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Underline_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Underline_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -16775,7 +16793,7 @@ func (_swig_base SwigcptrWatermark) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrWatermark) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Watermark_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_Watermark_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -16783,7 +16801,7 @@ func (_swig_base SwigcptrWatermark) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 
 func (_swig_base SwigcptrWatermark) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Watermark_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Watermark_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -16877,7 +16895,7 @@ func (_swig_base SwigcptrWatermark) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotAn
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_Watermark_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_Watermark_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -16945,7 +16963,7 @@ func (_swig_base SwigcptrWatermark) SetAppearance__SWIG_0(arg1 Obj, arg2 Pdftron
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_Watermark_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_Watermark_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -16982,7 +17000,7 @@ func (p SwigcptrWatermark) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrWatermark) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Watermark_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Watermark_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -17030,7 +17048,7 @@ func (_swig_base SwigcptrWatermark) GetActiveAppearanceState() (_swig_ret string
 
 func (_swig_base SwigcptrWatermark) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Watermark_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Watermark_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -17118,7 +17136,7 @@ func (_swig_base SwigcptrWatermark) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrWatermark) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Watermark_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Watermark_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -17167,7 +17185,7 @@ func (p SwigcptrWatermark) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrWatermark) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_Watermark_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_Watermark_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -17178,7 +17196,7 @@ func (_swig_base SwigcptrWatermark) GetCustomData(arg1 string) (_swig_ret string
 func (_swig_base SwigcptrWatermark) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Watermark_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Watermark_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -17189,7 +17207,7 @@ func (_swig_base SwigcptrWatermark) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrWatermark) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Watermark_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Watermark_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -17462,7 +17480,7 @@ func (arg1 SwigcptrWidget) GetStaticCaptionText() (_swig_ret string) {
 func (arg1 SwigcptrWidget) SetStaticCaptionText(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Widget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_944)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Widget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_950)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -17479,7 +17497,7 @@ func (arg1 SwigcptrWidget) GetRolloverCaptionText() (_swig_ret string) {
 func (arg1 SwigcptrWidget) SetRolloverCaptionText(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Widget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_946)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Widget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_952)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -17496,7 +17514,7 @@ func (arg1 SwigcptrWidget) GetMouseDownCaptionText() (_swig_ret string) {
 func (arg1 SwigcptrWidget) SetMouseDownCaptionText(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Widget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_948)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Widget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_954)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -17915,7 +17933,7 @@ func (_swig_base SwigcptrWidget) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Widget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_Widget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -17923,7 +17941,7 @@ func (_swig_base SwigcptrWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 
 func (_swig_base SwigcptrWidget) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Widget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Widget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -18017,7 +18035,7 @@ func (_swig_base SwigcptrWidget) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnot
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_Widget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_Widget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -18085,7 +18103,7 @@ func (_swig_base SwigcptrWidget) SetAppearance__SWIG_0(arg1 Obj, arg2 PdftronPDF
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_Widget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_Widget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -18122,7 +18140,7 @@ func (p SwigcptrWidget) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrWidget) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Widget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Widget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -18170,7 +18188,7 @@ func (_swig_base SwigcptrWidget) GetActiveAppearanceState() (_swig_ret string) {
 
 func (_swig_base SwigcptrWidget) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Widget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Widget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -18258,7 +18276,7 @@ func (_swig_base SwigcptrWidget) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrWidget) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Widget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Widget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -18307,7 +18325,7 @@ func (p SwigcptrWidget) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrWidget) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_Widget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_Widget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -18318,7 +18336,7 @@ func (_swig_base SwigcptrWidget) GetCustomData(arg1 string) (_swig_ret string) {
 func (_swig_base SwigcptrWidget) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Widget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Widget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -18329,7 +18347,7 @@ func (_swig_base SwigcptrWidget) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrWidget) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_Widget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_Widget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -18531,7 +18549,7 @@ func SignatureWidgetCreate__SWIG_0(arg1 PDFDoc, arg2 Rect, arg3 string) (_swig_r
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (SignatureWidget)(SwigcptrSignatureWidget(C._wrap_SignatureWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_952)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (SignatureWidget)(SwigcptrSignatureWidget(C._wrap_SignatureWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_958)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -18684,7 +18702,7 @@ func (_swig_base SwigcptrSignatureWidget) GetStaticCaptionText() (_swig_ret stri
 
 func (_swig_base SwigcptrSignatureWidget) SetStaticCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_SignatureWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_954)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_SignatureWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_960)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -18699,7 +18717,7 @@ func (_swig_base SwigcptrSignatureWidget) GetRolloverCaptionText() (_swig_ret st
 
 func (_swig_base SwigcptrSignatureWidget) SetRolloverCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_SignatureWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_956)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_SignatureWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_962)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -18714,7 +18732,7 @@ func (_swig_base SwigcptrSignatureWidget) GetMouseDownCaptionText() (_swig_ret s
 
 func (_swig_base SwigcptrSignatureWidget) SetMouseDownCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_SignatureWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_958)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_SignatureWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_964)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -18977,7 +18995,7 @@ func (_swig_base SwigcptrSignatureWidget) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrSignatureWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_SignatureWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_SignatureWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -18985,7 +19003,7 @@ func (_swig_base SwigcptrSignatureWidget) SetUniqueID__SWIG_0(arg1 string, arg2 
 
 func (_swig_base SwigcptrSignatureWidget) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_SignatureWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_SignatureWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -19079,7 +19097,7 @@ func (_swig_base SwigcptrSignatureWidget) GetAppearance__SWIG_0(arg1 PdftronPDFA
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_SignatureWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_SignatureWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -19147,7 +19165,7 @@ func (_swig_base SwigcptrSignatureWidget) SetAppearance__SWIG_0(arg1 Obj, arg2 P
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_SignatureWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_SignatureWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -19184,7 +19202,7 @@ func (p SwigcptrSignatureWidget) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrSignatureWidget) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_SignatureWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_SignatureWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -19232,7 +19250,7 @@ func (_swig_base SwigcptrSignatureWidget) GetActiveAppearanceState() (_swig_ret 
 
 func (_swig_base SwigcptrSignatureWidget) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_SignatureWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_SignatureWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -19320,7 +19338,7 @@ func (_swig_base SwigcptrSignatureWidget) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrSignatureWidget) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_SignatureWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_SignatureWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -19369,7 +19387,7 @@ func (p SwigcptrSignatureWidget) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrSignatureWidget) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_SignatureWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_SignatureWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -19380,7 +19398,7 @@ func (_swig_base SwigcptrSignatureWidget) GetCustomData(arg1 string) (_swig_ret 
 func (_swig_base SwigcptrSignatureWidget) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_SignatureWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_SignatureWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -19391,7 +19409,7 @@ func (_swig_base SwigcptrSignatureWidget) SetCustomData(arg1 string, arg2 string
 
 func (_swig_base SwigcptrSignatureWidget) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_SignatureWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_SignatureWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -19591,7 +19609,7 @@ func CheckBoxWidgetCreate__SWIG_0(arg1 PDFDoc, arg2 Rect, arg3 string) (_swig_re
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (CheckBoxWidget)(SwigcptrCheckBoxWidget(C._wrap_CheckBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_962)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (CheckBoxWidget)(SwigcptrCheckBoxWidget(C._wrap_CheckBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_968)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -19741,7 +19759,7 @@ func (_swig_base SwigcptrCheckBoxWidget) GetStaticCaptionText() (_swig_ret strin
 
 func (_swig_base SwigcptrCheckBoxWidget) SetStaticCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_CheckBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_954)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_CheckBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_960)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -19756,7 +19774,7 @@ func (_swig_base SwigcptrCheckBoxWidget) GetRolloverCaptionText() (_swig_ret str
 
 func (_swig_base SwigcptrCheckBoxWidget) SetRolloverCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_CheckBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_956)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_CheckBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_962)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -19771,7 +19789,7 @@ func (_swig_base SwigcptrCheckBoxWidget) GetMouseDownCaptionText() (_swig_ret st
 
 func (_swig_base SwigcptrCheckBoxWidget) SetMouseDownCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_CheckBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_958)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_CheckBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_964)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -20034,7 +20052,7 @@ func (_swig_base SwigcptrCheckBoxWidget) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrCheckBoxWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_CheckBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_CheckBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -20042,7 +20060,7 @@ func (_swig_base SwigcptrCheckBoxWidget) SetUniqueID__SWIG_0(arg1 string, arg2 i
 
 func (_swig_base SwigcptrCheckBoxWidget) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_CheckBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_CheckBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -20136,7 +20154,7 @@ func (_swig_base SwigcptrCheckBoxWidget) GetAppearance__SWIG_0(arg1 PdftronPDFAn
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_CheckBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_CheckBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -20204,7 +20222,7 @@ func (_swig_base SwigcptrCheckBoxWidget) SetAppearance__SWIG_0(arg1 Obj, arg2 Pd
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_CheckBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_CheckBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -20241,7 +20259,7 @@ func (p SwigcptrCheckBoxWidget) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrCheckBoxWidget) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_CheckBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_CheckBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -20289,7 +20307,7 @@ func (_swig_base SwigcptrCheckBoxWidget) GetActiveAppearanceState() (_swig_ret s
 
 func (_swig_base SwigcptrCheckBoxWidget) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_CheckBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_CheckBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -20377,7 +20395,7 @@ func (_swig_base SwigcptrCheckBoxWidget) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrCheckBoxWidget) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_CheckBoxWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_CheckBoxWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -20426,7 +20444,7 @@ func (p SwigcptrCheckBoxWidget) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrCheckBoxWidget) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_CheckBoxWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_CheckBoxWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -20437,7 +20455,7 @@ func (_swig_base SwigcptrCheckBoxWidget) GetCustomData(arg1 string) (_swig_ret s
 func (_swig_base SwigcptrCheckBoxWidget) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_CheckBoxWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_CheckBoxWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -20448,7 +20466,7 @@ func (_swig_base SwigcptrCheckBoxWidget) SetCustomData(arg1 string, arg2 string)
 
 func (_swig_base SwigcptrCheckBoxWidget) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_CheckBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_CheckBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -20648,7 +20666,7 @@ func PushButtonWidgetCreate__SWIG_0(arg1 PDFDoc, arg2 Rect, arg3 string) (_swig_
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (PushButtonWidget)(SwigcptrPushButtonWidget(C._wrap_PushButtonWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_969)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (PushButtonWidget)(SwigcptrPushButtonWidget(C._wrap_PushButtonWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_975)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -20785,7 +20803,7 @@ func (_swig_base SwigcptrPushButtonWidget) GetStaticCaptionText() (_swig_ret str
 
 func (_swig_base SwigcptrPushButtonWidget) SetStaticCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PushButtonWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_954)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PushButtonWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_960)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -20800,7 +20818,7 @@ func (_swig_base SwigcptrPushButtonWidget) GetRolloverCaptionText() (_swig_ret s
 
 func (_swig_base SwigcptrPushButtonWidget) SetRolloverCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PushButtonWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_956)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PushButtonWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_962)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -20815,7 +20833,7 @@ func (_swig_base SwigcptrPushButtonWidget) GetMouseDownCaptionText() (_swig_ret 
 
 func (_swig_base SwigcptrPushButtonWidget) SetMouseDownCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PushButtonWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_958)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PushButtonWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_964)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -21078,7 +21096,7 @@ func (_swig_base SwigcptrPushButtonWidget) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrPushButtonWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_PushButtonWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_PushButtonWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -21086,7 +21104,7 @@ func (_swig_base SwigcptrPushButtonWidget) SetUniqueID__SWIG_0(arg1 string, arg2
 
 func (_swig_base SwigcptrPushButtonWidget) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PushButtonWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PushButtonWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -21180,7 +21198,7 @@ func (_swig_base SwigcptrPushButtonWidget) GetAppearance__SWIG_0(arg1 PdftronPDF
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_PushButtonWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_PushButtonWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -21248,7 +21266,7 @@ func (_swig_base SwigcptrPushButtonWidget) SetAppearance__SWIG_0(arg1 Obj, arg2 
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_PushButtonWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_PushButtonWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -21285,7 +21303,7 @@ func (p SwigcptrPushButtonWidget) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrPushButtonWidget) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_PushButtonWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_PushButtonWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -21333,7 +21351,7 @@ func (_swig_base SwigcptrPushButtonWidget) GetActiveAppearanceState() (_swig_ret
 
 func (_swig_base SwigcptrPushButtonWidget) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PushButtonWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PushButtonWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -21421,7 +21439,7 @@ func (_swig_base SwigcptrPushButtonWidget) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrPushButtonWidget) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PushButtonWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PushButtonWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -21470,7 +21488,7 @@ func (p SwigcptrPushButtonWidget) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrPushButtonWidget) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_PushButtonWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_PushButtonWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -21481,7 +21499,7 @@ func (_swig_base SwigcptrPushButtonWidget) GetCustomData(arg1 string) (_swig_ret
 func (_swig_base SwigcptrPushButtonWidget) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_PushButtonWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_PushButtonWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -21492,7 +21510,7 @@ func (_swig_base SwigcptrPushButtonWidget) SetCustomData(arg1 string, arg2 strin
 
 func (_swig_base SwigcptrPushButtonWidget) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PushButtonWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PushButtonWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -21690,7 +21708,7 @@ func TextWidgetCreate__SWIG_0(arg1 PDFDoc, arg2 Rect, arg3 string) (_swig_ret Te
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (TextWidget)(SwigcptrTextWidget(C._wrap_TextWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_976)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (TextWidget)(SwigcptrTextWidget(C._wrap_TextWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_982)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -21735,7 +21753,7 @@ check_2:
 func (arg1 SwigcptrTextWidget) SetText(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_TextWidget_SetText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_977)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_TextWidget_SetText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_983)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -21844,7 +21862,7 @@ func (_swig_base SwigcptrTextWidget) GetStaticCaptionText() (_swig_ret string) {
 
 func (_swig_base SwigcptrTextWidget) SetStaticCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_TextWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_954)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_TextWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_960)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -21859,7 +21877,7 @@ func (_swig_base SwigcptrTextWidget) GetRolloverCaptionText() (_swig_ret string)
 
 func (_swig_base SwigcptrTextWidget) SetRolloverCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_TextWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_956)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_TextWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_962)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -21874,7 +21892,7 @@ func (_swig_base SwigcptrTextWidget) GetMouseDownCaptionText() (_swig_ret string
 
 func (_swig_base SwigcptrTextWidget) SetMouseDownCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_TextWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_958)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_TextWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_964)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -22137,7 +22155,7 @@ func (_swig_base SwigcptrTextWidget) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrTextWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_TextWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_TextWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -22145,7 +22163,7 @@ func (_swig_base SwigcptrTextWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) 
 
 func (_swig_base SwigcptrTextWidget) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_TextWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_TextWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -22239,7 +22257,7 @@ func (_swig_base SwigcptrTextWidget) GetAppearance__SWIG_0(arg1 PdftronPDFAnnotA
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_TextWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_TextWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -22307,7 +22325,7 @@ func (_swig_base SwigcptrTextWidget) SetAppearance__SWIG_0(arg1 Obj, arg2 Pdftro
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_TextWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_TextWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -22344,7 +22362,7 @@ func (p SwigcptrTextWidget) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrTextWidget) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_TextWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_TextWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -22392,7 +22410,7 @@ func (_swig_base SwigcptrTextWidget) GetActiveAppearanceState() (_swig_ret strin
 
 func (_swig_base SwigcptrTextWidget) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_TextWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_TextWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -22480,7 +22498,7 @@ func (_swig_base SwigcptrTextWidget) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrTextWidget) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_TextWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_TextWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -22529,7 +22547,7 @@ func (p SwigcptrTextWidget) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrTextWidget) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_TextWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_TextWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -22540,7 +22558,7 @@ func (_swig_base SwigcptrTextWidget) GetCustomData(arg1 string) (_swig_ret strin
 func (_swig_base SwigcptrTextWidget) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_TextWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_TextWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -22551,7 +22569,7 @@ func (_swig_base SwigcptrTextWidget) SetCustomData(arg1 string, arg2 string) {
 
 func (_swig_base SwigcptrTextWidget) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_TextWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_TextWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -22751,7 +22769,7 @@ func ComboBoxWidgetCreate__SWIG_0(arg1 PDFDoc, arg2 Rect, arg3 string) (_swig_re
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (ComboBoxWidget)(SwigcptrComboBoxWidget(C._wrap_ComboBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_985)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (ComboBoxWidget)(SwigcptrComboBoxWidget(C._wrap_ComboBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_991)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -22796,7 +22814,7 @@ check_2:
 func (arg1 SwigcptrComboBoxWidget) AddOption(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ComboBoxWidget_AddOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_986)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ComboBoxWidget_AddOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_992)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -22824,7 +22842,7 @@ func (arg1 SwigcptrComboBoxWidget) ReplaceOptions(arg2 VectorString) {
 func (arg1 SwigcptrComboBoxWidget) SetSelectedOption(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ComboBoxWidget_SetSelectedOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_987)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ComboBoxWidget_SetSelectedOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_993)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -22841,7 +22859,7 @@ func (arg1 SwigcptrComboBoxWidget) GetSelectedOption() (_swig_ret string) {
 func (arg1 SwigcptrComboBoxWidget) RemoveOption(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ComboBoxWidget_RemoveOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_989)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ComboBoxWidget_RemoveOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_995)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -22942,7 +22960,7 @@ func (_swig_base SwigcptrComboBoxWidget) GetStaticCaptionText() (_swig_ret strin
 
 func (_swig_base SwigcptrComboBoxWidget) SetStaticCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ComboBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_954)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ComboBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_960)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -22957,7 +22975,7 @@ func (_swig_base SwigcptrComboBoxWidget) GetRolloverCaptionText() (_swig_ret str
 
 func (_swig_base SwigcptrComboBoxWidget) SetRolloverCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ComboBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_956)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ComboBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_962)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -22972,7 +22990,7 @@ func (_swig_base SwigcptrComboBoxWidget) GetMouseDownCaptionText() (_swig_ret st
 
 func (_swig_base SwigcptrComboBoxWidget) SetMouseDownCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ComboBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_958)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ComboBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_964)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -23235,7 +23253,7 @@ func (_swig_base SwigcptrComboBoxWidget) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrComboBoxWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ComboBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_ComboBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -23243,7 +23261,7 @@ func (_swig_base SwigcptrComboBoxWidget) SetUniqueID__SWIG_0(arg1 string, arg2 i
 
 func (_swig_base SwigcptrComboBoxWidget) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ComboBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ComboBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -23337,7 +23355,7 @@ func (_swig_base SwigcptrComboBoxWidget) GetAppearance__SWIG_0(arg1 PdftronPDFAn
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_ComboBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_ComboBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -23405,7 +23423,7 @@ func (_swig_base SwigcptrComboBoxWidget) SetAppearance__SWIG_0(arg1 Obj, arg2 Pd
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_ComboBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_ComboBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -23442,7 +23460,7 @@ func (p SwigcptrComboBoxWidget) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrComboBoxWidget) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ComboBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ComboBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -23490,7 +23508,7 @@ func (_swig_base SwigcptrComboBoxWidget) GetActiveAppearanceState() (_swig_ret s
 
 func (_swig_base SwigcptrComboBoxWidget) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ComboBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ComboBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -23578,7 +23596,7 @@ func (_swig_base SwigcptrComboBoxWidget) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrComboBoxWidget) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ComboBoxWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ComboBoxWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -23627,7 +23645,7 @@ func (p SwigcptrComboBoxWidget) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrComboBoxWidget) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_ComboBoxWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_ComboBoxWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -23638,7 +23656,7 @@ func (_swig_base SwigcptrComboBoxWidget) GetCustomData(arg1 string) (_swig_ret s
 func (_swig_base SwigcptrComboBoxWidget) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ComboBoxWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ComboBoxWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -23649,7 +23667,7 @@ func (_swig_base SwigcptrComboBoxWidget) SetCustomData(arg1 string, arg2 string)
 
 func (_swig_base SwigcptrComboBoxWidget) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ComboBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ComboBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -23854,7 +23872,7 @@ func ListBoxWidgetCreate__SWIG_0(arg1 PDFDoc, arg2 Rect, arg3 string) (_swig_ret
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (ListBoxWidget)(SwigcptrListBoxWidget(C._wrap_ListBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_996)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (ListBoxWidget)(SwigcptrListBoxWidget(C._wrap_ListBoxWidget_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1002)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -23899,7 +23917,7 @@ check_2:
 func (arg1 SwigcptrListBoxWidget) AddOption(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ListBoxWidget_AddOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_997)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ListBoxWidget_AddOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1003)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -23940,7 +23958,7 @@ func (arg1 SwigcptrListBoxWidget) ReplaceOptions(arg2 VectorString) {
 func (arg1 SwigcptrListBoxWidget) RemoveOption(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ListBoxWidget_RemoveOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_998)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ListBoxWidget_RemoveOption_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1004)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -24041,7 +24059,7 @@ func (_swig_base SwigcptrListBoxWidget) GetStaticCaptionText() (_swig_ret string
 
 func (_swig_base SwigcptrListBoxWidget) SetStaticCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ListBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_954)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ListBoxWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_960)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -24056,7 +24074,7 @@ func (_swig_base SwigcptrListBoxWidget) GetRolloverCaptionText() (_swig_ret stri
 
 func (_swig_base SwigcptrListBoxWidget) SetRolloverCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ListBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_956)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ListBoxWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_962)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -24071,7 +24089,7 @@ func (_swig_base SwigcptrListBoxWidget) GetMouseDownCaptionText() (_swig_ret str
 
 func (_swig_base SwigcptrListBoxWidget) SetMouseDownCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ListBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_958)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ListBoxWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_964)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -24334,7 +24352,7 @@ func (_swig_base SwigcptrListBoxWidget) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrListBoxWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ListBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_ListBoxWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -24342,7 +24360,7 @@ func (_swig_base SwigcptrListBoxWidget) SetUniqueID__SWIG_0(arg1 string, arg2 in
 
 func (_swig_base SwigcptrListBoxWidget) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ListBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ListBoxWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -24436,7 +24454,7 @@ func (_swig_base SwigcptrListBoxWidget) GetAppearance__SWIG_0(arg1 PdftronPDFAnn
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_ListBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_ListBoxWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -24504,7 +24522,7 @@ func (_swig_base SwigcptrListBoxWidget) SetAppearance__SWIG_0(arg1 Obj, arg2 Pdf
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_ListBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_ListBoxWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -24541,7 +24559,7 @@ func (p SwigcptrListBoxWidget) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrListBoxWidget) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ListBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ListBoxWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -24589,7 +24607,7 @@ func (_swig_base SwigcptrListBoxWidget) GetActiveAppearanceState() (_swig_ret st
 
 func (_swig_base SwigcptrListBoxWidget) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ListBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ListBoxWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -24677,7 +24695,7 @@ func (_swig_base SwigcptrListBoxWidget) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrListBoxWidget) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ListBoxWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ListBoxWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -24726,7 +24744,7 @@ func (p SwigcptrListBoxWidget) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrListBoxWidget) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_ListBoxWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_ListBoxWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -24737,7 +24755,7 @@ func (_swig_base SwigcptrListBoxWidget) GetCustomData(arg1 string) (_swig_ret st
 func (_swig_base SwigcptrListBoxWidget) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ListBoxWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ListBoxWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -24748,7 +24766,7 @@ func (_swig_base SwigcptrListBoxWidget) SetCustomData(arg1 string, arg2 string) 
 
 func (_swig_base SwigcptrListBoxWidget) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_ListBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_ListBoxWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25071,7 +25089,7 @@ func (_swig_base SwigcptrRadioButtonWidget) GetStaticCaptionText() (_swig_ret st
 
 func (_swig_base SwigcptrRadioButtonWidget) SetStaticCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_RadioButtonWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_954)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_RadioButtonWidget_SetStaticCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_960)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25086,7 +25104,7 @@ func (_swig_base SwigcptrRadioButtonWidget) GetRolloverCaptionText() (_swig_ret 
 
 func (_swig_base SwigcptrRadioButtonWidget) SetRolloverCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_RadioButtonWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_956)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_RadioButtonWidget_SetRolloverCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_962)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25101,7 +25119,7 @@ func (_swig_base SwigcptrRadioButtonWidget) GetMouseDownCaptionText() (_swig_ret
 
 func (_swig_base SwigcptrRadioButtonWidget) SetMouseDownCaptionText(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_RadioButtonWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_958)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_RadioButtonWidget_SetMouseDownCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_964)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25364,7 +25382,7 @@ func (_swig_base SwigcptrRadioButtonWidget) GetUniqueID() (_swig_ret Obj) {
 func (_swig_base SwigcptrRadioButtonWidget) SetUniqueID__SWIG_0(arg1 string, arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_RadioButtonWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_384)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
+	C._wrap_RadioButtonWidget_SetUniqueID__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25372,7 +25390,7 @@ func (_swig_base SwigcptrRadioButtonWidget) SetUniqueID__SWIG_0(arg1 string, arg
 
 func (_swig_base SwigcptrRadioButtonWidget) SetUniqueID__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_RadioButtonWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_385)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_RadioButtonWidget_SetUniqueID__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_389)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25466,7 +25484,7 @@ func (_swig_base SwigcptrRadioButtonWidget) GetAppearance__SWIG_0(arg1 PdftronPD
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_RadioButtonWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_386)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_RadioButtonWidget_GetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -25534,7 +25552,7 @@ func (_swig_base SwigcptrRadioButtonWidget) SetAppearance__SWIG_0(arg1 Obj, arg2
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_RadioButtonWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_387)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_RadioButtonWidget_SetAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -25571,7 +25589,7 @@ func (p SwigcptrRadioButtonWidget) SetAppearance(a ...interface{}) {
 func (_swig_base SwigcptrRadioButtonWidget) RemoveAppearance__SWIG_0(arg1 PdftronPDFAnnotAnnotationState, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_RadioButtonWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_388)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_RadioButtonWidget_RemoveAppearance__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), C.swig_intgo(_swig_i_0), *(*C.swig_type_392)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -25619,7 +25637,7 @@ func (_swig_base SwigcptrRadioButtonWidget) GetActiveAppearanceState() (_swig_re
 
 func (_swig_base SwigcptrRadioButtonWidget) SetActiveAppearanceState(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_RadioButtonWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_390)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_RadioButtonWidget_SetActiveAppearanceState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25707,7 +25725,7 @@ func (_swig_base SwigcptrRadioButtonWidget) SetOptionalContent(arg1 Obj) {
 
 func (_swig_base SwigcptrRadioButtonWidget) SetContents(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_RadioButtonWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_391)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_RadioButtonWidget_SetContents_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25756,7 +25774,7 @@ func (p SwigcptrRadioButtonWidget) RefreshAppearance(a ...interface{}) {
 func (_swig_base SwigcptrRadioButtonWidget) GetCustomData(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_RadioButtonWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_394)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_RadioButtonWidget_GetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_398)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -25767,7 +25785,7 @@ func (_swig_base SwigcptrRadioButtonWidget) GetCustomData(arg1 string) (_swig_re
 func (_swig_base SwigcptrRadioButtonWidget) SetCustomData(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_RadioButtonWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_395)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_396)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_RadioButtonWidget_SetCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_399)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_400)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25778,7 +25796,7 @@ func (_swig_base SwigcptrRadioButtonWidget) SetCustomData(arg1 string, arg2 stri
 
 func (_swig_base SwigcptrRadioButtonWidget) DeleteCustomData(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_RadioButtonWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_397)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_RadioButtonWidget_DeleteCustomData_pdftron_e64018f00020cc89(C.uintptr_t(_swig_base), *(*C.swig_type_401)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -25947,7 +25965,7 @@ func RadioButtonGroupCreate__SWIG_0(arg1 PDFDoc, arg2 string) (_swig_ret RadioBu
 	var swig_r RadioButtonGroup
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (RadioButtonGroup)(SwigcptrRadioButtonGroup(C._wrap_RadioButtonGroup_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1011)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (RadioButtonGroup)(SwigcptrRadioButtonGroup(C._wrap_RadioButtonGroup_Create__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1017)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -25977,7 +25995,7 @@ func (arg1 SwigcptrRadioButtonGroup) Add__SWIG_0(arg2 Rect, arg3 string) (_swig_
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (RadioButtonWidget)(SwigcptrRadioButtonWidget(C._wrap_RadioButtonGroup_Add__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1012)(unsafe.Pointer(&_swig_i_2)))))
+	swig_r = (RadioButtonWidget)(SwigcptrRadioButtonWidget(C._wrap_RadioButtonGroup_Add__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1018)(unsafe.Pointer(&_swig_i_2)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -26909,7 +26927,7 @@ func (arg1 SwigcptrElementBuilder) CreateTextRun__SWIG_0(arg2 string, arg3 Font,
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
 	_swig_i_3 := arg4
-	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateTextRun__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1014)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2), C.double(_swig_i_3))))
+	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateTextRun__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1020)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2), C.double(_swig_i_3))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -26920,7 +26938,7 @@ func (arg1 SwigcptrElementBuilder) CreateTextRun__SWIG_1(arg2 string) (_swig_ret
 	var swig_r Element
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateTextRun__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1015)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateTextRun__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1021)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27113,7 +27131,7 @@ func (arg1 SwigcptrElementBuilder) CreateMarkedContentBeginInlineProperties(arg2
 	var swig_r Element
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateMarkedContentBeginInlineProperties_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1016)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateMarkedContentBeginInlineProperties_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1022)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27125,7 +27143,7 @@ func (arg1 SwigcptrElementBuilder) CreateMarkedContentBegin(arg2 string, arg3 Ob
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateMarkedContentBegin_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1017)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))))
+	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateMarkedContentBegin_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1023)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27143,7 +27161,7 @@ func (arg1 SwigcptrElementBuilder) CreateMarkedContentPointInlineProperties(arg2
 	var swig_r Element
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateMarkedContentPointInlineProperties_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1018)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateMarkedContentPointInlineProperties_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1024)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27155,7 +27173,7 @@ func (arg1 SwigcptrElementBuilder) CreateMarkedContentPoint(arg2 string, arg3 Ob
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateMarkedContentPoint_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1019)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))))
+	swig_r = (Element)(SwigcptrElement(C._wrap_ElementBuilder_CreateMarkedContentPoint_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1025)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27415,7 +27433,7 @@ func (arg1 SwigcptrElementReader) GetFont(arg2 string) (_swig_ret Obj) {
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetFont_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1020)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetFont_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1026)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27436,7 +27454,7 @@ func (arg1 SwigcptrElementReader) GetXObject(arg2 string) (_swig_ret Obj) {
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetXObject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1021)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetXObject_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1027)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27457,7 +27475,7 @@ func (arg1 SwigcptrElementReader) GetShading(arg2 string) (_swig_ret Obj) {
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetShading_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1022)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetShading_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1028)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27478,7 +27496,7 @@ func (arg1 SwigcptrElementReader) GetColorSpace(arg2 string) (_swig_ret Obj) {
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetColorSpace_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1023)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetColorSpace_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1029)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27499,7 +27517,7 @@ func (arg1 SwigcptrElementReader) GetPattern(arg2 string) (_swig_ret Obj) {
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetPattern_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1024)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetPattern_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1030)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27520,7 +27538,7 @@ func (arg1 SwigcptrElementReader) GetExtGState(arg2 string) (_swig_ret Obj) {
 	var swig_r Obj
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetExtGState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1025)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (Obj)(SwigcptrObj(C._wrap_ElementReader_GetExtGState_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1031)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -27831,7 +27849,7 @@ func (arg1 SwigcptrElementWriter) WriteBuffer(arg2 VectorUnChar) {
 func (arg1 SwigcptrElementWriter) WriteString(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_ElementWriter_WriteString_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1026)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_ElementWriter_WriteString_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1032)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -28581,7 +28599,7 @@ func NewHighlights__SWIG_1(arg1 Highlights) (_swig_ret Highlights) {
 func (arg1 SwigcptrHighlights) Load(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Highlights_Load_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1041)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Highlights_Load_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1047)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -28590,7 +28608,7 @@ func (arg1 SwigcptrHighlights) Load(arg2 string) {
 func (arg1 SwigcptrHighlights) Save(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Highlights_Save_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1042)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Highlights_Save_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1048)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -28902,7 +28920,7 @@ func (arg1 SwigcptrOCROptions) AddLang(arg2 string) (_swig_ret OCROptions) {
 	var swig_r OCROptions
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (OCROptions)(SwigcptrOCROptions(C._wrap_OCROptions_AddLang_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1047)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (OCROptions)(SwigcptrOCROptions(C._wrap_OCROptions_AddLang_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1053)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -28969,7 +28987,7 @@ func (arg1 SwigcptrOCROptions) SetOCREngine(arg2 string) (_swig_ret OCROptions) 
 	var swig_r OCROptions
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (OCROptions)(SwigcptrOCROptions(C._wrap_OCROptions_SetOCREngine_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1049)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (OCROptions)(SwigcptrOCROptions(C._wrap_OCROptions_SetOCREngine_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1055)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -29024,7 +29042,7 @@ func OCRModuleImageToPDF(arg1 PDFDoc, arg2 string, arg3 OCROptions) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_OCRModule_ImageToPDF_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1050)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
+	C._wrap_OCRModule_ImageToPDF_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1056)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -29041,7 +29059,7 @@ func OCRModuleGetOCRJsonFromImage(arg1 PDFDoc, arg2 string, arg3 OCROptions) (_s
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	swig_r_p := C._wrap_OCRModule_GetOCRJsonFromImage_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1052)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
+	swig_r_p := C._wrap_OCRModule_GetOCRJsonFromImage_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1058)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
@@ -29061,7 +29079,7 @@ func OCRModuleGetOCRJsonFromPDF(arg1 PDFDoc, arg2 OCROptions) (_swig_ret string)
 func OCRModuleApplyOCRJsonToPDF(arg1 PDFDoc, arg2 string) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	C._wrap_OCRModule_ApplyOCRJsonToPDF_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1054)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_OCRModule_ApplyOCRJsonToPDF_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1060)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -29072,7 +29090,7 @@ func OCRModuleGetOCRXmlFromImage(arg1 PDFDoc, arg2 string, arg3 OCROptions) (_sw
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	swig_r_p := C._wrap_OCRModule_GetOCRXmlFromImage_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1056)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
+	swig_r_p := C._wrap_OCRModule_GetOCRXmlFromImage_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1062)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
@@ -29092,7 +29110,7 @@ func OCRModuleGetOCRXmlFromPDF(arg1 PDFDoc, arg2 OCROptions) (_swig_ret string) 
 func OCRModuleApplyOCRXmlToPDF(arg1 PDFDoc, arg2 string) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	C._wrap_OCRModule_ApplyOCRXmlToPDF_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1058)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_OCRModule_ApplyOCRXmlToPDF_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1064)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -29733,7 +29751,7 @@ func NewBitmapInfo__SWIG_0(arg1 int, arg2 int, arg3 int, arg4 float64, arg5 stri
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5
-	swig_r = (BitmapInfo)(SwigcptrBitmapInfo(C._wrap_new_BitmapInfo__SWIG_0_pdftron_e64018f00020cc89(C.swig_intgo(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.double(_swig_i_3), *(*C.swig_type_1059)(unsafe.Pointer(&_swig_i_4)))))
+	swig_r = (BitmapInfo)(SwigcptrBitmapInfo(C._wrap_new_BitmapInfo__SWIG_0_pdftron_e64018f00020cc89(C.swig_intgo(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.double(_swig_i_3), *(*C.swig_type_1065)(unsafe.Pointer(&_swig_i_4)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg5
 	}
@@ -30084,7 +30102,7 @@ func (arg1 SwigcptrPDFDraw) Export__SWIG_0(arg2 Page, arg3 string, arg4 string, 
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5.Swigcptr()
-	C._wrap_PDFDraw_Export__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1060)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1061)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))
+	C._wrap_PDFDraw_Export__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1066)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1067)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -30098,7 +30116,7 @@ func (arg1 SwigcptrPDFDraw) Export__SWIG_1(arg2 Page, arg3 string, arg4 string) 
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	C._wrap_PDFDraw_Export__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1062)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1063)(unsafe.Pointer(&_swig_i_3)))
+	C._wrap_PDFDraw_Export__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1068)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1069)(unsafe.Pointer(&_swig_i_3)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -30111,7 +30129,7 @@ func (arg1 SwigcptrPDFDraw) Export__SWIG_2(arg2 Page, arg3 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	C._wrap_PDFDraw_Export__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1064)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_PDFDraw_Export__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1070)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -30123,7 +30141,7 @@ func (arg1 SwigcptrPDFDraw) Export__SWIG_3(arg2 Page, arg3 Filter, arg4 string, 
 	_swig_i_2 := arg3.Swigcptr()
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5.Swigcptr()
-	C._wrap_PDFDraw_Export__SWIG_3_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.uintptr_t(_swig_i_2), *(*C.swig_type_1065)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))
+	C._wrap_PDFDraw_Export__SWIG_3_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.uintptr_t(_swig_i_2), *(*C.swig_type_1071)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg4
 	}
@@ -30134,7 +30152,7 @@ func (arg1 SwigcptrPDFDraw) Export__SWIG_4(arg2 Page, arg3 Filter, arg4 string) 
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3.Swigcptr()
 	_swig_i_3 := arg4
-	C._wrap_PDFDraw_Export__SWIG_4_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.uintptr_t(_swig_i_2), *(*C.swig_type_1066)(unsafe.Pointer(&_swig_i_3)))
+	C._wrap_PDFDraw_Export__SWIG_4_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.uintptr_t(_swig_i_2), *(*C.swig_type_1072)(unsafe.Pointer(&_swig_i_3)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg4
 	}
@@ -30385,7 +30403,7 @@ func WebFontDownloaderClearCache() {
 
 func WebFontDownloaderSetCustomWebFontURL(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_WebFontDownloader_SetCustomWebFontURL_pdftron_e64018f00020cc89(*(*C.swig_type_1067)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_WebFontDownloader_SetCustomWebFontURL_pdftron_e64018f00020cc89(*(*C.swig_type_1073)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -30419,7 +30437,7 @@ func (p SwigcptrPDFNet) SwigIsPDFNet() {
 func PDFNetInitialize__SWIG_0(arg1 string, arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_PDFNet_Initialize__SWIG_0_pdftron_e64018f00020cc89(*(*C.swig_type_1068)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_1069)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_PDFNet_Initialize__SWIG_0_pdftron_e64018f00020cc89(*(*C.swig_type_1074)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_1075)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -30447,7 +30465,7 @@ func PDFNetIsJavaScriptEnabled() (_swig_ret bool) {
 func PDFNetSetResourcesPath(arg1 string) (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_PDFNet_SetResourcesPath_pdftron_e64018f00020cc89(*(*C.swig_type_1070)(unsafe.Pointer(&_swig_i_0))))
+	swig_r = (bool)(C._wrap_PDFNet_SetResourcesPath_pdftron_e64018f00020cc89(*(*C.swig_type_1076)(unsafe.Pointer(&_swig_i_0))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -30463,7 +30481,7 @@ func PDFNetGetResourcesPath() (_swig_ret string) {
 
 func PDFNetAddResourceSearchPath(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PDFNet_AddResourceSearchPath_pdftron_e64018f00020cc89(*(*C.swig_type_1072)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PDFNet_AddResourceSearchPath_pdftron_e64018f00020cc89(*(*C.swig_type_1078)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -30521,7 +30539,7 @@ func PDFNetSetColorManagement(a ...interface{}) {
 
 func PDFNetSetDefaultDeviceCMYKProfile__SWIG_0(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PDFNet_SetDefaultDeviceCMYKProfile__SWIG_0_pdftron_e64018f00020cc89(*(*C.swig_type_1073)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PDFNet_SetDefaultDeviceCMYKProfile__SWIG_0_pdftron_e64018f00020cc89(*(*C.swig_type_1079)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -30551,7 +30569,7 @@ check_1:
 
 func PDFNetSetDefaultDeviceRGBProfile__SWIG_0(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PDFNet_SetDefaultDeviceRGBProfile__SWIG_0_pdftron_e64018f00020cc89(*(*C.swig_type_1074)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PDFNet_SetDefaultDeviceRGBProfile__SWIG_0_pdftron_e64018f00020cc89(*(*C.swig_type_1080)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -30621,7 +30639,7 @@ func PDFNetSetDefaultFlateCompressionLevel(arg1 int) {
 func PDFNetSetViewerCache(arg1 int64, arg2 bool) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_PDFNet_SetViewerCache_pdftron_e64018f00020cc89(C.swig_type_1075(_swig_i_0), C._Bool(_swig_i_1))
+	C._wrap_PDFNet_SetViewerCache_pdftron_e64018f00020cc89(C.swig_type_1081(_swig_i_0), C._Bool(_swig_i_1))
 }
 
 type PdftronPDFNetCharacterOrdering int
@@ -30671,7 +30689,7 @@ func PDFNetAddFontSubst__SWIG_0(arg1 string, arg2 string) (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (bool)(C._wrap_PDFNet_AddFontSubst__SWIG_0_pdftron_e64018f00020cc89(*(*C.swig_type_1076)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_1077)(unsafe.Pointer(&_swig_i_1))))
+	swig_r = (bool)(C._wrap_PDFNet_AddFontSubst__SWIG_0_pdftron_e64018f00020cc89(*(*C.swig_type_1082)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_1083)(unsafe.Pointer(&_swig_i_1))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -30685,7 +30703,7 @@ func PDFNetAddFontSubst__SWIG_1(arg1 PdftronPDFNetCharacterOrdering, arg2 string
 	var swig_r bool
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (bool)(C._wrap_PDFNet_AddFontSubst__SWIG_1_pdftron_e64018f00020cc89(C.swig_intgo(_swig_i_0), *(*C.swig_type_1078)(unsafe.Pointer(&_swig_i_1))))
+	swig_r = (bool)(C._wrap_PDFNet_AddFontSubst__SWIG_1_pdftron_e64018f00020cc89(C.swig_intgo(_swig_i_0), *(*C.swig_type_1084)(unsafe.Pointer(&_swig_i_1))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -30709,7 +30727,7 @@ check_1:
 
 func PDFNetSetTempPath(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PDFNet_SetTempPath_pdftron_e64018f00020cc89(*(*C.swig_type_1079)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PDFNet_SetTempPath_pdftron_e64018f00020cc89(*(*C.swig_type_1085)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -30717,7 +30735,7 @@ func PDFNetSetTempPath(arg1 string) {
 
 func PDFNetSetPersistentCachePath(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PDFNet_SetPersistentCachePath_pdftron_e64018f00020cc89(*(*C.swig_type_1080)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PDFNet_SetPersistentCachePath_pdftron_e64018f00020cc89(*(*C.swig_type_1086)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -30855,7 +30873,7 @@ func PDFNetSetConnectionErrorProc(arg1 Callback) {
 
 func PDFNetInitialize__SWIG_1(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_PDFNet_Initialize__SWIG_1_pdftron_e64018f00020cc89(*(*C.swig_type_1083)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_PDFNet_Initialize__SWIG_1_pdftron_e64018f00020cc89(*(*C.swig_type_1089)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -32167,7 +32185,7 @@ func PDFViewSetViewerCache(arg1 SDFDoc, arg2 int64, arg3 bool) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_PDFView_SetViewerCache_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.swig_type_1084(_swig_i_1), C._Bool(_swig_i_2))
+	C._wrap_PDFView_SetViewerCache_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.swig_type_1090(_swig_i_1), C._Bool(_swig_i_2))
 }
 
 func (arg1 SwigcptrPDFView) Destroy() {
@@ -32297,7 +32315,7 @@ func (arg1 SwigcptrPDFView) SetupThumbnails(arg2 bool, arg3 bool, arg4 bool, arg
 	_swig_i_4 := arg5
 	_swig_i_5 := arg6
 	_swig_i_6 := arg7
-	C._wrap_PDFView_SetupThumbnails_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1), C._Bool(_swig_i_2), C._Bool(_swig_i_3), C.swig_intgo(_swig_i_4), C.swig_type_1085(_swig_i_5), C.double(_swig_i_6))
+	C._wrap_PDFView_SetupThumbnails_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1), C._Bool(_swig_i_2), C._Bool(_swig_i_3), C.swig_intgo(_swig_i_4), C.swig_type_1091(_swig_i_5), C.double(_swig_i_6))
 }
 
 func (arg1 SwigcptrPDFView) ClearThumbCache() {
@@ -32355,7 +32373,7 @@ func (arg1 SwigcptrPDFView) FindTextAsync(arg2 string, arg3 bool, arg4 bool, arg
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5
 	_swig_i_5 := arg6
-	C._wrap_PDFView_FindTextAsync_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1087)(unsafe.Pointer(&_swig_i_1)), C._Bool(_swig_i_2), C._Bool(_swig_i_3), C._Bool(_swig_i_4), C._Bool(_swig_i_5))
+	C._wrap_PDFView_FindTextAsync_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1093)(unsafe.Pointer(&_swig_i_1)), C._Bool(_swig_i_2), C._Bool(_swig_i_3), C._Bool(_swig_i_4), C._Bool(_swig_i_5))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32404,7 +32422,7 @@ func (arg1 SwigcptrPDFView) Redo() (_swig_ret string) {
 func (arg1 SwigcptrPDFView) TakeSnapshot(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_PDFView_TakeSnapshot_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1090)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_PDFView_TakeSnapshot_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1096)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32450,7 +32468,7 @@ func (arg1 SwigcptrPDFView) GetExternalAnnotManager__SWIG_0(arg2 string, arg3 Ex
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	swig_r = (ExternalAnnotManager)(SwigcptrExternalAnnotManager(C._wrap_PDFView_GetExternalAnnotManager__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1093)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))))
+	swig_r = (ExternalAnnotManager)(SwigcptrExternalAnnotManager(C._wrap_PDFView_GetExternalAnnotManager__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1099)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32461,7 +32479,7 @@ func (arg1 SwigcptrPDFView) GetExternalAnnotManager__SWIG_1(arg2 string) (_swig_
 	var swig_r ExternalAnnotManager
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (ExternalAnnotManager)(SwigcptrExternalAnnotManager(C._wrap_PDFView_GetExternalAnnotManager__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1094)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (ExternalAnnotManager)(SwigcptrExternalAnnotManager(C._wrap_PDFView_GetExternalAnnotManager__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1100)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32644,7 +32662,7 @@ func PrintStartPrintJob__SWIG_0(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_5 := arg6.Swigcptr()
 	_swig_i_6 := arg7
 	_swig_i_7 := arg8.Swigcptr()
-	C._wrap_Print_StartPrintJob__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1095)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1096)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1097)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5), C.swig_voidp(_swig_i_6), C.uintptr_t(_swig_i_7))
+	C._wrap_Print_StartPrintJob__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1101)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1102)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1103)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5), C.swig_voidp(_swig_i_6), C.uintptr_t(_swig_i_7))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32664,7 +32682,7 @@ func PrintStartPrintJob__SWIG_1(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_4 := arg5.Swigcptr()
 	_swig_i_5 := arg6.Swigcptr()
 	_swig_i_6 := arg7
-	C._wrap_Print_StartPrintJob__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1098)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1099)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1100)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5), C.swig_voidp(_swig_i_6))
+	C._wrap_Print_StartPrintJob__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1104)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1105)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1106)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5), C.swig_voidp(_swig_i_6))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32683,7 +32701,7 @@ func PrintStartPrintJob__SWIG_2(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5.Swigcptr()
 	_swig_i_5 := arg6.Swigcptr()
-	C._wrap_Print_StartPrintJob__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1101)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1102)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1103)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5))
+	C._wrap_Print_StartPrintJob__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1107)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1108)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1109)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32701,7 +32719,7 @@ func PrintStartPrintJob__SWIG_3(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5.Swigcptr()
-	C._wrap_Print_StartPrintJob__SWIG_3_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1104)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1105)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1106)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))
+	C._wrap_Print_StartPrintJob__SWIG_3_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1110)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1111)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1112)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32718,7 +32736,7 @@ func PrintStartPrintJob__SWIG_4(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	C._wrap_Print_StartPrintJob__SWIG_4_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1107)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1108)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1109)(unsafe.Pointer(&_swig_i_3)))
+	C._wrap_Print_StartPrintJob__SWIG_4_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1113)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1114)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1115)(unsafe.Pointer(&_swig_i_3)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32739,7 +32757,7 @@ func PrintStartPrintJob__SWIG_5(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_5 := arg6.Swigcptr()
 	_swig_i_6 := arg7
 	_swig_i_7 := arg8.Swigcptr()
-	C._wrap_Print_StartPrintJob__SWIG_5_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1110)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1111)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1112)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5), C.swig_voidp(_swig_i_6), C.uintptr_t(_swig_i_7))
+	C._wrap_Print_StartPrintJob__SWIG_5_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1116)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1117)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1118)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5), C.swig_voidp(_swig_i_6), C.uintptr_t(_swig_i_7))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32759,7 +32777,7 @@ func PrintStartPrintJob__SWIG_6(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_4 := arg5.Swigcptr()
 	_swig_i_5 := arg6.Swigcptr()
 	_swig_i_6 := arg7
-	C._wrap_Print_StartPrintJob__SWIG_6_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1113)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1114)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1115)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5), C.swig_voidp(_swig_i_6))
+	C._wrap_Print_StartPrintJob__SWIG_6_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1119)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1120)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1121)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5), C.swig_voidp(_swig_i_6))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32778,7 +32796,7 @@ func PrintStartPrintJob__SWIG_7(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5.Swigcptr()
 	_swig_i_5 := arg6.Swigcptr()
-	C._wrap_Print_StartPrintJob__SWIG_7_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1116)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1117)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1118)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5))
+	C._wrap_Print_StartPrintJob__SWIG_7_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1122)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1123)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1124)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4), C.uintptr_t(_swig_i_5))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32796,7 +32814,7 @@ func PrintStartPrintJob__SWIG_8(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5.Swigcptr()
-	C._wrap_Print_StartPrintJob__SWIG_8_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1119)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1120)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1121)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))
+	C._wrap_Print_StartPrintJob__SWIG_8_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1125)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1126)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1127)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -32813,7 +32831,7 @@ func PrintStartPrintJob__SWIG_9(arg1 PDFDoc, arg2 string, arg3 string, arg4 stri
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	C._wrap_Print_StartPrintJob__SWIG_9_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1122)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1123)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1124)(unsafe.Pointer(&_swig_i_3)))
+	C._wrap_Print_StartPrintJob__SWIG_9_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1128)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1129)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1130)(unsafe.Pointer(&_swig_i_3)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34177,7 +34195,7 @@ func (p SwigcptrHTML2PDF) SwigIsHTML2PDF() {
 func (arg1 SwigcptrHTML2PDF) InsertFromURL__SWIG_0(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_HTML2PDF_InsertFromURL__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1125)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_HTML2PDF_InsertFromURL__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1131)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34187,7 +34205,7 @@ func (arg1 SwigcptrHTML2PDF) InsertFromURL__SWIG_1(arg2 string, arg3 WebPageSett
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_HTML2PDF_InsertFromURL__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1126)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
+	C._wrap_HTML2PDF_InsertFromURL__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1132)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34209,7 +34227,7 @@ func (p SwigcptrHTML2PDF) InsertFromURL(a ...interface{}) {
 func (arg1 SwigcptrHTML2PDF) InsertFromHtmlString__SWIG_0(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_HTML2PDF_InsertFromHtmlString__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1127)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_HTML2PDF_InsertFromHtmlString__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1133)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34219,7 +34237,7 @@ func (arg1 SwigcptrHTML2PDF) InsertFromHtmlString__SWIG_1(arg2 string, arg3 WebP
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_HTML2PDF_InsertFromHtmlString__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1128)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
+	C._wrap_HTML2PDF_InsertFromHtmlString__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1134)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34292,7 +34310,7 @@ func (arg1 SwigcptrHTML2PDF) SetCompatibilityMode(arg2 bool) {
 func (arg1 SwigcptrHTML2PDF) SetLogFilePath(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_HTML2PDF_SetLogFilePath_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1129)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_HTML2PDF_SetLogFilePath_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1135)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34308,7 +34326,7 @@ func (arg1 SwigcptrHTML2PDF) GetLog() (_swig_ret string) {
 
 func HTML2PDFSetModulePath(arg1 string) {
 	_swig_i_0 := arg1
-	C._wrap_HTML2PDF_SetModulePath_pdftron_e64018f00020cc89(*(*C.swig_type_1131)(unsafe.Pointer(&_swig_i_0)))
+	C._wrap_HTML2PDF_SetModulePath_pdftron_e64018f00020cc89(*(*C.swig_type_1137)(unsafe.Pointer(&_swig_i_0)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -34341,7 +34359,7 @@ func (arg1 SwigcptrHTML2PDF) SetPaperSize__SWIG_1(arg2 string, arg3 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_HTML2PDF_SetPaperSize__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1132)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1133)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_HTML2PDF_SetPaperSize__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1138)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1139)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34404,7 +34422,7 @@ func (p SwigcptrHTML2PDF) SetOutline(a ...interface{}) {
 func (arg1 SwigcptrHTML2PDF) DumpOutline(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_HTML2PDF_DumpOutline_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1134)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_HTML2PDF_DumpOutline_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1140)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34422,7 +34440,7 @@ func (arg1 SwigcptrHTML2PDF) SetMargins(arg2 string, arg3 string, arg4 string, a
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5
-	C._wrap_HTML2PDF_SetMargins_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1135)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1136)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1137)(unsafe.Pointer(&_swig_i_3)), *(*C.swig_type_1138)(unsafe.Pointer(&_swig_i_4)))
+	C._wrap_HTML2PDF_SetMargins_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1141)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1142)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1143)(unsafe.Pointer(&_swig_i_3)), *(*C.swig_type_1144)(unsafe.Pointer(&_swig_i_4)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34440,7 +34458,7 @@ func (arg1 SwigcptrHTML2PDF) SetMargins(arg2 string, arg3 string, arg4 string, a
 func (arg1 SwigcptrHTML2PDF) SetHeader(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_HTML2PDF_SetHeader_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1139)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_HTML2PDF_SetHeader_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1145)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34449,7 +34467,7 @@ func (arg1 SwigcptrHTML2PDF) SetHeader(arg2 string) {
 func (arg1 SwigcptrHTML2PDF) SetFooter(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_HTML2PDF_SetFooter_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1140)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_HTML2PDF_SetFooter_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1146)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34470,7 +34488,7 @@ func (arg1 SwigcptrHTML2PDF) SetImageQuality(arg2 int) {
 func (arg1 SwigcptrHTML2PDF) SetCookieJar(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_HTML2PDF_SetCookieJar_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1141)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_HTML2PDF_SetCookieJar_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1147)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34480,7 +34498,7 @@ func (arg1 SwigcptrHTML2PDF) AddCookie(arg2 string, arg3 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_HTML2PDF_AddCookie_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1142)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1143)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_HTML2PDF_AddCookie_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1148)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1149)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34493,7 +34511,7 @@ func (arg1 SwigcptrHTML2PDF) SetCustomHeader(arg2 string, arg3 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_HTML2PDF_SetCustomHeader_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1144)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1145)(unsafe.Pointer(&_swig_i_2)))
+	C._wrap_HTML2PDF_SetCustomHeader_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1150)(unsafe.Pointer(&_swig_i_1)), *(*C.swig_type_1151)(unsafe.Pointer(&_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34609,7 +34627,7 @@ func (arg1 SwigcptrProxy) SetType(arg2 PdftronPDFProxyType) {
 func (arg1 SwigcptrProxy) SetHost(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Proxy_SetHost_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1146)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Proxy_SetHost_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1152)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34624,7 +34642,7 @@ func (arg1 SwigcptrProxy) SetPort(arg2 int) {
 func (arg1 SwigcptrProxy) SetUsername(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Proxy_SetUsername_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1147)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Proxy_SetUsername_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1153)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34633,7 +34651,7 @@ func (arg1 SwigcptrProxy) SetUsername(arg2 string) {
 func (arg1 SwigcptrProxy) SetPassword(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_Proxy_SetPassword_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1148)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_Proxy_SetPassword_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1154)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34723,7 +34741,7 @@ func (arg1 SwigcptrWebPageSettings) SetMinimumFontSize(arg2 int) {
 func (arg1 SwigcptrWebPageSettings) SetDefaultEncoding(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_WebPageSettings_SetDefaultEncoding_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1149)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_WebPageSettings_SetDefaultEncoding_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1155)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34732,7 +34750,7 @@ func (arg1 SwigcptrWebPageSettings) SetDefaultEncoding(arg2 string) {
 func (arg1 SwigcptrWebPageSettings) SetUserStyleSheet(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_WebPageSettings_SetUserStyleSheet_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1150)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_WebPageSettings_SetUserStyleSheet_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1156)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34759,7 +34777,7 @@ func (arg1 SwigcptrWebPageSettings) SetIncludeInOutline(arg2 bool) {
 func (arg1 SwigcptrWebPageSettings) SetUsername(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_WebPageSettings_SetUsername_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1151)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_WebPageSettings_SetUsername_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1157)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34768,7 +34786,7 @@ func (arg1 SwigcptrWebPageSettings) SetUsername(arg2 string) {
 func (arg1 SwigcptrWebPageSettings) SetPassword(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_WebPageSettings_SetPassword_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1152)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_WebPageSettings_SetPassword_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1158)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34953,7 +34971,7 @@ func (arg1 SwigcptrTOCSettings) SetLinks(arg2 bool) {
 func (arg1 SwigcptrTOCSettings) SetCaptionText(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_TOCSettings_SetCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1153)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_TOCSettings_SetCaptionText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1159)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -34974,7 +34992,7 @@ func (arg1 SwigcptrTOCSettings) SetTextSizeShrink(arg2 float64) {
 func (arg1 SwigcptrTOCSettings) SetXsl(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_TOCSettings_SetXsl_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1154)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_TOCSettings_SetXsl_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1160)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -35144,7 +35162,7 @@ func (arg1 SwigcptrStamper) StampText(arg2 PDFDoc, arg3 string, arg4 PageSet) {
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4.Swigcptr()
-	C._wrap_Stamper_StampText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1155)(unsafe.Pointer(&_swig_i_2)), C.uintptr_t(_swig_i_3))
+	C._wrap_Stamper_StampText_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1161)(unsafe.Pointer(&_swig_i_2)), C.uintptr_t(_swig_i_3))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -36198,7 +36216,7 @@ func NewSearchResult__SWIG_2(arg1 int, arg2 TRN_TextSearchResultCode, arg3 strin
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5.Swigcptr()
-	swig_r = (SearchResult)(SwigcptrSearchResult(C._wrap_new_SearchResult__SWIG_2_pdftron_e64018f00020cc89(C.swig_intgo(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1165)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1166)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))))
+	swig_r = (SearchResult)(SwigcptrSearchResult(C._wrap_new_SearchResult__SWIG_2_pdftron_e64018f00020cc89(C.swig_intgo(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1171)(unsafe.Pointer(&_swig_i_2)), *(*C.swig_type_1172)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -36331,7 +36349,7 @@ func (arg1 SwigcptrTextSearch) Begin__SWIG_0(arg2 PDFDoc, arg3 string, arg4 uint
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5
 	_swig_i_5 := arg6
-	swig_r = (bool)(C._wrap_TextSearch_Begin__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1167)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5)))
+	swig_r = (bool)(C._wrap_TextSearch_Begin__SWIG_0_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1173)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -36345,7 +36363,7 @@ func (arg1 SwigcptrTextSearch) Begin__SWIG_1(arg2 PDFDoc, arg3 string, arg4 uint
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5
-	swig_r = (bool)(C._wrap_TextSearch_Begin__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1168)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3), C.swig_intgo(_swig_i_4)))
+	swig_r = (bool)(C._wrap_TextSearch_Begin__SWIG_1_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1174)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3), C.swig_intgo(_swig_i_4)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -36358,7 +36376,7 @@ func (arg1 SwigcptrTextSearch) Begin__SWIG_2(arg2 PDFDoc, arg3 string, arg4 uint
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	swig_r = (bool)(C._wrap_TextSearch_Begin__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1169)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3)))
+	swig_r = (bool)(C._wrap_TextSearch_Begin__SWIG_2_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_1175)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -36390,7 +36408,7 @@ func (arg1 SwigcptrTextSearch) SetPattern(arg2 string) (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (bool)(C._wrap_TextSearch_SetPattern_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1170)(unsafe.Pointer(&_swig_i_1))))
+	swig_r = (bool)(C._wrap_TextSearch_SetPattern_pdftron_e64018f00020cc89(C.uintptr_t(_swig_i_0), *(*C.swig_type_1176)(unsafe.Pointer(&_swig_i_1))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -36582,7 +36600,7 @@ func NewRedaction__SWIG_0(arg1 int, arg2 Rect, arg3 bool, arg4 string) (_swig_re
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	swig_r = (Redaction)(SwigcptrRedaction(C._wrap_new_Redaction__SWIG_0_pdftron_e64018f00020cc89(C.swig_intgo(_swig_i_0), C.uintptr_t(_swig_i_1), C._Bool(_swig_i_2), *(*C.swig_type_1171)(unsafe.Pointer(&_swig_i_3)))))
+	swig_r = (Redaction)(SwigcptrRedaction(C._wrap_new_Redaction__SWIG_0_pdftron_e64018f00020cc89(C.swig_intgo(_swig_i_0), C.uintptr_t(_swig_i_1), C._Bool(_swig_i_2), *(*C.swig_type_1177)(unsafe.Pointer(&_swig_i_3)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg4
 	}
