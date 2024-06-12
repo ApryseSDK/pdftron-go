@@ -16,8 +16,6 @@
 package pdftron
 
 /*
-#cgo CXXFLAGS: -I"${SRCDIR}/shared_libs/unix_x86_64/Headers"
-#cgo LDFLAGS: -Wl,--disable-new-dtags -Wl,-rpath,"${SRCDIR}/shared_libs/unix_x86_64/Lib" -lpdftron -lPDFNetC -L"${SRCDIR}/shared_libs/unix_x86_64/Lib" -lstdc++
 #define intgo swig_intgo
 typedef void *swig_voidp;
 

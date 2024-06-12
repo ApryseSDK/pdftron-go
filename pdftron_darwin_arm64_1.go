@@ -14,8 +14,6 @@
 package pdftron
 
 /*
-#cgo CXXFLAGS: -I"${SRCDIR}/shared_libs/mac/Headers"
-#cgo LDFLAGS: -Wl,-rpath,"${SRCDIR}/shared_libs/mac/Lib/arm64/" -lpdftron -lPDFNetC -L"${SRCDIR}/shared_libs/mac/Lib/arm64/"
 #define intgo swig_intgo
 typedef void *swig_voidp;
 
