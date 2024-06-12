@@ -3149,6 +3149,7 @@ extern void _wrap_delete_DigestAlgorithm_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_0_pdftron_8ea3eda3eb0d8acd(void);
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_1_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_CMSSignatureOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern void _wrap_CMSSignatureOptions_AddTimestampToken_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_2_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_CMSSignatureOptions_m_impl_set_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_CMSSignatureOptions_m_impl_get_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
@@ -4940,6 +4941,7 @@ extern void _wrap_HTMLOutputOptions_SetConnectHyphens_pdftron_8ea3eda3eb0d8acd(u
 extern void _wrap_HTMLOutputOptions_SetDisableVerticalSplit_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetNoPageWidth_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetLanguage_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_HTMLOutputOptions_SetPreferredOCREngine_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_delete_HTMLOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern swig_intgo _wrap_e_wof_docx_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
@@ -4973,6 +4975,7 @@ extern swig_intgo _wrap_e_ocr_always_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd
 extern void _wrap_ExcelOutputOptions_SetSearchableImageSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_ExcelOutputOptions_SetNonTableContent_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_ExcelOutputOptions_SetSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
+extern void _wrap_ExcelOutputOptions_SetPageSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_delete_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_PowerPointOutputOptions_SetPages_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
@@ -29387,6 +29390,12 @@ func DeleteCMSSignatureOptions(arg1 CMSSignatureOptions) {
 	C._wrap_delete_CMSSignatureOptions_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0))
 }
 
+func (arg1 SwigcptrCMSSignatureOptions) AddTimestampToken(arg2 VectorUnChar) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_CMSSignatureOptions_AddTimestampToken_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
 func NewCMSSignatureOptions__SWIG_2(arg1 TRN_CMSSignatureOptions) (_swig_ret CMSSignatureOptions) {
 	var swig_r CMSSignatureOptions
 	_swig_i_0 := arg1.Swigcptr()
@@ -29428,6 +29437,7 @@ func (arg1 SwigcptrCMSSignatureOptions) GetM_impl() (_swig_ret TRN_CMSSignatureO
 type CMSSignatureOptions interface {
 	Swigcptr() uintptr
 	SwigIsCMSSignatureOptions()
+	AddTimestampToken(arg2 VectorUnChar)
 	SetM_impl(arg2 TRN_CMSSignatureOptions)
 	GetM_impl() (_swig_ret TRN_CMSSignatureOptions)
 }
