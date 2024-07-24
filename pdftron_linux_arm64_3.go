@@ -3149,6 +3149,7 @@ extern void _wrap_delete_DigestAlgorithm_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_0_pdftron_8ea3eda3eb0d8acd(void);
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_1_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_CMSSignatureOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern void _wrap_CMSSignatureOptions_AddTimestampToken_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_2_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_CMSSignatureOptions_m_impl_set_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_CMSSignatureOptions_m_impl_get_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
@@ -4589,6 +4590,8 @@ extern _Bool _wrap_OfficeToPDFOptions_GetApplyPageBreaksToSheet_pdftron_8ea3eda3
 extern uintptr_t _wrap_OfficeToPDFOptions_SetApplyPageBreaksToSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetDisplayChangeTracking_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetDisplayChangeTracking_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
+extern _Bool _wrap_OfficeToPDFOptions_GetDisplayComments_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetDisplayComments_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetDisplayHiddenText_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetDisplayHiddenText_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern double _wrap_OfficeToPDFOptions_GetExcelDefaultCellBorderWidth_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
@@ -4909,6 +4912,12 @@ extern swig_type_696 _wrap_OutputOptionsOCR_LanguageChoiceToString_pdftron_8ea3e
 extern swig_type_697 _wrap_OutputOptionsOCR_PreferredOCRChoiceToString_pdftron_8ea3eda3eb0d8acd(swig_intgo arg1);
 extern uintptr_t _wrap_new_OutputOptionsOCR_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_delete_OutputOptionsOCR_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_e_Recover_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
+extern swig_intgo _wrap_e_DoNotDetect_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
+extern swig_intgo _wrap_e_DetectAndRemove_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
+extern swig_intgo _wrap_StructuredOutputOptions_SectionConversionSettingFromOption_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern uintptr_t _wrap_new_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
+extern void _wrap_delete_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_HTMLOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_HTMLOutputOptions_SetPreferJPG_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetJPGQuality_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
@@ -4940,6 +4949,11 @@ extern void _wrap_HTMLOutputOptions_SetConnectHyphens_pdftron_8ea3eda3eb0d8acd(u
 extern void _wrap_HTMLOutputOptions_SetDisableVerticalSplit_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetNoPageWidth_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetLanguage_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_HTMLOutputOptions_SetPreferredOCREngine_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_HTMLOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_HTMLOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_HTMLOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_HTMLOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_HTMLOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern swig_intgo _wrap_e_wof_docx_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
@@ -4960,6 +4974,10 @@ extern void _wrap_WordOutputOptions_SetLanguage_pdftron_8ea3eda3eb0d8acd(uintptr
 extern void _wrap_WordOutputOptions_SetPreferredOCREngine_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_WordOutputOptions_SetCustomOCRLanguage_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_type_702 arg2);
 extern void _wrap_WordOutputOptions_SetPrioritizeVisualAppearance_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
+extern void _wrap_WordOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_WordOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_WordOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_WordOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_ExcelOutputOptions_SetPages_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
@@ -4973,6 +4991,11 @@ extern swig_intgo _wrap_e_ocr_always_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd
 extern void _wrap_ExcelOutputOptions_SetSearchableImageSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_ExcelOutputOptions_SetNonTableContent_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_ExcelOutputOptions_SetSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
+extern void _wrap_ExcelOutputOptions_SetPageSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
+extern void _wrap_ExcelOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_ExcelOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_ExcelOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_ExcelOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_PowerPointOutputOptions_SetPages_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
@@ -4984,6 +5007,10 @@ extern swig_intgo _wrap_e_ocr_text_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8
 extern swig_intgo _wrap_e_ocr_off_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern swig_intgo _wrap_e_ocr_always_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_PowerPointOutputOptions_SetSearchableImageSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_PowerPointOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_PowerPointOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_PowerPointOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_PowerPointOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_EPUBOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_EPUBOutputOptions_SetExpanded_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
@@ -37548,14 +37575,6 @@ func (p SwigcptrTRN_pdfrasterizer) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrExternalAnnotManager uintptr
-type ExternalAnnotManager interface {
-	Swigcptr() uintptr;
-}
-func (p SwigcptrExternalAnnotManager) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
 type SwigcptrTRN_elementreader uintptr
 type TRN_elementreader interface {
 	Swigcptr() uintptr;
@@ -37569,6 +37588,14 @@ type TRN_filterreader interface {
 	Swigcptr() uintptr;
 }
 func (p SwigcptrTRN_filterreader) Swigcptr() uintptr {
+	return uintptr(p)
+}
+
+type SwigcptrExternalAnnotManager uintptr
+type ExternalAnnotManager interface {
+	Swigcptr() uintptr;
+}
+func (p SwigcptrExternalAnnotManager) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
