@@ -14,8 +14,6 @@
 package pdftron
 
 /*
-#cgo CXXFLAGS: -I"${SRCDIR}/shared_libs/mac/Headers"
-#cgo LDFLAGS: -Wl,-rpath,"${SRCDIR}/shared_libs/mac/Lib/x86_64/" -lpdftron -lPDFNetC -L"${SRCDIR}/shared_libs/mac/Lib/x86_64/"
 #define intgo swig_intgo
 typedef void *swig_voidp;
 
@@ -3149,6 +3147,7 @@ extern void _wrap_delete_DigestAlgorithm_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_0_pdftron_8ea3eda3eb0d8acd(void);
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_1_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_CMSSignatureOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern void _wrap_CMSSignatureOptions_AddTimestampToken_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_2_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_CMSSignatureOptions_m_impl_set_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_CMSSignatureOptions_m_impl_get_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
@@ -4940,6 +4939,7 @@ extern void _wrap_HTMLOutputOptions_SetConnectHyphens_pdftron_8ea3eda3eb0d8acd(u
 extern void _wrap_HTMLOutputOptions_SetDisableVerticalSplit_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetNoPageWidth_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetLanguage_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_HTMLOutputOptions_SetPreferredOCREngine_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_delete_HTMLOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern swig_intgo _wrap_e_wof_docx_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
@@ -4973,6 +4973,7 @@ extern swig_intgo _wrap_e_ocr_always_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd
 extern void _wrap_ExcelOutputOptions_SetSearchableImageSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_ExcelOutputOptions_SetNonTableContent_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_ExcelOutputOptions_SetSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
+extern void _wrap_ExcelOutputOptions_SetPageSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_delete_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_PowerPointOutputOptions_SetPages_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
@@ -26691,6 +26692,12 @@ func (arg1 SwigcptrHTMLOutputOptions) SetLanguage(arg2 PdftronPDFOutputOptionsOC
 	C._wrap_HTMLOutputOptions_SetLanguage_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
+func (arg1 SwigcptrHTMLOutputOptions) SetPreferredOCREngine(arg2 PdftronPDFOutputOptionsOCRPreferredOCREngine) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_HTMLOutputOptions_SetPreferredOCREngine_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
 func DeleteHTMLOutputOptions(arg1 HTMLOutputOptions) {
 	_swig_i_0 := getSwigcptr(arg1)
 	C._wrap_delete_HTMLOutputOptions_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0))
@@ -26721,6 +26728,7 @@ type HTMLOutputOptions interface {
 	SetDisableVerticalSplit(arg2 bool)
 	SetNoPageWidth(arg2 bool)
 	SetLanguage(arg2 PdftronPDFOutputOptionsOCRLanguageChoice)
+	SetPreferredOCREngine(arg2 PdftronPDFOutputOptionsOCRPreferredOCREngine)
 }
 
 type SwigcptrWordOutputOptions uintptr
@@ -26975,6 +26983,12 @@ func (arg1 SwigcptrExcelOutputOptions) SetSingleSheet(arg2 bool) {
 	C._wrap_ExcelOutputOptions_SetSingleSheet_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))
 }
 
+func (arg1 SwigcptrExcelOutputOptions) SetPageSingleSheet(arg2 bool) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_ExcelOutputOptions_SetPageSingleSheet_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))
+}
+
 func DeleteExcelOutputOptions(arg1 ExcelOutputOptions) {
 	_swig_i_0 := getSwigcptr(arg1)
 	C._wrap_delete_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0))
@@ -26991,6 +27005,7 @@ type ExcelOutputOptions interface {
 	SetSearchableImageSetting(arg2 PdftronPDFExcelOutputOptionsSearchableImageSetting)
 	SetNonTableContent(arg2 bool)
 	SetSingleSheet(arg2 bool)
+	SetPageSingleSheet(arg2 bool)
 }
 
 type SwigcptrPowerPointOutputOptions uintptr

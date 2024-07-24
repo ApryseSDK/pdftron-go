@@ -15,8 +15,6 @@
 package pdftron
 
 /*
-#cgo CXXFLAGS: -I"${SRCDIR}/shared_libs/win/Headers"
-#cgo LDFLAGS: -lpdftron -lPDFNetC -L"${SRCDIR}/shared_libs/win/Lib" -lstdc++
 #define intgo swig_intgo
 typedef void *swig_voidp;
 
@@ -3148,6 +3146,7 @@ extern void _wrap_delete_DigestAlgorithm_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_0_pdftron_8ea3eda3eb0d8acd(void);
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_1_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_CMSSignatureOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern void _wrap_CMSSignatureOptions_AddTimestampToken_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_new_CMSSignatureOptions__SWIG_2_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_CMSSignatureOptions_m_impl_set_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, uintptr_t arg2);
 extern uintptr_t _wrap_CMSSignatureOptions_m_impl_get_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
@@ -4939,6 +4938,7 @@ extern void _wrap_HTMLOutputOptions_SetConnectHyphens_pdftron_8ea3eda3eb0d8acd(u
 extern void _wrap_HTMLOutputOptions_SetDisableVerticalSplit_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetNoPageWidth_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetLanguage_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_HTMLOutputOptions_SetPreferredOCREngine_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_delete_HTMLOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern swig_intgo _wrap_e_wof_docx_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
@@ -4972,6 +4972,7 @@ extern swig_intgo _wrap_e_ocr_always_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd
 extern void _wrap_ExcelOutputOptions_SetSearchableImageSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_ExcelOutputOptions_SetNonTableContent_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_ExcelOutputOptions_SetSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
+extern void _wrap_ExcelOutputOptions_SetPageSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_delete_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_PowerPointOutputOptions_SetPages_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
