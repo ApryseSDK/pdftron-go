@@ -14,6 +14,8 @@
 package pdftron
 
 /*
+
+
 #define intgo swig_intgo
 typedef void *swig_voidp;
 
@@ -4908,6 +4910,12 @@ extern swig_type_696 _wrap_OutputOptionsOCR_LanguageChoiceToString_pdftron_8ea3e
 extern swig_type_697 _wrap_OutputOptionsOCR_PreferredOCRChoiceToString_pdftron_8ea3eda3eb0d8acd(swig_intgo arg1);
 extern uintptr_t _wrap_new_OutputOptionsOCR_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_delete_OutputOptionsOCR_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_e_Recover_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
+extern swig_intgo _wrap_e_DoNotDetect_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
+extern swig_intgo _wrap_e_DetectAndRemove_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
+extern swig_intgo _wrap_StructuredOutputOptions_SectionConversionSettingFromOption_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern uintptr_t _wrap_new_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
+extern void _wrap_delete_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_HTMLOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_HTMLOutputOptions_SetPreferJPG_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetJPGQuality_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
@@ -4940,6 +4948,10 @@ extern void _wrap_HTMLOutputOptions_SetDisableVerticalSplit_pdftron_8ea3eda3eb0d
 extern void _wrap_HTMLOutputOptions_SetNoPageWidth_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_HTMLOutputOptions_SetLanguage_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_HTMLOutputOptions_SetPreferredOCREngine_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_HTMLOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_HTMLOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_HTMLOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_HTMLOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_HTMLOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern swig_intgo _wrap_e_wof_docx_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
@@ -4960,6 +4972,10 @@ extern void _wrap_WordOutputOptions_SetLanguage_pdftron_8ea3eda3eb0d8acd(uintptr
 extern void _wrap_WordOutputOptions_SetPreferredOCREngine_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
 extern void _wrap_WordOutputOptions_SetCustomOCRLanguage_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_type_702 arg2);
 extern void _wrap_WordOutputOptions_SetPrioritizeVisualAppearance_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
+extern void _wrap_WordOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_WordOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_WordOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_WordOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_ExcelOutputOptions_SetPages_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
@@ -4974,6 +4990,10 @@ extern void _wrap_ExcelOutputOptions_SetSearchableImageSetting_pdftron_8ea3eda3e
 extern void _wrap_ExcelOutputOptions_SetNonTableContent_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_ExcelOutputOptions_SetSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
 extern void _wrap_ExcelOutputOptions_SetPageSingleSheet_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
+extern void _wrap_ExcelOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_ExcelOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_ExcelOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_ExcelOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_PowerPointOutputOptions_SetPages_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
@@ -4985,6 +5005,10 @@ extern swig_intgo _wrap_e_ocr_text_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8
 extern swig_intgo _wrap_e_ocr_off_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern swig_intgo _wrap_e_ocr_always_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_PowerPointOutputOptions_SetSearchableImageSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_PowerPointOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_PowerPointOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_PowerPointOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
+extern swig_intgo _wrap_PowerPointOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern void _wrap_delete_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1);
 extern uintptr_t _wrap_new_EPUBOutputOptions_pdftron_8ea3eda3eb0d8acd(void);
 extern void _wrap_EPUBOutputOptions_SetExpanded_pdftron_8ea3eda3eb0d8acd(uintptr_t arg1, _Bool arg2);
@@ -9707,7 +9731,6 @@ import _ "runtime/cgo"
 
 
 type _ unsafe.Pointer
-
 type PdftronPDFAnnotType int
 func _swig_getAnnot_e_Text_Annot() (_swig_ret PdftronPDFAnnotType) {
 	var swig_r PdftronPDFAnnotType
@@ -26477,6 +26500,60 @@ type OutputOptionsOCR interface {
 	SwigIsOutputOptionsOCR()
 }
 
+type SwigcptrStructuredOutputOptions uintptr
+
+func (p SwigcptrStructuredOutputOptions) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrStructuredOutputOptions) SwigIsStructuredOutputOptions() {
+}
+
+type PdftronPDFStructuredOutputOptionsSectionConversionSetting int
+func _swig_getStructuredOutputOptions_e_Recover_StructuredOutputOptions() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_e_Recover_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd())
+	return swig_r
+}
+
+var StructuredOutputOptionsE_Recover PdftronPDFStructuredOutputOptionsSectionConversionSetting = _swig_getStructuredOutputOptions_e_Recover_StructuredOutputOptions()
+func _swig_getStructuredOutputOptions_e_DoNotDetect_StructuredOutputOptions() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_e_DoNotDetect_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd())
+	return swig_r
+}
+
+var StructuredOutputOptionsE_DoNotDetect PdftronPDFStructuredOutputOptionsSectionConversionSetting = _swig_getStructuredOutputOptions_e_DoNotDetect_StructuredOutputOptions()
+func _swig_getStructuredOutputOptions_e_DetectAndRemove_StructuredOutputOptions() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_e_DetectAndRemove_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd())
+	return swig_r
+}
+
+var StructuredOutputOptionsE_DetectAndRemove PdftronPDFStructuredOutputOptionsSectionConversionSetting = _swig_getStructuredOutputOptions_e_DetectAndRemove_StructuredOutputOptions()
+func StructuredOutputOptionsSectionConversionSettingFromOption(arg1 TRN_obj_) (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	_swig_i_0 := getSwigcptr(arg1)
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_StructuredOutputOptions_SectionConversionSettingFromOption_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func NewStructuredOutputOptions() (_swig_ret StructuredOutputOptions) {
+	var swig_r StructuredOutputOptions
+	swig_r = (StructuredOutputOptions)(SwigcptrStructuredOutputOptions(C._wrap_new_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd()))
+	return swig_r
+}
+
+func DeleteStructuredOutputOptions(arg1 StructuredOutputOptions) {
+	_swig_i_0 := getSwigcptr(arg1)
+	C._wrap_delete_StructuredOutputOptions_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0))
+}
+
+type StructuredOutputOptions interface {
+	Swigcptr() uintptr
+	SwigIsStructuredOutputOptions()
+}
+
 type SwigcptrHTMLOutputOptions uintptr
 
 func (p SwigcptrHTMLOutputOptions) Swigcptr() uintptr {
@@ -26698,6 +26775,32 @@ func (arg1 SwigcptrHTMLOutputOptions) SetPreferredOCREngine(arg2 PdftronPDFOutpu
 	C._wrap_HTMLOutputOptions_SetPreferredOCREngine_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
+func (arg1 SwigcptrHTMLOutputOptions) SetHeadersAndFootersSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_HTMLOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrHTMLOutputOptions) SetFootnotesSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_HTMLOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrHTMLOutputOptions) GetHeadersAndFootersSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	_swig_i_0 := arg1
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_HTMLOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrHTMLOutputOptions) GetFootnotesSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	_swig_i_0 := arg1
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_HTMLOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
 func DeleteHTMLOutputOptions(arg1 HTMLOutputOptions) {
 	_swig_i_0 := getSwigcptr(arg1)
 	C._wrap_delete_HTMLOutputOptions_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0))
@@ -26729,6 +26832,10 @@ type HTMLOutputOptions interface {
 	SetNoPageWidth(arg2 bool)
 	SetLanguage(arg2 PdftronPDFOutputOptionsOCRLanguageChoice)
 	SetPreferredOCREngine(arg2 PdftronPDFOutputOptionsOCRPreferredOCREngine)
+	SetHeadersAndFootersSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	SetFootnotesSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	GetHeadersAndFootersSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	GetFootnotesSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting)
 }
 
 type SwigcptrWordOutputOptions uintptr
@@ -26872,6 +26979,32 @@ func (arg1 SwigcptrWordOutputOptions) SetPrioritizeVisualAppearance(arg2 bool) {
 	C._wrap_WordOutputOptions_SetPrioritizeVisualAppearance_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))
 }
 
+func (arg1 SwigcptrWordOutputOptions) SetHeadersAndFootersSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_WordOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrWordOutputOptions) SetFootnotesSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_WordOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrWordOutputOptions) GetHeadersAndFootersSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	_swig_i_0 := arg1
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_WordOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrWordOutputOptions) GetFootnotesSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	_swig_i_0 := arg1
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_WordOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
 func DeleteWordOutputOptions(arg1 WordOutputOptions) {
 	_swig_i_0 := getSwigcptr(arg1)
 	C._wrap_delete_WordOutputOptions_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0))
@@ -26889,6 +27022,10 @@ type WordOutputOptions interface {
 	SetPreferredOCREngine(arg2 PdftronPDFOutputOptionsOCRPreferredOCREngine)
 	SetCustomOCRLanguage(arg2 string)
 	SetPrioritizeVisualAppearance(arg2 bool)
+	SetHeadersAndFootersSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	SetFootnotesSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	GetHeadersAndFootersSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	GetFootnotesSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting)
 }
 
 type SwigcptrExcelOutputOptions uintptr
@@ -26989,6 +27126,32 @@ func (arg1 SwigcptrExcelOutputOptions) SetPageSingleSheet(arg2 bool) {
 	C._wrap_ExcelOutputOptions_SetPageSingleSheet_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))
 }
 
+func (arg1 SwigcptrExcelOutputOptions) SetHeadersAndFootersSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_ExcelOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrExcelOutputOptions) SetFootnotesSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_ExcelOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrExcelOutputOptions) GetHeadersAndFootersSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	_swig_i_0 := arg1
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_ExcelOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrExcelOutputOptions) GetFootnotesSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	_swig_i_0 := arg1
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_ExcelOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
 func DeleteExcelOutputOptions(arg1 ExcelOutputOptions) {
 	_swig_i_0 := getSwigcptr(arg1)
 	C._wrap_delete_ExcelOutputOptions_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0))
@@ -27006,6 +27169,10 @@ type ExcelOutputOptions interface {
 	SetNonTableContent(arg2 bool)
 	SetSingleSheet(arg2 bool)
 	SetPageSingleSheet(arg2 bool)
+	SetHeadersAndFootersSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	SetFootnotesSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	GetHeadersAndFootersSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	GetFootnotesSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting)
 }
 
 type SwigcptrPowerPointOutputOptions uintptr
@@ -27088,6 +27255,32 @@ func (arg1 SwigcptrPowerPointOutputOptions) SetSearchableImageSetting(arg2 Pdftr
 	C._wrap_PowerPointOutputOptions_SetSearchableImageSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
+func (arg1 SwigcptrPowerPointOutputOptions) SetHeadersAndFootersSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_PowerPointOutputOptions_SetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrPowerPointOutputOptions) SetFootnotesSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_PowerPointOutputOptions_SetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrPowerPointOutputOptions) GetHeadersAndFootersSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	_swig_i_0 := arg1
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_PowerPointOutputOptions_GetHeadersAndFootersSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrPowerPointOutputOptions) GetFootnotesSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting) {
+	var swig_r PdftronPDFStructuredOutputOptionsSectionConversionSetting
+	_swig_i_0 := arg1
+	swig_r = (PdftronPDFStructuredOutputOptionsSectionConversionSetting)(C._wrap_PowerPointOutputOptions_GetFootnotesSetting_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
 func DeletePowerPointOutputOptions(arg1 PowerPointOutputOptions) {
 	_swig_i_0 := getSwigcptr(arg1)
 	C._wrap_delete_PowerPointOutputOptions_pdftron_8ea3eda3eb0d8acd(C.uintptr_t(_swig_i_0))
@@ -27102,6 +27295,10 @@ type PowerPointOutputOptions interface {
 	SetPreferredOCREngine(arg2 PdftronPDFOutputOptionsOCRPreferredOCREngine)
 	SetCustomOCRLanguage(arg2 string)
 	SetSearchableImageSetting(arg2 PdftronPDFPowerPointOutputOptionsSearchableImageSetting)
+	SetHeadersAndFootersSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	SetFootnotesSetting(arg2 PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	GetHeadersAndFootersSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting)
+	GetFootnotesSetting() (_swig_ret PdftronPDFStructuredOutputOptionsSectionConversionSetting)
 }
 
 type SwigcptrEPUBOutputOptions uintptr
