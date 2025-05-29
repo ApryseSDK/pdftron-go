@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------------------
-// Copyright (c) 2001-2024 by Apryse Software Inc. All Rights Reserved.
+// Copyright (c) 2001-2025 by Apryse Software Inc. All Rights Reserved.
 // Consult LICENSE.txt regarding license information.
 //---------------------------------------------------------------------------------------
 
@@ -122,12 +122,12 @@ func TestImageExtract(t *testing.T){
             // Process only images
             itr := obj.Find("Type")
             
-            if (!itr.HasNext()) || (itr.Value().GetName() != "XObject"){
+            if (!itr.HasCurrent()) || (itr.Value().GetName() != "XObject"){
                 i = i + 1
                 continue
             }
             itr = obj.Find("Subtype")
-            if (!itr.HasNext()) || (itr.Value().GetName() != "Image"){
+            if (!itr.HasCurrent()) || (itr.Value().GetName() != "Image"){
                 i = i + 1
                 continue
             }
