@@ -1,2 +1,2 @@
 Copyright 2025 Apryse Software Inc. All rights reserved.
-Apryse SDK or any derived works is only permitted in solutions with an active commercial Apryse WebViewer license. For exact licensing terms please refer to your commercial Apryse SDK license. For use in other scenarios, please contact sales@apryse.com
+Apryse SDK or any derived works is only permitted in solutions with an active commercial Apryse SDK license. For exact licensing terms please refer to your commercial Apryse SDK license. For use in other scenarios, please contact sales@apryse.com
