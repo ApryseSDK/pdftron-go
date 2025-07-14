@@ -1,0 +1,20 @@
+This project contains an open-source wrapper around a proprietary binary.
+
+The wrapper code is licensed under the MIT License (see LICENSE file).
+
+However, the underlying binares listed below are closed source and licensed separately. It is not covered by the MIT License and is subject to its own proprietary license terms.
+
+- libPDFNetC.dylib
+- libpdftron.dylib
+- libPDFNetC.so
+- libpdftron.so
+- PDFNetC.dll
+- pdftron.dll
+
+By using this project, you acknowledge that:
+
+- You must have a valid license for the binary component.
+- You may not redistribute, reverse-engineer, or modify the binary.
+- The binary is the intellectual property of Apryse Software Inc.
+
+Usage of the underlying binaries or any derived works is only permitted in solutions with an active commercial Apryse SDK license. For exact licensing terms please refer to your commercial Apryse SDK license. For use in other scenarios, please contact sales@apryse.com
