@@ -28,5 +28,5 @@ https://docs.apryse.com/core/guides/get-started/go/?platform=linux
 
 # Run PDFTron Go SDK in production
 
-A commercial license key is required for use in a production environment. Please <a href="https://apryse.com/pricing">contact us to purchase a commercial license</a> if you do not have a valid license key. 
+The wrapper code used for Golang is open source and covered by the MIT license we provide here, but the binaries included are subject to the copyright mentioned within the NOTICE file. A commercial license key is required for use in a production environment. Please <a href="https://apryse.com/pricing">contact us to purchase a commercial license</a> if you do not have a valid license key. 
 
