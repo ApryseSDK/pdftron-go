@@ -4649,6 +4649,9 @@ extern swig_intgo _wrap_e_off_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa(void);
 extern swig_intgo _wrap_e_annotations_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa(void);
 extern swig_intgo _wrap_e_no_speaker_notes_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa(void);
 extern swig_intgo _wrap_e_speaker_notes_annotations_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa(void);
+extern swig_intgo _wrap_e_update_all_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa(void);
+extern swig_intgo _wrap_e_update_none_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa(void);
+extern swig_intgo _wrap_e_update_doc_props_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa(void);
 extern uintptr_t _wrap_new_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa(void);
 extern void _wrap_delete_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa(uintptr_t arg1);
 extern _Bool _wrap_OfficeToPDFOptions_GetApplyPageBreaksToSheet_pdftron_a4fd88f545a1ddaa(uintptr_t arg1);
@@ -4657,6 +4660,8 @@ extern _Bool _wrap_OfficeToPDFOptions_GetDisplayChangeTracking_pdftron_a4fd88f54
 extern uintptr_t _wrap_OfficeToPDFOptions_SetDisplayChangeTracking_pdftron_a4fd88f545a1ddaa(uintptr_t arg1, _Bool arg2);
 extern swig_intgo _wrap_OfficeToPDFOptions_GetDisplayComments_pdftron_a4fd88f545a1ddaa(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetDisplayComments_pdftron_a4fd88f545a1ddaa(uintptr_t arg1, swig_intgo arg2);
+extern _Bool _wrap_OfficeToPDFOptions_GetDisplayHiddenCells_pdftron_a4fd88f545a1ddaa(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetDisplayHiddenCells_pdftron_a4fd88f545a1ddaa(uintptr_t arg1, _Bool arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetDisplayHiddenText_pdftron_a4fd88f545a1ddaa(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetDisplayHiddenText_pdftron_a4fd88f545a1ddaa(uintptr_t arg1, _Bool arg2);
 extern swig_intgo _wrap_OfficeToPDFOptions_GetDisplaySpeakerNotes_pdftron_a4fd88f545a1ddaa(uintptr_t arg1);
@@ -4691,6 +4696,8 @@ extern swig_type_579 _wrap_OfficeToPDFOptions_GetTemplateRightDelimiter_pdftron_
 extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateRightDelimiter_pdftron_a4fd88f545a1ddaa(uintptr_t arg1, swig_type_580 arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetTemplateStrictMode_pdftron_a4fd88f545a1ddaa(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetTemplateStrictMode_pdftron_a4fd88f545a1ddaa(uintptr_t arg1, _Bool arg2);
+extern swig_intgo _wrap_OfficeToPDFOptions_GetUpdateDynamicFields_pdftron_a4fd88f545a1ddaa(uintptr_t arg1);
+extern uintptr_t _wrap_OfficeToPDFOptions_SetUpdateDynamicFields_pdftron_a4fd88f545a1ddaa(uintptr_t arg1, swig_intgo arg2);
 extern _Bool _wrap_OfficeToPDFOptions_GetUpdateTableOfContents_pdftron_a4fd88f545a1ddaa(uintptr_t arg1);
 extern uintptr_t _wrap_OfficeToPDFOptions_SetUpdateTableOfContents_pdftron_a4fd88f545a1ddaa(uintptr_t arg1, _Bool arg2);
 extern swig_type_581 _wrap_OfficeToPDFOptions_GetFileExtension_pdftron_a4fd88f545a1ddaa(uintptr_t _swig_base);
@@ -23456,6 +23463,28 @@ func _swig_getOfficeToPDFOptions_e_speaker_notes_annotations_OfficeToPDFOptions(
 }
 
 var OfficeToPDFOptionsE_speaker_notes_annotations PdftronPDFOfficeToPDFOptionsDisplaySpeakerNotes = _swig_getOfficeToPDFOptions_e_speaker_notes_annotations_OfficeToPDFOptions()
+type PdftronPDFOfficeToPDFOptionsUpdateDynamicFields int
+func _swig_getOfficeToPDFOptions_e_update_all_OfficeToPDFOptions() (_swig_ret PdftronPDFOfficeToPDFOptionsUpdateDynamicFields) {
+	var swig_r PdftronPDFOfficeToPDFOptionsUpdateDynamicFields
+	swig_r = (PdftronPDFOfficeToPDFOptionsUpdateDynamicFields)(C._wrap_e_update_all_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa())
+	return swig_r
+}
+
+var OfficeToPDFOptionsE_update_all PdftronPDFOfficeToPDFOptionsUpdateDynamicFields = _swig_getOfficeToPDFOptions_e_update_all_OfficeToPDFOptions()
+func _swig_getOfficeToPDFOptions_e_update_none_OfficeToPDFOptions() (_swig_ret PdftronPDFOfficeToPDFOptionsUpdateDynamicFields) {
+	var swig_r PdftronPDFOfficeToPDFOptionsUpdateDynamicFields
+	swig_r = (PdftronPDFOfficeToPDFOptionsUpdateDynamicFields)(C._wrap_e_update_none_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa())
+	return swig_r
+}
+
+var OfficeToPDFOptionsE_update_none PdftronPDFOfficeToPDFOptionsUpdateDynamicFields = _swig_getOfficeToPDFOptions_e_update_none_OfficeToPDFOptions()
+func _swig_getOfficeToPDFOptions_e_update_doc_props_OfficeToPDFOptions() (_swig_ret PdftronPDFOfficeToPDFOptionsUpdateDynamicFields) {
+	var swig_r PdftronPDFOfficeToPDFOptionsUpdateDynamicFields
+	swig_r = (PdftronPDFOfficeToPDFOptionsUpdateDynamicFields)(C._wrap_e_update_doc_props_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa())
+	return swig_r
+}
+
+var OfficeToPDFOptionsE_update_doc_props PdftronPDFOfficeToPDFOptionsUpdateDynamicFields = _swig_getOfficeToPDFOptions_e_update_doc_props_OfficeToPDFOptions()
 func NewOfficeToPDFOptions() (_swig_ret OfficeToPDFOptions) {
 	var swig_r OfficeToPDFOptions
 	swig_r = (OfficeToPDFOptions)(SwigcptrOfficeToPDFOptions(C._wrap_new_OfficeToPDFOptions_pdftron_a4fd88f545a1ddaa()))
@@ -23509,6 +23538,21 @@ func (arg1 SwigcptrOfficeToPDFOptions) SetDisplayComments(arg2 PdftronPDFOfficeT
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	swig_r = (OfficeToPDFOptions)(SwigcptrOfficeToPDFOptions(C._wrap_OfficeToPDFOptions_SetDisplayComments_pdftron_a4fd88f545a1ddaa(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	return swig_r
+}
+
+func (arg1 SwigcptrOfficeToPDFOptions) GetDisplayHiddenCells() (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	swig_r = (bool)(C._wrap_OfficeToPDFOptions_GetDisplayHiddenCells_pdftron_a4fd88f545a1ddaa(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrOfficeToPDFOptions) SetDisplayHiddenCells(arg2 bool) (_swig_ret OfficeToPDFOptions) {
+	var swig_r OfficeToPDFOptions
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (OfficeToPDFOptions)(SwigcptrOfficeToPDFOptions(C._wrap_OfficeToPDFOptions_SetDisplayHiddenCells_pdftron_a4fd88f545a1ddaa(C.uintptr_t(_swig_i_0), C._Bool(_swig_i_1))))
 	return swig_r
 }
 
@@ -23799,6 +23843,21 @@ func (arg1 SwigcptrOfficeToPDFOptions) SetTemplateStrictMode(arg2 bool) (_swig_r
 	return swig_r
 }
 
+func (arg1 SwigcptrOfficeToPDFOptions) GetUpdateDynamicFields() (_swig_ret PdftronPDFOfficeToPDFOptionsUpdateDynamicFields) {
+	var swig_r PdftronPDFOfficeToPDFOptionsUpdateDynamicFields
+	_swig_i_0 := arg1
+	swig_r = (PdftronPDFOfficeToPDFOptionsUpdateDynamicFields)(C._wrap_OfficeToPDFOptions_GetUpdateDynamicFields_pdftron_a4fd88f545a1ddaa(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrOfficeToPDFOptions) SetUpdateDynamicFields(arg2 PdftronPDFOfficeToPDFOptionsUpdateDynamicFields) (_swig_ret OfficeToPDFOptions) {
+	var swig_r OfficeToPDFOptions
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (OfficeToPDFOptions)(SwigcptrOfficeToPDFOptions(C._wrap_OfficeToPDFOptions_SetUpdateDynamicFields_pdftron_a4fd88f545a1ddaa(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	return swig_r
+}
+
 func (arg1 SwigcptrOfficeToPDFOptions) GetUpdateTableOfContents() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
@@ -23866,6 +23925,8 @@ type OfficeToPDFOptions interface {
 	SetDisplayChangeTracking(arg2 bool) (_swig_ret OfficeToPDFOptions)
 	GetDisplayComments() (_swig_ret PdftronPDFOfficeToPDFOptionsDisplayComments)
 	SetDisplayComments(arg2 PdftronPDFOfficeToPDFOptionsDisplayComments) (_swig_ret OfficeToPDFOptions)
+	GetDisplayHiddenCells() (_swig_ret bool)
+	SetDisplayHiddenCells(arg2 bool) (_swig_ret OfficeToPDFOptions)
 	GetDisplayHiddenText() (_swig_ret bool)
 	SetDisplayHiddenText(arg2 bool) (_swig_ret OfficeToPDFOptions)
 	GetDisplaySpeakerNotes() (_swig_ret PdftronPDFOfficeToPDFOptionsDisplaySpeakerNotes)
@@ -23900,6 +23961,8 @@ type OfficeToPDFOptions interface {
 	SetTemplateRightDelimiter(arg2 string) (_swig_ret OfficeToPDFOptions)
 	GetTemplateStrictMode() (_swig_ret bool)
 	SetTemplateStrictMode(arg2 bool) (_swig_ret OfficeToPDFOptions)
+	GetUpdateDynamicFields() (_swig_ret PdftronPDFOfficeToPDFOptionsUpdateDynamicFields)
+	SetUpdateDynamicFields(arg2 PdftronPDFOfficeToPDFOptionsUpdateDynamicFields) (_swig_ret OfficeToPDFOptions)
 	GetUpdateTableOfContents() (_swig_ret bool)
 	SetUpdateTableOfContents(arg2 bool) (_swig_ret OfficeToPDFOptions)
 	GetFileExtension() (_swig_ret string)
