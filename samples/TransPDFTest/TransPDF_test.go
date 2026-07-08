@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------------------
-// Copyright (c) 2001-2025 by Apryse Software Inc. All Rights Reserved.
+// Copyright (c) 2001-2026 by Apryse Software Inc. All Rights Reserved.
 // Consult LICENSE.txt regarding license information.
 //---------------------------------------------------------------------------------------
 
@@ -64,6 +64,9 @@ func TestTransPDF(t *testing.T) {
 
     // Perform the translation using the pre-prepared translated xliff
     TransPDFApplyXLIFF(doc, inputPath + "find-replace-test_(en_to_fr).xlf", options)
+
+    // Comment out the above line and uncomment the below line to perform the translation using XLIFF 2.
+    // TransPDFApplyXLIFF(doc, inputPath + "find-replace-test_(en_to_fr)-2.xlf", options)
 
     // Save the translated PDF
     doc.Save(outputPath + "find-replace-test-fr.pdf", uint(SDFDocE_linearized))
