@@ -10501,6 +10501,7 @@ extern void _wrap_PDFNet_Initialize__SWIG_0_pdftron_46b249e29a21a627(swig_type_1
 extern void _wrap_PDFNet_Terminate__SWIG_0_pdftron_46b249e29a21a627(swig_intgo arg1);
 extern void _wrap_PDFNet_EnableJavaScript_pdftron_46b249e29a21a627(_Bool arg1);
 extern _Bool _wrap_PDFNet_IsJavaScriptEnabled_pdftron_46b249e29a21a627(void);
+extern void _wrap_PDFNet_SetJavaScriptTimeout_pdftron_46b249e29a21a627(swig_intgo arg1);
 extern _Bool _wrap_PDFNet_SetResourcesPath_pdftron_46b249e29a21a627(swig_type_1192 arg1);
 extern swig_type_1193 _wrap_PDFNet_GetResourcesPath_pdftron_46b249e29a21a627(void);
 extern void _wrap_PDFNet_AddResourceSearchPath_pdftron_46b249e29a21a627(swig_type_1194 arg1);
@@ -44431,6 +44432,11 @@ func PDFNetIsJavaScriptEnabled() (_swig_ret bool) {
 	var swig_r bool
 	swig_r = (bool)(C._wrap_PDFNet_IsJavaScriptEnabled_pdftron_46b249e29a21a627())
 	return swig_r
+}
+
+func PDFNetSetJavaScriptTimeout(arg1 uint) {
+	_swig_i_0 := arg1
+	C._wrap_PDFNet_SetJavaScriptTimeout_pdftron_46b249e29a21a627(C.swig_intgo(_swig_i_0))
 }
 
 func PDFNetSetResourcesPath(arg1 string) (_swig_ret bool) {
